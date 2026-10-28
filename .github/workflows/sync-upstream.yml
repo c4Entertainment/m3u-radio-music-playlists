@@ -1,0 +1,26 @@
+# Merge junguler/m3u-radio-music-playlists' main into this fork, on GitHub (no checkout:
+# the repository is about 2 GB). A conflict fails the run; merge it by hand in a clone.
+name: Sync from junguler
+
+on:
+  schedule:
+    - cron: "0 5 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  merge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Merge junguler's main
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          sha=$(gh api repos/junguler/m3u-radio-music-playlists/commits/main --jq .sha)
+          gh api -X PATCH "repos/${{ github.repository }}/git/refs/heads/upstream" -f sha="$sha" -F force=true --silent
+          echo "junguler main at ${sha:0:7}"
+          merged=$(gh api -X POST "repos/${{ github.repository }}/merges" -f base=main -f head=upstream \
+            -f commit_message="Merge junguler/m3u-radio-music-playlists main" --jq '.sha // ""')
+          if [ -n "$merged" ]; then echo "merged into main: ${merged:0:7}"; else echo "main already has it"; fi
