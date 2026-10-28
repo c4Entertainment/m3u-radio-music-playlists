@@ -2,7 +2,7 @@
 
 <table align="center">
 <tr>
-<td><img align="right" src="stuff/cat.gif"></td>
+<td><img align="right" src="stuff/cat2.gif"></td>
 </tr>
 </table>
 
@@ -14,6 +14,8 @@
 * [How to listen](https://github.com/junguler/m3u-radio-music-playlists?tab=readme-ov-file#how-to-listen)
 * [What are these genres names even mean?](https://github.com/junguler/m3u-radio-music-playlists?tab=readme-ov-file#what-are-these-genres-names-even-mean)
 * [Check for dead links without using code](https://github.com/junguler/m3u-radio-music-playlists?tab=readme-ov-file#check-for-dead-links-without-using-code)
+* [How to add metadata](https://github.com/junguler/m3u-radio-music-playlists?tab=readme-ov-file#how-to-add-metadata)
+* [Convert to and from different playlist formats](https://github.com/junguler/m3u-radio-music-playlists?tab=readme-ov-file#convert-to-and-from-different-playlist-formats)
 * [How to download from a station](https://github.com/junguler/m3u-radio-music-playlists?tab=readme-ov-file#how-to-download-from-a-station)
 * [How to download this repo](https://github.com/junguler/m3u-radio-music-playlists?tab=readme-ov-file#how-to-download-this-repo)
 * [Git stats](https://github.com/junguler/m3u-radio-music-playlists?tab=readme-ov-file#git-stats)
@@ -29,7 +31,7 @@
 
 <table align="center">
 <tr>
-<td><img align="right" src="stuff/dog.gif"></td>
+<td><img align="right" src="stuff/dog2.gif"></td>
 </tr>
 </table>
 
@@ -293,7 +295,12 @@ to listen to other m3u playlists in this repo click on the specific repo for eac
 <td><a href="https://github.com/junguler/listen_to_wavely_radio">wavely_radio</a></td>
 <td><a href="https://github.com/junguler/listen_to_world-s_radio">world-s_radio</a></td>
 <td><a href="https://github.com/junguler/listen_to_re-tune_fm">re-tune_fm</a></td>
-<!-- <td colspan="1"></td> -->
+</tr>
+<tr>
+<td><a href="https://github.com/junguler/listen_to_my.world_tuner">my.world_tuner</a></td>
+<td><a href="https://github.com/junguler/listen_to_cue_tree">cue_tree</a></td>
+<td><a href="https://github.com/junguler/listen_to_n-radio_box">n-radio_box</a></td>
+<td colspan="2"></td>
 </tr>
 </tbody></table>
 
@@ -331,7 +338,7 @@ note: i need to investigate players for other devices, i will update this sectio
 
 <table align="center">
 <tr>
-<td><img align="right" src="stuff/lion.gif"></td>
+<td><img align="right" src="stuff/lion2.gif"></td>
 </tr>
 </table>
 
@@ -373,9 +380,19 @@ note: this method does not give you the stream title (tho most streams broadcast
 
 <table align="center">
 <tr>
-<td><img align="right" src="stuff/zebra.gif"></td>
+<td><img align="right" src="stuff/zebra2.gif"></td>
 </tr>
 </table>
+
+<br>
+
+### How to add metadata
+these playlists lack file type (mp3, aac etc) and bitrate (128kb, 360kb etc) metadata, there are a few reasons for this, firstly i didn't know how to scrape them initially, secondly many websites don't expose these to scrape and finally i think they being there makes people skip "low quality" streams and miss out on potentially great radio stations, but that doesn't mean nobody wants them, so with the help of claude and chatgpt i've made a [m3u metadata embedder](https://junguler.github.io/M3U-Metadata-embedder/) page, it's set up in a very similar way to the m3u link checker and there is relative feature parity between them
+
+<br>
+
+### Convert to and from different playlist formats
+m3u playlists not working for you or your favorite player doesn't support it? with help from chatgpt i've made a [radio playlist converter](https://junguler.github.io/Radio-playlist-converter/) page that can convert these playlists to other formats (pls, xspf, wpl, asx, csv, json and plain text urls), you can also use this page to convert any playlist of these formats to m3u/m3u8
 
 <br>
 
@@ -417,7 +434,7 @@ this command can also be stopped using `ctrl + c` shortcut or the timeout comman
 
 <table align="center">
 <tr>
-<td><img align="right" src="stuff/rabbit.gif"></td>
+<td><img align="right" src="stuff/rabbit2.gif"></td>
 </tr>
 </table>
 
@@ -453,7 +470,7 @@ this command will download this stream `http://51.89.148.171:8022/stream/1/` for
 
 <table align="center">
 <tr>
-<td><img align="right" src="stuff/wolf.gif"></td>
+<td><img align="right" src="stuff/wolf2.gif"></td>
 </tr>
 </table>
 
@@ -478,7 +495,7 @@ download the [auto-generated zip file](https://github.com/junguler/m3u-radio-mus
 
 <table align="center">
 <tr>
-<td><img align="right" src="stuff/bear.gif"></td>
+<td><img align="right" src="stuff/bear2.gif"></td>
 </tr>
 </table>
 
@@ -498,7 +515,7 @@ since the traffic section of the insight tab is hidden to other viewers of this 
 
 <table align="center">
 <tr>
-<td><img align="right" src="stuff/monkey.gif"></td>
+<td><img align="right" src="stuff/monkey2.gif"></td>
 </tr>
 </table>
 
@@ -828,6 +845,21 @@ here is a list of websites i've scraped from already and included m3u streams fo
 <td><a href="https://github.com/junguler/m3u-radio-music-playlists/tree/main/re-tune_fm">/re-tune_fm</a></td>
 <td><a href="https://github.com/junguler/m3u-radio-music-playlists/blob/main/stuff/re-tune_fm.sh">re-tune_fm.sh</a></td>
 </tr>
+<tr>
+<td><a href="https://myworldtuner.com/">https://myworldtuner.com/</a></td>
+<td><a href="https://github.com/junguler/m3u-radio-music-playlists/tree/main/my.world_tuner">/my.world_tuner</a></td>
+<td><a href="https://github.com/junguler/m3u-radio-music-playlists/blob/main/stuff/my.world_tuner.sh">my.world_tuner.sh</a></td>
+</tr>
+<tr>
+<td><a href="https://www.q-3.eu/">https://www.q-3.eu/</a></td>
+<td><a href="https://github.com/junguler/m3u-radio-music-playlists/tree/main/cue_tree">/cue_tree</a></td>
+<td><a href="https://github.com/junguler/m3u-radio-music-playlists/blob/main/stuff/cue_tree.sh">cue_tree.sh</a></td>
+</tr>
+<tr>
+<td><a href="https://nradiobox.com/">https://nradiobox.com/</a></td>
+<td><a href="https://github.com/junguler/m3u-radio-music-playlists/tree/main/n-radio_box">/n-radio_box</a></td>
+<td><a href="https://github.com/junguler/m3u-radio-music-playlists/blob/main/stuff/n-radio_box.sh">n-radio_box.sh</a></td>
+</tr>
 </tbody></table>
 
 my future plans for this repo is to keep scraping online radio websites, if and when i found one or few that are easy enough for me to scrape or not overly complicated (websites that have a cipher system to hide stream link or use services like cloudflare to avoid being easily scraped)
@@ -836,7 +868,7 @@ my future plans for this repo is to keep scraping online radio websites, if and 
 
 <table align="center">
 <tr>
-<td><img align="right" src="stuff/panda.gif"></td>
+<td><img align="right" src="stuff/panda2.gif"></td>
 </tr>
 </table>
 
@@ -858,7 +890,7 @@ my future plans for this repo is to keep scraping online radio websites, if and 
 
 <table align="center">
 <tr>
-<td><img align="right" src="stuff/leopard.gif"></td>
+<td><img align="right" src="stuff/leopard2.gif"></td>
 </tr>
 </table>
 
@@ -879,7 +911,7 @@ my future plans for this repo is to keep scraping online radio websites, if and 
 
 <table align="center">
 <tr>
-<td><img align="right" src="stuff/horse.gif"></td>
+<td><img align="right" src="stuff/horse2.gif"></td>
 </tr>
 </table>
 
@@ -897,7 +929,7 @@ my future plans for this repo is to keep scraping online radio websites, if and 
 
 <table align="center">
 <tr>
-<td><img align="right" src="stuff/fox.gif"></td>
+<td><img align="right" src="stuff/fox2.gif"></td>
 </tr>
 </table>
 

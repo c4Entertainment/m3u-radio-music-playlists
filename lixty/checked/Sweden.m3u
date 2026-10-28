@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-northern-metal-radio-extreme-logo.jpg",Northern Metal Radio Extreme
 https://s2.free-shoutcast.com/stream/18092
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-vinyl-logo.jpg",Radio Vinyl
-https://live-bauerse-fm.sharp-stream.com/vinylfm_instream_se_aacp
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/guldkanalen-90-tal-588006-logo.jpg",Radio Guldkanalen 90-tal
 https://stream.dbmedia.se/gk90talMP3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/guldkanalen-80-tal-588007-logo.jpg",Radio Guldkanalen 80-tal
@@ -17,22 +15,24 @@ https://stream.dbmedia.se/gk70talMP3
 http://stream.dbmedia.se/dbkMP3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-radio-gagnef-logo.jpg",Radio Gagnef
 http://stream.ueteknik.se:8000/gagnef
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-dagnys-musikcafe-logo.jpg",Radio Dagnys Musikcafe
+https://ssl-streaming.nordblommedia.se/dagny.mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/mix-megapol-goteborg-567858-logo.jpg",Radio Mix Megapol Göteborg
 https://live-bauerse-fm.sharp-stream.com/mixmegapolgbg_instream_se_aacp
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nrj-sverige-567729-logo.jpg",Radio NRJ Sverige
-http://edge-bauerse-01-gos2.sharp-stream.com/nrj_instreamtest_se_mp3?
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/aftonbladet-webb-radio-567614-logo.jpg",Aftonbladet Webb - Radio
 https://wwwc.aftonbladet-cdn.se/special/radio/radiobrand/underqt.html
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/p2-567796-logo.jpg",Radio P2
 https://edge2.sr.se/p2-mp3-96
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/jenneboradio-620511-logo.jpg",Jenneboradio
 http://edge.mixlr.com/channel/atvcm
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/p5-sthlm-569964-logo.jpg",Radio P5 STHLM
+https://www.sverigesradio.se/reserv
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/sr-p6-r-sweden-576636-logo.jpg",Radio SR P6 R Sweden
-https://edge1.sr.se/p6-mp3-96
+https://edge2.sr.se/p6-mp3-96
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/go-fm-radio-goteborg-627169-logo.jpg",GO FM - Radio Göteborg
 http://stream.dbmedia.se/dbkjulMP3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-narmak-643834-logo.jpg",Radio Narmak
-http://das-edge17-live365-dal02.cdnstream.com/a99375
+http://das-edge93-live365-dal05.cdnstream.com/a99375
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/lite-fm-170907-logo.jpg",Radio Lite FM
 https://streaming.943.se/litefm
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/the-beat-567795-logo.jpg",Radio The Beat
@@ -77,10 +77,6 @@ https://streaming.943.se/radiope20
 http://stream.ueteknik.se:8000/live
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/country-rocks-radio-601743-logo.jpg",Country Rocks Radio
 http://stream.dbmedia.se/crrMP3
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-radiohits-logo.jpg",RadioHits
-https://stream4.rcast.net/71184
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-sotenas-568838-logo.jpg",Radio Sotenäs
-https://sc1.radiosotenas.se/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-radio-schweden-logo.jpg",Radio-Schweden
 https://radio-schweden.stream.laut.fm/radio-schweden
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-polarlicht-logo.jpg",Radio Polarlicht
@@ -95,16 +91,8 @@ https://play.radiorivendell.com/radio/8000/radio.mp3
 https://stream3.themediasite.co.uk:8030/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-the-weekend-radio-show-logo.jpg",The Weekend Radio Show
 http://13538.cloudrad.io:9324/live
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-rockklassiker-hardrock-logo.jpg",Radio Rockklassiker Hårdrock
-https://live-bauerse-fm.sharp-stream.com/rockklassiker_hardrock_aacp
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-puls-fm-varberg-logo.jpg",Radio Puls FM Varberg
 https://pulsfmvbg.radioca.st/stream
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-lugna-klassiker-logo.jpg",Radio Lugna Klassiker
-https://live-bauerse-fm.sharp-stream.com/lugnaklassiker_instream_se_aacp
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-nrj-fresh-logo.jpg",Radio NRJ Fresh
-https://live-bauerse-fm.sharp-stream.com/nrjfresh_web_se_aacp
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-mix-megapol-2-logo.jpg",Radio Mix Megapol 2
-https://live-bauerse-fm.sharp-stream.com/mixmegapol2_instream_se_mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-radio-nattsudd-logo.jpg",Radio Nattsudd
 https://listen.radioking.com/radio/405787/stream/458038
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-clubalicious-logo.jpg",Radio Clubalicious
@@ -118,9 +106,11 @@ https://streaming.shoutcast.com/skandinavian-albania-radio
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-nord-176540-logo.jpg",Radio Nord
 http://radio.tabyenskilda.se:8000/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/bozradio-648669-logo.jpg",BozRadio
-http://das-edge11-live365-dal03.cdnstream.com/a80252
+http://das-edge93-live365-dal05.cdnstream.com/a80252
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-gbg-158825-logo.jpg",Radio Gbg
 http://62.210.188.38:8050/relay
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fresh-fm-164817-logo.jpg",Radio Fresh FM
+http://stream.kennet.se/soAAC64
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/trafikradionse-592244-logo.jpg",Trafikradion.se
 http://www.gofm.se/sound/offair2.mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/mittradion-580886-logo.jpg",Mittradion

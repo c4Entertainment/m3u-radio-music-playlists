@@ -1,10 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/77894/logo_5Zf2tePABD.png",Pidgin Radio
-https://free.rcast.net/66702
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/77896/logo_qFHK9fYwrN.png",MAX 102.3 FM Radio
-https://audiohq.gridpapaservers.com:2000/system/proxy.php?unique_id=MAXLAGOS
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/77811/logo_wzs7Zdqh4e.png",Yabatech Radio
 https://stream.brainioustech.com/radio/8000/radio.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/78060/logo_vc3fY01bgX.png",Jatto 102.7 FM Radio
+http://procyon.shoutca.st:8158/
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/77939/logo_C5b3Wn5LSO.png",Afrobeat N1 FM Radio
 https://streamer.radio.co/s919e54210/listen
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/78009/logo_OiNIttYn4q.png",Christovibes Radio
@@ -21,8 +19,6 @@ https://boxradio-edge-00.streamafrica.net/naija
 https://stream.radio.co/s79798a252/listen
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/77732/logo_iXIEVrJUbX.png",Domi Radio
 http://radio.shoutcastmedia.net:8302/
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/78038/logo_UCQWH0mkd9.png",KCity Radio
-https://radio.gotright.net/radio/8010/radio.mp3
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/77922/logo_vtUzEMs3jP.png",Karis Radio
 https://visual.shoutca.st/stream/karis/stream//stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/77821/logo_cSFSUuXHUE.png",Fresh Waves Radio
@@ -33,32 +29,32 @@ https://a8.asurahosting.com:6690/radio.mp3
 https://radio.lagosjumpradio.com/listen/lagosjump_radio/radio.mp3
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/78041/logo_jtzDhkhUog.png",LivingWater Radio
 https://puma.streemlion.com:1795/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/77767/logo_KwyWQuP17n.png",Medal FM Ibadan Radio
+https://radio.sternhost.com:8100/radio.mp3
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/77935/logo_6iC4L1Xsfl.png",Antenna Web Abuja Radio
 https://halo.streamerr.co/listen/italiavera/stream.mp3
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/77725/logo_rtSjE7F9jw.png",Wazobia FM Radio
 https://wazobiafmabuja995-atunwadigital.streamguys1.com/wazobiafmabuja995?_=92328
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/78073/logo_80SqWqlv6n.png",Fad Fm 93.1 Radio
 https://radio.gotright.net/radio/8030/radio.mp3
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/77761/logo_eAl5BZSEfv.png",Koode Radio International
-http://hydra.shoutca.st:8151/
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/77755/logo_GFYmRpmL0z.png",Lagelu FM 96.7 Radio
 https://edge.mixlr.com/channel/wupzh
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/77929/logo_xDtmUaMMPR.png",Guts FM Ogun Radio
 https://a6.asurahosting.com:6580/radio.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/78048/logo_trKsj20wfj.png",Apostolic Flame Radio
+https://hoth.alonhosting.com:1695/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/77742/logo_ux5F4acKWR.png",Gospotainment Radio
 https://radio.gotright.net/radio/8000/radio.mp3
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/77937/logo_y0Hv4PuDwl.png",Mob Urban Radio
 https://s68.radiolize.com/radio/8020/radio.mp3
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/78004/logo_ChZSzPDHjo.png",Hope 91.3 FM Ilesa Radio
-https://radio.ifastekpanel.com:1400/stream
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/77777/logo_MtylOC8dQk.png",Pine FM Radio
-https://studio25.radiolize.com/radio/8130/radio.mp3
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/77874/logo_ZJCOJevb2Y.png",Solutions FM Radio
-http://95.211.178.215:8016/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/78028/logo_p2iOZjcMnN.png",Wazobia 93.7 FM Radio
+https://wazobiafmonitsha937-atunwadigital.streamguys1.com/wazobiafmonitsha937
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/78003/logo_tXpnQQuojG.png",Kids FM Radio
 https://kids1017fmlagos-atunwadigital.streamguys1.com/kids1017fmlagos
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/77871/logo_N9sPUFptRY.png",Praiseworld Radio
 https://streaming.radio.co/s7dc18f0ad/listen
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/77890/logo_tShQjBDOwy.png",Nigeria Info Radio
+https://nigeriainfofmlagos993-atunwadigital.streamguys1.com/nigeriainfofmlagos993
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/77743/logo_82ZT1mBvtz.png",Splash FM Ibadan Radio
 https://edge.mixlr.com/channel/cfeki
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/77744/logo_EQxPAUKZPp.png",Cool FM Radio
@@ -73,8 +69,6 @@ https://stream.voltsradio.com/listen/the_apostles_archives_radio/radio.mp3
 https://edge.mixlr.com/channel/zbfuy
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/77904/logo_eiwOf7AlnC.png",Innword Revival Now Radio
 https://edge.mixlr.com/channel/peweq
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/77869/logo_BtHKgGqxrV.png",Kaura Radio
-http://apollo.shoutca.st:8018/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/77968/logo_8yNzwsUCvb.png",Glorious Life Radio
 https://a6.asurahosting.com:7710/radio.mp3
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/77889/logo_znl0F9OTIK.png",Inspiration FM Radio
@@ -83,24 +77,18 @@ https://azstream.elektranbroadcast.com/listen/ifm923/radio.mp3
 https://agidigbostream.com.ng/radio/8000/radio.mp3
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/77925/logo_fr8idFNuOS.png",Jireh Online Gospel Radio
 https://jirehradio.out.airtime.pro/jirehradio_a
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/77881/logo_lVFuvFQ2UG.png",FineRadioCo
-https://fineradio.co/wp-content/uploads/2024/11/peenjas-spyers.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/77730/logo_t0uCgbmGXv.png",Magic FM Radio
+https://radio.ifastekpanel.com:1565/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/77740/logo_E68LdiGGwr.png",Cfaith Radio Network
 https://cfaith.radioca.st/stream/
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/77960/logo_nfEUaWCu3j.png",Positive Impact Radio
-https://radio.synservers.com:8134/stream?_=1
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/77997/logo_3dBiDT2KnS.png",Faaji106.5fm Lagos Radio
 https://servidor14-2.brlogic.com:7058/live?source=website
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/77966/logo_7ft7Yqfh9g.png",Urbanpop Radio
 https://c16.radioboss.fm:8466/stream
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/77814/logo_4ax6GHT0LC.png",CBI Radio
-https://ec4.yesstreaming.net:3325/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/77807/logo_IwKHdQxTD1.png",Preces Radio
 https://s4.radio.co/s522dfe16a/listen
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/77810/logo_1mPmGA7YsJ.png",Unilag Radio 103.1fm
 https://stream.voltsradio.com/listen/unilag_radio/radio.mp3
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/77943/logo_xsgtuPFYcA.png",Voice of the People 90.3FM Radio
-https://stream.brainioustech.com/listen/vop_lagos/radio.mp3
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/77726/logo_lbDT5hymec.png",Nigeria Info Radio
 https://nigeriainfofmabuja951-atunwadigital.streamguys1.com/nigeriainfofmabuja951
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/77737/logo_jnXAaQ7hvs.png",Wazobia FM Radio

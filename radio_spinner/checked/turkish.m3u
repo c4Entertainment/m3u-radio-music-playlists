@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/48609/logo_fplM9lEzn6.png",Süper 2 Fm Radio
-https://27823.live.streamtheworld.com/SUPER2128AAC.aac
+https://27943.live.streamtheworld.com/SUPER2128AAC.aac
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/48707/logo_nQwILFdd7s.png",Radyo gold
 https://ssl120.radyotelekom.com.tr/8340/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/48754/logo_1cSSw3cjCO.png",Radyo Arabesk
@@ -27,8 +27,6 @@ https://radyo.softradyo.com:1140/stream
 https://sslyayin.radyoyayini.com:7059/i
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/48756/logo_3mtp5XaD8K.png",Radyo Tutkal
 https://live.radyositesihazir.com/8034/stream
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/48699/logo_E8tBEQNLWm.png",Radyo Meydan
-https://live.sinirsizhost.com/8042/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/48564/logo_Ql6pYwXULw.png",Gri Balkon Radio
 https://gribalkon.radioca.st/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/81137/logo_YLLgQPE1wg.png",Yörük FM Radio
@@ -43,8 +41,6 @@ https://radyo70.80.yayin.com.tr/
 https://radyo.yayin.com.tr:5896/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/80616/logo_SvhmcHcHWZ.png",Asima-Online Radio
 https://asima.out.airtime.pro/asima_a
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/81141/logo_fEYSKBEbw1.png",Radyo Sohbet
-http://radyo.sohbetburada.com:9998/%2A.nsv
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/31642/logo_pX0GjyHtoJ.png",Metropol FM Radio
 https://162-19-223-151-a47d94.sfn.edge-ovh-de1.streams.radiosphere.io/516f5978-5ba0-4c2a-96ea-0998d59c47a5/channels/252cbd88-bbec-459e-a8ee-79392644dff2/stream.aac
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/48689/logo_nrT4WZaoLt.png",Aktif Radyo
@@ -85,14 +81,12 @@ https://25553.live.streamtheworld.com/KARADENIZ128AAC.aac
 https://yayin5.radyohizmeti.com:10795/stream.mp3
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/48631/logo_yl0lqaUnPl.png",Tutak FM Radio
 https://radyo1.radyo-dinle.tc/8078/stream
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/48568/logo_Emz7jECF6e.png",Radyo 11
-http://95.173.161.131:9832/%2A.nsv
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/28065/logo_vyOR0l5SNS.png",Metropol FM Radio
 https://162-19-223-151-a47d94.sfn.edge-ovh-de1.streams.radiosphere.io/516f5978-5ba0-4c2a-96ea-0998d59c47a5/channels/86312e01-3804-4e8b-8c6b-fb03a0d30313/stream.aac
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/48498/logo_p9FpSGWRN2.png",Haber Radyo
 https://sslyayin.radyoyayini.com/8014/stream/
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/28075/logo_4LOqfw4iyQ.png",Metropol FM - KEYF Radio
-https://metropolfm.streamabc.net/77_s3m0m3ic5ovy_hrit-mp3-256-8385555?sABC=6935s6r1%230%239557p15q6p30s523q6onp20q9rnsqqp1%23enqvbfcurer&aw_0_1st.playerid=radiosphere&amsparams=playerid:radiosphere;skey:1765144289
+https://metropolfm.streamabc.net/77_s3m0m3ic5ovy_hrit-mp3-256-8385555?sABC=6nqpqq33%230%234q5r51qp6348710q28749o9sqr88s571%23enqvbfcurer&aw_0_1st.playerid=radiosphere&amsparams=playerid:radiosphere;skey:1792859443
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/48765/logo_W5J3450ZvA.png",Azadi Fm Radio
 https://amed.ozelip.com/8040/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/48709/logo_4uiD5n7v1q.png",Kent Radyo 98.5
@@ -100,7 +94,7 @@ https://anadolu.liderhost.com.tr:10906/listen.pls?sid=1
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/48506/logo_3df5blNXlX.png",Radyo Gökçam
 http://radyo.turkuradyo.net:4591/stream.mp3
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/30508/logo_4bYDTKxofJ.png",Metropol FM Radio
-https://metropolfm.streamabc.net/77_8dsw7gc1qgz6_lc0t-mp3-256-6796112?sABC=6935s6r2%230%239557p15q6p30s523q6onp20q9rnsqqp1%23BayvarEnqvbObk&aw_0_1st.playerid=OnlineRadioBox&amsparams=playerid:OnlineRadioBox;skey:1765144290
+https://metropolfm.streamabc.net/77_8dsw7gc1qgz6_lc0t-mp3-256-6796112?sABC=6nqpqq33%230%234q5r51qp6348710q28749o9sqr88s571%23BayvarEnqvbObk&aw_0_1st.playerid=OnlineRadioBox&amsparams=playerid:OnlineRadioBox;skey:1792859443
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/48717/logo_qjRuPA7hYs.png",GurdekFm Radio
 https://anadolu.liderhost.com.tr/8112/stream.nsv
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/48529/logo_MKGLoE5P6n.png",A Haber Radyo
@@ -123,10 +117,6 @@ https://anadolu.liderhost.com.tr/7052/stream
 http://yayin.netyayin.net:2637/%2A.nsv
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/48503/logo_ljdfQv0REz.png",Turkuvaz Romantik Radio
 https://trkvz-radyolar.ercdn.net/turkuvazromantik/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/48511/logo_2Ga8bShE5F.png",Radyo Ritm
-http://radyo.yayin.com.tr:8091/
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/48624/logo_I87tf9JEcH.png",Efkar Radio
-https://27873.live.streamtheworld.com/EFKAR128AAC.aac
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/48485/logo_Ejt8d8YCT2.png",Ezgi Radyo
 https://sslyayin.netyayin.net/elazigezgiradyo/stream/
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/32084/logo_rmYR8h6RIB.png",Metropol FM - Arabesk Radio
@@ -143,30 +133,18 @@ https://uk2freenew.listen2myradio.com/live.mp3?typeportmount=s1_27614_stream_654
 http://yayin.arabeskfm.biz:8042/
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/48514/logo_vQIPbY245d.png",Radyo Kulüp
 https://radyo.yayin.com.tr:5894/stream.mp3
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/48488/logo_nMJcfwFW0l.png",Mercan FM Radio
-https://mercanfm.ozelip.com.tr:10975/stream&amptype=mp3
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/30519/logo_uVnpzcdycM.png",Metropol FM Meze Sofrası Radio
-https://metropolfm.streamabc.net/77-mfmalaturka-mp3-256-3697806?sABC=6935s6r3%230%239557p15q6p30s523q6onp20q9rnsqqp1%23BayvarEnqvbObk&aw_0_1st.playerid=OnlineRadioBox&amsparams=playerid:OnlineRadioBox;skey:1765144291
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/48768/logo_5SoEEhVByq.png",Radyo Tempo FM
 https://sslyayin.netyayin.net/tempo/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/28066/logo_96B18Gd3ZC.png",Metropol FM Radio
 https://162-19-223-151-a47d94.sfn.edge-ovh-de1.streams.radiosphere.io/516f5978-5ba0-4c2a-96ea-0998d59c47a5/channels/07cbd230-4fca-44a5-b147-aec94eb9e4e8/stream.aac
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/80113/logo_wnO9HSa0iy.png",Habaieb FM Radio
-http://188.166.95.19:8000/live_habaiebfm.mp3
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/48731/logo_TZ9IrFeg8v.png",Radyo Egenin Sesi
 https://dijimedya.radyotvonline.net/radyoegeninsesi
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/48684/logo_edmuydIbqV.png",Yunus FM Radio
-http://95.173.162.184:7350/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/48628/logo_0KBbz8zaq5.png",Pop90 Radio
-https://29103.live.streamtheworld.com/POP90128AAC.aac
+https://29333.live.streamtheworld.com/POP90128AAC.aac
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/48561/logo_1Or8LAONKZ.png",Turkuvaz Anadolu Radio
 https://trkvz-radyolar.ercdn.net/turkuvazanadolu/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44698/logo_WJ1GrLv81z.png",Hamsi FM Radio
 http://radyo.hamsi.fm:8050/stream
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/48500/logo_Q2zN8AozH0.png",Radyo Banko
-https://stream.netradyom.com/listen/radyobanko/radio.mp3
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/48615/logo_9XKoHiwGQL.png",Arabesk Damar Fm Radio
-https://arabeskdamarfm.kesintisizyayin.com/9306/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/48536/logo_oTBwPQr7HR.png",Radyo Sultan
 http://afyonradyosultan.ozelip.com:9920/stream/
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/31922/logo_ldwyY8XLR4.png",Metropol FM - Rock Radio
@@ -175,10 +153,16 @@ https://51-83-105-37-28ffe3.sfn.edge-ovh-gra5.streams.radiosphere.io/516f5978-5b
 http://dinle.slowkaradenizfm.com:9578/
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/81139/logo_SGnAQgigkL.png",Mutlu FM Radio
 http://mutlufm.canliyayinda.com:2828/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/48733/logo_kaGYJGDScl.png",Hazanyeli̇fm Radio
+https://ssl157.ozelip.com/asistan/stream/69d7ee43a30dfaa25576bdeabec9d040
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/48476/logo_HAtjCWJjSi.png",Radyo 13
+http://yayin1.yayindakiler.com:3050/stream/1/
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/28043/logo_7AnZeWElci.png",Metropol FM Radio
 https://57-129-32-195-8097a5.sfn.edge-ovh-de1.streams.radiosphere.io/516f5978-5ba0-4c2a-96ea-0998d59c47a5/channels/4c172503-c555-499e-8523-707f60fe39e2/stream.aac
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/48755/logo_pZGkkAmFhc.png",Radio KralTürk
 https://live.radyositesihazir.com/8032/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/48534/logo_uLOMMDU9Gs.png",Furkan Radyo
+https://radyo.yayindakiler.com:6191/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/48711/logo_oHVGJt2tM1.png",Radyo 8
 https://anadolu.liderhost.com.tr:10903/
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/32781/logo_8y4UbSisVc.png",Mamas FM - Türk sanat müziği Radio
@@ -189,8 +173,6 @@ http://radyomega.ozelip.com:8210/
 https://anadolu.liderhost.com.tr:10939/
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/48690/logo_uM4psBJSHG.png",Radyo Esenler
 https://yayin2.canliyayin.org:10978/
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/48471/logo_yugJuayN0K.png",Radyo Kent Polatli
-https://live.sinirsizhost.com/8024/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/48616/logo_UcCosk99Br.png",Mydonose Türk Radio
 https://23543.live.streamtheworld.com/JOY_TURK128AAC.aac?dist=https%3A%2F%2Fkarnaval.com%2Fradyolar%2Fmydonoseturk&amptdsdk=js-2.9&ampswm=false&amppname=TDSdk&amppversion=2.9&ampbanners=300x250&ampburst-time=15&ampsbmid=15190a79-8964-4789-db62-76ae1a9499c6
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/48678/logo_ApBw29R3bG.png",Radyo Talya
@@ -213,62 +195,60 @@ https://radiopur.com:5050/stream.mp3
 https://evrenselfm.ozelip.com.tr/9996/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/48382/logo_uqabiQoSQ9.png",GÖKSUN Fm Radio
 https://sslyayin.netyayin.net:10970/stream.mp3
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/48474/logo_H0EFRHwHxC.png",Botan FM Radio
-http://yayin1.canliyayin.org:8026/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/48672/logo_gb1XZp9tgR.png",Anadolu Fm Radio
+https://radyo.yayindakiler.com:8022//stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/31094/logo_05pAi5Rg8M.png",Frekans 1 Radio
 https://yayin5.radyohizmeti.com:10825/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/48683/logo_Km1HeVcjDo.png",Radyo Flaş
+http://yayin.yayindakiler.com:4096/stream.mp3
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/48673/logo_q6dv0WoJPe.png",Hamsi FM Radio
 https://anadolu.liderhost.com.tr/8028/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/51614/logo_yhd3xLlytS.png",Turk Beats Radio
 https://a9.asurahosting.com/listen/turk_beats_radio_/radio.mp3
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/48560/logo_xWdMiGUFRU.png",Demokrat FM Radio
-https://sonic.dcnet.com.tr/8078/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/48478/logo_KJ8Et0lQmc.png",General Fm Radio
 https://anadolu.liderhost.com.tr:10886/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/48720/logo_ahwcLgoBBY.png",Gebze FM Radio
 http://gebzefm.radyotvyayini.com:9530/type=mp3
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/48421/logo_dpT0aPMfbO.png",Radyo Hilal
-http://newserver.radyosfer.net:15130/stream%D0%BF
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/48698/logo_clKMZ4ZlUn.png",Radyo Cem 95.5 Mhz.
 https://erzincan.80.yayin.com.tr/stream/1/?icy=http
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/48487/logo_MHNPhk4qko.png",Radyo 16
 https://radyo.yayin.com.tr:6038/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/30507/logo_Abjj54k6Gj.png",Metropol FM Gold Slow Radio
-https://metropolfm.streamabc.net/77-mfmgeceexpresi-mp3-256-6525011?sABC=6935s6rn%230%239557p15q6p30s523q6onp20q9rnsqqp1%23BayvarEnqvbObk&aw_0_1st.playerid=OnlineRadioBox&amsparams=playerid:OnlineRadioBox;skey:1765144298
+https://metropolfm.streamabc.net/77-mfmgeceexpresi-mp3-256-6525011?sABC=6nqpqrr9%230%234q5r51qp6348710q28749o9sqr88s571%23BayvarEnqvbObk&aw_0_1st.playerid=OnlineRadioBox&amsparams=playerid:OnlineRadioBox;skey:1792859881
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/48608/logo_Bqc0sY09dQ.png",Radyo Home - Pop Home
 https://ssl4.radyotvonline.com/radyohome/pophome.stream_aac/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/48558/logo_RMn292WEvK.png",BamteliFM Radio
 https://radyoserver1.okeylisans.com:8234/
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/82027/logo_pnquv5W7up.png",Love Radio - Turkish
-https://nl4.mystreaming.net/uber/lrturkish/icecast.audio
+https://drive.uber.radio/uber/lrturkish/icecast.audio
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/48499/logo_8dqb5ZMG2S.png",Radyo Renk Fm
+https://radyo.yayindakiler.com:3016/renk
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/48890/logo_xwqE7DQJkm.png",Hatay Dost Fm Radio
 http://yayin.netyayin.net:1515/streype=.mp3
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/48621/logo_fQqj6gPa9x.png",Radyo Home - SlowHome
 https://ssl4.radyotvonline.com/radyohome/slowhome.stream_aac/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/31701/logo_T3QdVcvOxX.png",DamarFm Radio
-https://streaming.shoutcast.com/damarfm
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/48530/logo_YXFREh57dI.png",Bogazliyan  FM Radio
 https://radyo.radyoimza.com/8008/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/48525/logo_KCwyn479CR.png",Barış FM Radio
+https://barisfm.ozelip.com:9588/
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/48692/logo_ZC5jDkyAr7.png",Artı FM Radio
 https://ritim.80.yayin.com.tr/stream?/stream.mp3
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/32624/logo_uDNhJq8ALp.png",Mamas FM - Pop Radyosu
 https://radiopur.com:4550/stream.mp3
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/48439/logo_0XyDDToQGh.png",Yön Radyo Alaturka
 https://stream.radyolarburada.com/radio/8060/yonalaturca
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/48570/logo_NMsEqz1Ybv.png",Magic FM Radio
+http://yayin1.yayindakiler.com:3032/stream/1/
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/30558/logo_W7ehHT8tu8.png",Metropol FM 80 - 90 Radio
-https://metropolfm.streamabc.net/77-mfm90lar-mp3-256-4369060?sABC=6935s6ro%230%239557p15q6p30s523q6onp20q9rnsqqp1%23BayvarEnqvbObk&aw_0_1st.playerid=OnlineRadioBox&amsparams=playerid:OnlineRadioBox;skey:1765144299
+https://metropolfm.streamabc.net/77-mfm90lar-mp3-256-4369060?sABC=6nqpr0p0%230%234q5r51qp6348710q28749o9sqr88s571%23BayvarEnqvbObk&aw_0_1st.playerid=OnlineRadioBox&amsparams=playerid:OnlineRadioBox;skey:1792860352
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/27526/logo_OlmpPPPBAh.png",bigFM bigSES Radio
-https://audiotainment-sw.streamabc.net/atsw-turkey-mp3-128-6667895?sABC=6935s6ro%230%239557p15q6p30s523q6onp20q9rnsqqp1%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1765144299
+https://audiotainment-sw.streamabc.net/atsw-turkey-mp3-128-6667895?sABC=6nqpr0p0%230%234q5r51qp6348710q28749o9sqr88s571%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1792860352
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/48710/logo_zrwE2yvtB8.png",Radyo Şirin
 http://154.53.167.66:9570/mp3/1/?icy=http
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/48566/logo_rkbsjLlfkI.png",Radyo Türkiyem
-http://yayin.turkiletisim.com.tr:9207/stream.mp3
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/48540/logo_dgjMqi8ghh.png",Radyo Call Center
-http://radyo.yayin.com.tr:5926/
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/48502/logo_im1a88VSKP.png",Bilecik FM 99.9 Radio
 http://bilecikfm.kesintisizyayin.com:9980/
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/30692/logo_XdNbZMFqeT.png",Metropol FM Anadolun‘un Sesi Radio
-https://metropolfm.streamabc.net/77_u5n4eyva95gt_xmxw-mp3-256-2656521?sABC=6935s6rp%230%239557p15q6p30s523q6onp20q9rnsqqp1%23BayvarEnqvbObk&aw_0_1st.playerid=OnlineRadioBox&amsparams=playerid:OnlineRadioBox;skey:1765144300
+https://metropolfm.streamabc.net/77_u5n4eyva95gt_xmxw-mp3-256-2656521?sABC=6nqpr0p1%230%234q5r51qp6348710q28749o9sqr88s571%23BayvarEnqvbObk&aw_0_1st.playerid=OnlineRadioBox&amsparams=playerid:OnlineRadioBox;skey:1792860353
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/32555/logo_Ich6vdEzr6.png",Mamas FM - Arabesk Radyo
 https://radiopur.com:3550/stream.mp3
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/81134/logo_1Um70BHbfV.png",Radyo SU
@@ -296,4 +276,4 @@ http://37.247.98.8/stream/30/
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/30624/logo_TKDBhpIgIA.png",Münih Radyo
 https://yayin.munihradio.com/munih/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/29748/logo_HKVctO7A41.png",JAM FM Türk Radio
-https://rtlberlin.streamabc.net/rtlb-turk-mp3-192-5719410?sABC=6935s6rr%230%239557p15q6p30s523q6onp20q9rnsqqp1%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1765144302
+https://rtlberlin.streamabc.net/rtlb-turk-mp3-192-2135483?sABC=6nqpr0p3%230%234q5r51qp6348710q28749o9sqr88s571%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1792860355

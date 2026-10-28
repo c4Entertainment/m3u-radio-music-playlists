@@ -69,12 +69,6 @@ http://streams.calmradio.com:3128/stream
 http://icecast01.loudcaster.com:80/489.32.aac
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/frquence-india-radio-176632-logo.jpg",Fr?quence India Radio
 https://www.qwamplify.com/
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/retro-mix-107-9-181340-logo.jpg",Radio Retro Mix 107-9
-http://icecast01.loudcaster.com:80/24.24.aac
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/white-hawk-radio-181361-logo.jpg",White Hawk Radio
-http://icecast01.loudcaster.com:80/421.64.aac
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/centre-state-radio-181462-logo.jpg",Centre State Radio
-http://icecast01.loudcaster.com:80/411.32.aac
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/party-mix-radio-2012040925-182386-logo.jpg",Party Mix Radio / 201.204.0925
 http://icecast01.loudcaster.com:80/389.32.aac
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/accuradio-broadway-the-but-not-for-me-channel-576887-logo.jpg",AccuRadio Broadway: The 'But Not For Me' Channel

@@ -5,7 +5,5 @@ https://video.ibm.com/channel/live-iss-stream
 https://tv.cctv.com/live/cctv10/
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-4-brainport-635606-logo.jpg",Radio 4 Brainport
 http://server-66.stream-server.nl:8852/;
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tv-2000-577626-logo.jpg",Radio TV 2000
-https://www.tv2000.it/stream/?media=tv2000_live
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/the-ggr-588836-logo.jpg",Radio The GGR
 http://www.radiobash.com/streaming/tunein.php/thegeek1/playlist.pls

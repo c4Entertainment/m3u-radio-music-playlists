@@ -17,13 +17,13 @@ https://ec4.yesstreaming.net:1555/stream
 http://178.netromedia.com:8000/BreezeFM
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79976/logo_lU8LIurKmJ.png",Mphangwe FM radio 88.9
 https://ec4.yesstreaming.net:1925/stream
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79937/logo_mAQueR3lqi.png",Parliament Radio
-http://streamer.parliament.gov.zm:8063/
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79945/logo_lPAgsCRloo.png",5fm Radio Zambia
 http://ca9.rcast.net:8014/stream.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79943/logo_qIpXmbwvNr.png",iWave FM Radio
+https://s47.myradiostream.com:9934/listen.mp3?nocache=1792858881
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79952/logo_lPIzZAg9uQ.png",Spice FM Zambia Radio
 http://live.rcast.net:8768/
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79942/logo_hljpSczU83.png",Q FM Zambia Radio
 https://s3.myradiostream.com:7620/listen.mp3
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79939/logo_wigodBTID2.png",Radio Phoenix
-https://23623.live.streamtheworld.com/RADIO_PHOENIXAAC_SC
+https://25693.live.streamtheworld.com/RADIO_PHOENIXAAC_SC

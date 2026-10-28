@@ -11,6 +11,8 @@ https://stream.mmgmoldova.md:8443/lovefm
 https://radio1.dixi.md/listen/relax_contemporan/relaxcontemporan128.aac
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/md-radio-relax-randb-logo.jpg",Radio Relax R&B
 https://radio1.dixi.md/listen/relax_rnb/relaxrnb128.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/md-radio-dar-moldova-logo.jpg",Radio Dar Moldova
+http://188.138.191.214:8000/RadioDar
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/muz-fm-568552-logo.jpg",Radio MUZ FM
 https://live.muzfm.md/muzfm
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/md-hit-fm-2000s-hits-logo.jpg",Radio HIT FM 2000s HITS
@@ -29,6 +31,8 @@ https://radio1.dixi.md/listen/relax_funk_soul/relaxfunkandsoul128.aac
 https://live.kissfm.ro/kissfm.chisinau
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/hit-fm-568312-logo.jpg",Radio HIT FM
 https://stream.dixi.md:9443/HitFM
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/md-eco-fm-logo.jpg",Radio Eco FM
+http://188.138.204.98:8080/ecoFM
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/md-radio-zum-1-logo.jpg",Radio ZUM 1
 https://streams.radiozum.md/listen/zum1/ZUM1
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/md-radio-moldova-tineret-logo.jpg",Radio Moldova - Tineret
@@ -39,6 +43,8 @@ https://ssl.omegahost.ro/9998/stream
 https://radiolive.trm.md:8001/hls_rmm/muzical.m3u8
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/busuioc-tv-580917-logo.jpg",Radio Busuioc TV
 https://busuioctv.md/?option=com_contentu0026view%3Darticleu0026id%3D139u0026Itemid%3D133
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/moldova-1-586201-logo.jpg",Radio Moldova 1
+https://trm.md/
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/om-radio-156064-logo.jpg",OM Radio
 http://188.138.251.192:8002/;stream.nsv
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/md-hit-fm-tricolor-de-hituri-logo.jpg",Radio HIT FM Tricolor de Hituri
@@ -60,7 +66,7 @@ https://stream.mmgmoldova.md:8443/dancefm
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/md-radio-roks-moldova-logo.jpg",RADIO ROKS MOLDOVA
 https://stream.dixi.md:9443/Roks
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/md-master-class-fm-logo.jpg",Radio Master Class FM
-https://listen8.myradio24.com/master1
+https://listen2.myradio24.com/master1
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/md-record-80s-logo.jpg",Radio RECORD 80'S
 https://air.radiorecord.md/record80.aacp
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/md-record-big-hits-logo.jpg",Radio RECORD Big Hits

@@ -17,8 +17,6 @@ https://stream.dbmedia.se/gk70talMP3
 http://host.psyradio.fm:8010/;listen.mp3
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44639/logo_UgaPKQRy5l.jpg?v=20260529-media-restore",Psy Radio - Chillout
 http://host.psyradio.fm:8020/;listen.mp3
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44511/logo_lbx7wQpqpt.jpg?v=20260529-media-restore",Relax FM
-https://live-bauerse-fm.sharp-stream.com/relaxfm_se_mp3
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/102824/logo_PVdhC223Ay.jpg?v=20260529-media-restore",Ambient
 https://tower.hayva.ru/79als-96
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44659/logo_5J5kU1QvCV.jpg?v=20260529-media-restore",Country Rocks Radio
@@ -59,8 +57,6 @@ https://s47.myradiostream.com:12196/listen.m4a
 https://live-bauerse-fm.sharp-stream.com/lugnaklassiker_instream_se_aacp
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44474/logo_tBP12ZV0Qe.jpg?v=20260529-media-restore",Dansbandskanalen Julmusik
 https://stream.dbmedia.se/dbkjulMP3
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44644/logo_YtdzAbHyn5.jpg?v=20260529-media-restore",RadioHits
-https://stream3.rcast.net/71184
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44485/logo_cUCEjJQbJT.jpg?v=20260529-media-restore",Retro FM Skåne
 https://live-bauerse-fm.sharp-stream.com/retrofm_aacp
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44647/logo_GQve8kCbvO.jpg?v=20260529-media-restore",Radio Topp 40 Bara Hits
@@ -71,16 +67,12 @@ https://stream3.themediasite.co.uk:8030/stream
 https://polarlicht.stream.laut.fm/polarlicht
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44576/logo_jnqiusMHBd.jpg?v=20260529-media-restore",Pirate Rock
 https://stream.piraterock.se:8100/webradio
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44646/logo_4yUGyapA2t.jpg?v=20260529-media-restore",Gold
-http://goldfm.nu:8082/goldfm_mp3
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44668/logo_1DvpyNYiyU.jpg?v=20260529-media-restore",Radio Viking
 https://stream.rcs.revma.com/qp6w2wzrruhvv
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44581/logo_0KbjFs3Mtl.jpg?v=20260529-media-restore",Radio Gbg LAGANINI
 https://stream.radiogbg.se:8050/relay3
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44674/logo_SZTCDKLUlc.jpg?v=20260529-media-restore",Puls FM Borås
 http://stream.pulsfm.se:8908/stream/1/
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44509/logo_83ZF1OOMz7.jpg?v=20260529-media-restore",Mix Megapol 2
-https://live-bauerse-fm.sharp-stream.com/mixmegapol2_instream_se_mp3
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44523/logo_kP9ws2gfM0.jpg?v=20260529-media-restore",Radio Nattsudd
 https://listen.radioking.com/radio/405787/stream/458038
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44591/logo_XKKIQvU4W7.jpg?v=20260529-media-restore",Radio Avesta
@@ -89,8 +81,6 @@ http://test.radioavesta.se:8000/
 https://lyssna.bananradion.se/listen/bananradion/128aac
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44613/logo_FYA3apoDlT.jpg?v=20260529-media-restore",Strul FM
 http://s1.streamaudio.de:8000/strul-fm
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44544/logo_LUEuNCaoJt.jpg?v=20260529-media-restore",Vinyl
-https://live-bauerse-fm.sharp-stream.com/vinylfm_instream_se_aacp
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44626/logo_iWCmE0HcBa.jpg?v=20260529-media-restore",Radio Krokom
 http://radiokrokom.ddns.net/
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44568/logo_gzTlraLS7f.jpg?v=20260529-media-restore",Radio Treby
@@ -104,12 +94,9 @@ https://mars.streamerr.co/8074/mixmusicradiosweden
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44655/logo_ObJwagQah7.jpg?v=20260529-media-restore",Nonstop Casiopea
 http://hyades.shoutca.st:8551/stream
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44572/logo_9WLiIuORgh.jpg?v=20260529-media-restore",P4 Gotland
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44528/logo_sGak6Bkv7R.jpg?v=20260529-media-restore",Scandinavian Albania Radio
-https://streaming.shoutcast.com/skandinavian-albania-radio
+https://ljud1-cdn.sr.se/lc/p4gotl.m3u8
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44671/logo_aDhRpVHwrb.jpg?v=20260529-media-restore",Radio Sotenäs
 https://sc1.radiosotenas.se/
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44685/logo_TKn03JW3vp.jpg?v=20260529-media-restore",NRJ Fresh
-https://live-bauerse-fm.sharp-stream.com/nrjfresh_web_se_aacp
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44582/logo_eRfoQU0Plk.jpg?v=20260529-media-restore",Soulfood Radio
 https://soulfood.stream.laut.fm/soulfood
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44579/logo_uCV1vIzKJK.jpg?v=20260529-media-restore",True Life in God Radio Swedish
@@ -148,12 +135,8 @@ https://soundicradio.radioca.st/stream
 https://live-bauerse-fm.sharp-stream.com/radioactive_aac
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44654/logo_qpp0XsrKcH.jpg?v=20260529-media-restore",Radio-Schweden
 https://radio-schweden.stream.laut.fm/radio-schweden
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44508/logo_ahjkckpyii.jpg?v=20260529-media-restore",Feel Good Hits
-https://live-bauerse-fm.sharp-stream.com/radiodisney_instream_se_aacp
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44653/logo_SzqU1kD6s0.jpg?v=20260529-media-restore",Pop och Rock
 http://stream.ueteknik.se:8000/poporock
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44665/logo_st3HeGtHMl.jpg?v=20260529-media-restore",Radio Payam
-https://streaming.shoutcast.com/radio-payam-gbg
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44564/logo_gmxevcyGt7.jpg?v=20260529-media-restore",ROCKSTAR
 https://sstream.ueteknik.se/listen/poporock/radio.mp3
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44664/logo_Jsp6ncVJpb.jpg?v=20260529-media-restore",Tyresöradion
@@ -168,6 +151,8 @@ http://stream.ueteknik.se:8000/live
 http://rssand.se:4027/;;
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44507/logo_dd7Ad0sY6j.jpg?v=20260529-media-restore",We Rock FM
 https://s2.citrus3.com:8214/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44539/logo_ZVmKJEqBrP.jpg?v=20260529-media-restore",Dagnys Musikcafe
+https://ssl-streaming.nordblommedia.se/dagny.mp3
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44480/logo_wzuqhCqVXk.jpg?v=20260529-media-restore",Radio Gagnef
 http://stream.ueteknik.se:8000/gagnef
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44649/logo_99F00UshYe.jpg?v=20260529-media-restore",SR P2
@@ -175,6 +160,7 @@ https://ljud2-cdn.sr.se/lc/p2/p2_320.pls
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44489/logo_daeLgnuqTC.jpg?v=20260529-media-restore",Radio Treby
 https://streaming.943.se/treby924
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44493/logo_AbBI35nCA4.jpg?v=20260529-media-restore",P4 Södertälje
+https://ljud1-cdn.sr.se/lc/p4gotl.m3u8
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44494/logo_Eoyvvd7gUK.jpg?v=20260529-media-restore",Radio Treby
 https://streaming.943.se/treby958
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44527/logo_DjgEnfoSgi.jpg?v=20260529-media-restore",iptn live
@@ -183,8 +169,12 @@ https://stream2.svrdedicado.org:7252/stream
 https://streaming.943.se/treby1016
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44673/logo_61qnyewGEN.jpg?v=20260529-media-restore",Radio Soderhamn
 http://80.245.225.101:8000/;stream.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44678/logo_rwIQIxys49.jpg?v=20260529-media-restore",ICPRM RADIO Sweden
+http://stream-178.surfernetwork.com/kybydz65sfeuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJreWJ5ZHo2NXNmZXV2IiwiaG9zdCI6InN0cmVhbS0xNzguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IjNGSFRsMkRJVEZlMkJwOEMxZm50UUEiLCJpYXQiOjE3OTI3NjUxNDksImV4cCI6MTc5Mjc2NTIwOX0.WjTO5IlYqLN2LMulBEtrX9xrNzKsHG7twFQ7cWmoqH8
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44623/logo_8GxsBbTdQE.jpg?v=20260529-media-restore",SR Finska
+https://ljud2-cdn.sr.se/lc/p2/p2_320.pls
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44681/logo_NtZXMRtR24.jpg?v=20260529-media-restore",P4 Västmanland
+https://ljud2-cdn.sr.se/lc/p2/p2_320.pls
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44524/logo_upfIUjLNGB.jpg?v=20260529-media-restore",Popradio Stockholm
 https://popradiostream.se/streamIn
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1004723/logo_euEi5SQODb.jpg?v=20260529-media-restore",SR P2 Språk och musik

@@ -14627,3 +14627,53 @@ http://f131.rndfnk.com/ard/rbb/radioeins/live/mp3/128/stream.mp3?cid=01FC1WH12KJ
 http://live.humorfm.by:8000/veseloeradio
 #EXTINF:-1 tvg-logo="https://img.nrj.fr/Y-x38oL-dyNXq0MhdE2FzUgTXpY=/medias%2F2026%2F03%2Fei2jxbcm7ebyte0efkvlybygdchrg5omxobmyguooom_69c4ff9f46f28.jpg",Rire et Chansons
 https://streaming.nrjaudio.fm/ou8o8xgk7oiu?origine=fluxradios
+#EXTINF:-1,BBC Radio 4 (128k)
+https://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d128000.norewind.m3u8
+#EXTINF:-1,BBC Radio 4 Extra (128k)
+https://as-hls-ww-live.akamaized.net/pool_26173715/live/ww/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio%3d128000.norewind.m3u8
+#EXTINF:-1,Rire et Chansons Canulars
+https://streaming.nrjaudio.fm/ouwgjmsk6j4d?aw_0_1st.station=Rire-Chansons-CANULARS
+#EXTINF:-1,KENYA1 FM
+https://as-hls-ww-live.akamaized.net/pool_26173715/live/ww/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio=320000.norewind.m3u8
+#EXTINF:-1,COMEDY ONLINE RADIO | COMEDY RADIO
+https://pub0102.101.ru:8443/stream/air/aac/64/202
+#EXTINF:-1,COMEDY ONLINE RADIO | COMEDY RADIO2
+https://pub0302.101.ru:8443/stream/air/aac/64/202
+#EXTINF:-1,COMEDY ONLINE RADIO | TAMIL COMEDY RADIO
+https://psrlive2.listenon.in/tacom
+#EXTINF:-1,COMEDY ONLINE RADIO | FRANKEN SPASS RADIO
+https://frankenspassradio.stream.laut.fm/frankenspassradio
+#EXTINF:-1,AI Slop Radio
+https://stream.dulcet.cloud/slop
+#EXTINF:-1,Britcom 4
+https://cast2.asurahosting.com/proxy/britcom4/stream.mp3
+#EXTINF:-1,dealership radio
+https://radio-server.dship.biz/listen/dealership_radio/radio.mp3
+#EXTINF:-1,EsAuRiRaDiO
+https://onair7.xdevel.com/proxy/xautocloud_cnou_1049?mp=/;stream/;
+#EXTINF:-1,GoA World
+https://s22.myradiostream.com/15152/listen.mp3
+#EXTINF:-1,Okay - La Radio
+https://listen.radioking.com/radio/694748/stream/759587
+#EXTINF:-1,Prank Circuit Radio
+https://azuracast.prankcircuit.net/listen/prank_circuit_radio/stream.mp3
+#EXTINF:-1,Radio Verdinha 92.5
+https://5a1c76baf08c0.streamlock.net/z18-live/stream/chunklist_w1729115384.m3u8
+#EXTINF:-1,Rire et Chansons Sketches
+https://streaming.nrjaudio.fm/ou8oqegk7oiu?aw_0_1st.station=Rire-Chansons-SKETCHES&origine=mytuner
+#EXTINF:-1,SexFM
+https://api.potat.bot/api/hls/live.m3u8
+#EXTINF:-1,WDR2 Aachen und Region
+https://wdr-radio.ard-mcdn.de/wdr/radio/wdr2ac/hls/master.m3u8
+#EXTINF:-1,WDR2 Bergisches Land
+https://wdr-radio.ard-mcdn.de/wdr/radio/wdr2bld/hls/master.m3u8
+#EXTINF:-1,WDR2 Ostwestfalen-Lippe
+https://wdr-radio.ard-mcdn.de/wdr/radio/wdr2owl/hls/master.m3u8
+#EXTINF:-1,WDR2 Rhein und Ruhr
+https://wdr-radio.ard-mcdn.de/wdr/radio/wdr2rr/hls/master.m3u8
+#EXTINF:-1,WDR2 Rheinland
+https://wdr-radio.ard-mcdn.de/wdr/radio/wdr2rhld/hls/master.m3u8
+#EXTINF:-1,WDR2 Südwestfalen
+https://wdr-radio.ard-mcdn.de/wdr/radio/wdr2swf/hls/master.m3u8
+#EXTINF:-1,WDR5
+https://wdr-radio.ard-mcdn.de/wdr/radio/wdr5/hls/master.m3u8

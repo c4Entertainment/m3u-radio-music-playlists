@@ -3,8 +3,6 @@
 https://nashe1.hostingradio.ru/rock-256
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/103168/logo_oYjcnT1vmp.png",Радио Блатняк - 101.ru
 https://srv02.gpmradio.ru:8443/stream/personal/aacp/64/675938
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/103014/logo_RUVtJI95tD.png",СССР 50-70 - 101.RU Radio
-https://pub0202.101.ru:8443/stream/pro/aac/64/47
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/103118/logo_1a2UwJGNJB.png",Зайцев FM Шансон Radio
 https://abs.zaycev.fm/shanson256k
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/360/logo_qS4DPE5Sfd.png",Золотой Граммофон - Русское Радио
@@ -37,44 +35,6 @@ https://listen5.myradio24.com/ataman
 https://stream.newradio.md/hls/stream.m3u8?nocache=1762696725859
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/53934/logo_xkSu8kMosJ.png",Руки Вверх! - Радио Рекорд
 https://radiorecord.hostingradio.ru/rv96.aacp
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/371/logo_IEwMxJgPtz.png",Русские Каверы - Русское Радио
-https://rr-covers.hostingradio.ru/rrcovers96.aacp
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/263/logo_1vJZbrqJAR.png",Русский Рок - Русское Радио
-https://rr-russkijrok.hostingradio.ru/russkijrok96.aacp
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/244/logo_nKdaxunDyS.png",DFM Кальян Рэп Radio
-https://dfm-kalianrap.hostingradio.ru/kalianrap96.aacp
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/103154/logo_KMKR0Bxcst.png",СССР 30-50 - 101.ru Radio
-https://pub0202.101.ru:8443/stream/pro/aac/64/46
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/366/logo_Ocqx7O8oC9.png",Твоя Москва - Русское Радио
-https://rr-moscow.hostingradio.ru/rrmoscow96.aacp
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/102079/logo_clPOyXNg1L.png",Shanson USA Radio
-http://usa7.fastcast4u.com:5949/
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/103122/logo_DaLNB1UdG8.png",Rock Hits - Радио Maximum
-https://rockhits.hostingradio.ru/rockhits96.aacp
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/372/logo_6LcmbxEWDb.png",Хайповые Двадцатые - Русское Радио
-https://rr-20.hostingradio.ru/rr2096.aacp
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/188/logo_NXbEihQdjd.png",Хит FM Русская Музыка Radio
-https://hitfm-hitrushit.hostingradio.ru/hitrushit96.aacp
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/53956/logo_l2kNW8sGdL.png",На шашлыки - Радио Рекорд
-https://radiorecord.hostingradio.ru/nashashlyki96.aacp
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/102956/logo_ktMdeCBxCG.png",Местное радио
-https://listen1.myradio24.com/3355
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/102984/logo_GGoVc2feg8.png",Радио Вечность
-https://a2.radioheart.ru:9040/RadioVechnost
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/220/logo_dXuI1h76a4.png",Радио Родных Дорог
-https://stream1.radiord.ru:8000/live128.mp3
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/139/logo_B9wE2nvJ4O.png",Русская Волна Radio
-https://ru1.amgradio.ru/RuWave48
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/103142/logo_fK9cAc1ths.png",Rap - Зайцев.FM Radio
-https://abs.zaycev.fm/rap256k
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/376/logo_akEyTuWQkm.png",Зимнее Любимое - Русское Радио
-https://rr-zimlub.hostingradio.ru/zimlub96.aacp
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/96754/logo_MMQsLCOotW.png",RadioSlot: Special Events 1
-https://17653.live.streamtheworld.com/SP_R2398921_SC
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/96122/logo_g16RqQkZGn.png",Радио «Русская реклама»
-https://securestreams5.autopo.st:1844/stream
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/103127/logo_l8aTF6cBEb.png",Радио Первое Сетевое
-https://streamer.radiovseti.ru:8000/320
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/103068/logo_3YDHNRXg95.png",Радио СВ
 https://a8.radioheart.ru:9026/RH75315
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/88839/logo_bl15dVOVfw.png",Radio Nova Toronto
@@ -82,19 +42,15 @@ https://streams.radio.co/s1ae1175cf/listen
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/375/logo_7klBphwEJe.png",Советская Классика - Русское Радио
 https://rr-sovclass.hostingradio.ru/sovclass96.aacp
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/28709/logo_zzhToKT2IR.png",JAM FM Russkiye Khity Radio
-https://rtlberlin.streamabc.net/rtlb-jamfmlive-mp3-192-2163760?sABC=6935s557%230%239557p15q6p30s523q6onp20q9rnsqqp1%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1765143895
+https://rtlberlin.streamabc.net/rtlb-jamfmlive-mp3-192-2163760?sABC=6nqpqpq3%230%234q5r51qp6348710q28749o9sqr88s571%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1792859347
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/143/logo_YdgtYz3b5P.png",Русское FM Radio
 https://rufm.amgradio.ru/rufm
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/152/logo_HxRJJ619nD.png",Радио Родные Песни
 https://rodpesni.amgradio.ru/rp
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/103051/logo_LxUcvq7YaY.png",Русский Рэп - 101.RU Radio
-https://pub0202.101.ru:8443/stream/pro/aac/64/43
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/27530/logo_V5yvvx6ld4.png",bigFM bigMuzyka Radio
-https://audiotainment-sw.streamabc.net/atsw-russia-mp3-128-8184454?sABC=6935s558%230%239557p15q6p30s523q6onp20q9rnsqqp1%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1765143896
+https://audiotainment-sw.streamabc.net/atsw-russia-mp3-128-8184454?sABC=6nqpqpq4%230%234q5r51qp6348710q28749o9sqr88s571%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1792859348
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/219/logo_ieLok0UcpC.png",Татар Радиосы
 https://tatarradio.hostingradio.ru/tatarradio320.mp3
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/103169/logo_RvilAAMMZt.png",Россия 90-х - 101.ru Radio
-https://pub0202.101.ru:8443/stream/pro/aac/64/33
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/377/logo_bx2cXI8y3U.png",RockFam - Русское Радио
 https://rr-rockfam.hostingradio.ru/rockfam96.aacp
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/103017/logo_b9BEBN7CxG.png",Восток FM Radio
@@ -115,7 +71,3 @@ https://radiorecord.hostingradio.ru/ruszima96.aacp
 https://rr-10.hostingradio.ru/rr1096.aacp
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/84044/logo_NgsPO6LL7L.png",100FM Radius - Russian Radio
 https://gb25.streamgates.net/radios-audio/891Digital/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/102906/180_S6vuICudvO.png",Nyamkin FM Radio
-https://spn.liveradiofree.com/nymkn-96
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/103408/logo_A2uARB8qp3.png",ЗОЛОТАЯ КОЛЛЕКЦИЯ Radio
-https://listen5.myradio24.com/83524

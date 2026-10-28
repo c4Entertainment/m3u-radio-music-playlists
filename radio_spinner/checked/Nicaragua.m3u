@@ -25,10 +25,10 @@ https://stream.pinedahost.com/radio/8060/radio
 https://stream.pinedahost.com/radio/8050/
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/91687/logo_05fmmmfHAA.png",Norteña Digital Radio
 https://stream.nortenadigital.com/listen/nortena_digital_radio/radio
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/91637/logo_RXQPZcrp8o.png",Radio Adoración Jinotega
-https://stream5.305stream.com:6124/
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/91729/logo_SoQNd4F3Dh.png",Black Diamond Radio
 https://a4.asurahosting.com:7540/radio.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/91723/logo_lCqhlyIhZN.png",Príncipe de Paz Radio
+https://app.sonicpanelradio.com/8050/streaming
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/91668/logo_nka1mMkRUS.png",Stereo Beso Radio
 https://a9.asurahosting.com/listen/stereo_beso/radio.mp3
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/91634/logo_AlDDUr61E9.png",Kairos Seven Radio
@@ -43,10 +43,10 @@ https://server.multimediamb.com/9300/stream
 http://s2.mexside.net:9020/
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/91622/logo_yu8nJ4r85z.png",Radio Ritmo Latino
 https://sd1.puroradio.net:2020/stream/radioritmolatino
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/91685/logo_ApAftXclmh.png",Radio Que Bendicion
-https://sonic.radiostreaminglatino.com:10936/
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/91703/logo_bqXoZpzL7S.png",Radio corinto
 https://stream1.svrdedicado.org:7028/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/91721/logo_NajeTkH5hk.png",Radio Buenas Nuevas Nicaragua
+https://app.sonicpanelradio.com/8002/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/91663/logo_UEBL7MCqRL.png",Radio Camoapa Estéreo
 https://c30.radioboss.fm:18546/radiocamoapa
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/91662/logo_259M9Fw50l.png",Radio Stereo Resurrección

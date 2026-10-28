@@ -11,8 +11,6 @@ https://rs202-krk-cyfronet.rmfstream.pl/ROCKPROGRESYWNY
 https://station3.webradio-host.net/8012/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/29506/logo_2UaQJni8GT.png",Krautrock World Radio
 https://krautrockworld.stream.laut.fm/krautrockworld
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/261/logo_XAUtRXpUut.png",Rock FM Prog Radio
-https://jfm1.hostingradio.ru:14536/prog.mp3
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/89168/logo_XdO6uCltl3.png",Prog Palace Radio&#x27;s The Courtyard
 https://puma.streemlion.com:5045/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/29343/logo_QC2NQK1Lja.png",Prog Rock Station Radio
@@ -24,11 +22,15 @@ http://eu9.fastcast4u.com:5178/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/66136/logo_UKMcaxIjUG.png",OidoSSordoS Radio
 https://audio.streaminghd.cl:2000/stream/9060/stream.mp3
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/26585/logo_JFSAB6DMoo.png",Chaos-Radio
-https://chaos-radio.stream.laut.fm/chaos-radio?t302=2025-12-07_21-39-08&uuid=590073e6-c4b3-4ad0-a92a-b352588f4f4f
+https://chaos-radio.stream.laut.fm/chaos-radio?uuid=4a91345b-bfe2-08e3-3ecf-64fdfb84534a&t302=2026-10-24_18-17-44
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/102921/logo_857DNxJdOO.png",Aplus.FM ROCK Radio
+http://shoutcast.aplus.fm:9000/aplus_rock_128
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/59990/logo_VeBQC7C0bv.png",Rádio Só Kakarecos Classic Rock
 http://sokakarecos.ddns.net:9030/rock128
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/26996/logo_MAEYfNtlRR.png",Melodic Radio
 https://www.tunefm.de:2000/stream/melodicradio
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/53538/logo_z4xYIqe8Td.png",Epic Prog Radio
+https://fra-pioneer08.dedicateware.com:3255/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/38679/logo_UvCVD0esxY.png",Boom Rock Radio
 https://stream.radioboom.ro:8520/radio.mp3
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/31919/logo_pk3e8xdsFo.png",Radio Wattwerker
@@ -44,13 +46,13 @@ https://radiobash.net:2000/stream/rockfilemediallcstream-ice/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60921/logo_OUixNZOEjK.png",FRC Fofinho Rock Club Web Radio
 https://foreverinrock.radioca.st/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/95030/logo_4DkkWxSQuD.png",The Legacy Album Rock Radio
-https://das-edge11-live365-dal03.cdnstream.com/a60265
+https://das-edge93-live365-dal05.cdnstream.com/a60265
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/26621/logo_4cvY4kS3e7.png",End Zeit FM Radio
 https://endzeitfm.stream.laut.fm/endzeitfm
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/95647/logo_852VA2vFcU.png",Delicious Agony Progressive Rock Radio
 https://deliciousagony.streamguys1.com/
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/28056/logo_1Q0TCxvMs5.png",Rock In Radio
-https://rockin.stream.laut.fm/rockin?t302=2025-12-07_21-39-09&uuid=f4203a2d-db58-4956-853a-42a9707c29ef
+https://rockin.stream.laut.fm/rockin?uuid=bfc9dba0-f622-6fb7-f69e-ce6c7d78e7b7&t302=2026-10-24_18-17-45
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85505/logo_26IJ7FK3ld.png",The Generator FM Radio
 https://s1.myradiostream.com/:14268/listen.mp3
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/103140/logo_grf2vjv5PA.png",Muse - Радио MAXIMUM
@@ -58,23 +60,21 @@ https://maximum.hostingradio.ru/maxmuse96.aacp
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64382/logo_oKcJrX6PTC.png",RadioNos Epic Channel
 https://nos.radio.br/stream/7/
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/100644/logo_Vc8bhgNFSX.png",WORJ RADIO
-https://das-edge63-live365-dal03.cdnstream.com/a06101
+https://das-edge93-live365-dal05.cdnstream.com/a06101
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/88936/logo_phS3oIM1d6.png",Labgate PYG Radio
 https://s2.ssl-stream.com/radio/8160/radio.mp3
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/65753/logo_TEuGtEw6Nb.png",Solamente Rock y Metal Radio
 https://sonic.mallocohosting.cl/8036/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/28792/logo_83Vx3lthiO.png",Radio Laika
-https://radio-laika.stream.laut.fm/radio-laika?t302=2025-12-07_21-39-10&uuid=5f12ffa0-d5cd-41ef-bfa9-2ceb3bbcb946
+https://radio-laika.stream.laut.fm/radio-laika?uuid=5b7c68c2-b747-d090-05c7-0928b2c11dcc&t302=2026-10-24_18-17-46
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/29705/logo_6H9YVNLdyf.png",Musicpassion Radio
-https://musicpassion.stream.laut.fm/musicpassion?t302=2025-12-07_21-39-10&uuid=232ede29-864c-468a-b421-da82c30533a3
+https://musicpassion.stream.laut.fm/musicpassion?uuid=db9873c6-0ce4-8f4f-b473-44b823fe9f34&t302=2026-10-24_18-17-46
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/29095/logo_FJQE2XmB7u.png",Millennium Radio
-https://millennium.stream.laut.fm/millennium?t302=2025-12-07_21-39-10&uuid=455543ce-77ee-4bce-883d-2c55b0881757
+https://millennium.stream.laut.fm/millennium?uuid=40b58aaf-af74-a40a-3de8-ba70768e8233&t302=2026-10-24_18-17-46
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/27733/logo_jdn90IBQn4.png",Oldinn Resort Radio
-https://oldinn-resort.stream.laut.fm/oldinn-resort?t302=2025-12-07_21-39-10&uuid=39e71530-07f3-44f9-b0c4-8bf7ab897dc0
+https://oldinn-resort.stream.laut.fm/oldinn-resort?uuid=079de2ad-4d5f-3200-3c5b-453843364a8c&t302=2026-10-24_18-17-46
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/26994/logo_0BDdodLgkV.png",Ghost Dog Radio
 https://ghostdog.stream.laut.fm/ghostdog
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/53644/logo_d2OfHrcox1.png",Radio Santana Breda
-https://server5.radio-streams.net:8009/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/31699/logo_mKBIqSsWvr.png",Prog Alley Radio
 https://progalley.stream.laut.fm/progalley
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/54145/logo_A3mEidgmTZ.png",THE MUSICAL BOX RADIO
@@ -84,25 +84,25 @@ https://443-1.autopo.st/79/RockRadio2
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/49481/logo_u98Pn2CdSV.png",Asylum of Echoes Radio
 http://net1.citrus3.com:8960/
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/32852/logo_LfQOsgtvhN.png",Progman Radio
-https://progman.stream.laut.fm/progman?t302=2025-12-07_21-39-11&uuid=4d010a25-ba33-4bfc-860a-7245a408a58a
+https://progman.stream.laut.fm/progman?uuid=e4a999e6-b791-4b72-805e-950450a77a59&t302=2026-10-24_18-28-42
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/98694/logo_9xcITBDVAf.png",RockRadio (MRG.fm)
 https://str3.openstream.co/1842
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/96546/logo_tEg9tZZ6zu.png",Radio progRock
 https://pavo.prostreaming.net:8012/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/98058/logo_GsnH2KnqOi.png",Deep Nuggets Radio
-https://das-edge63-live365-dal03.cdnstream.com/a73363
+https://das-edge93-live365-dal05.cdnstream.com/a73363
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/53297/logo_22W4YmXiX8.png",ISKC Rock Radio XXL
 https://443-1.autopo.st/79/XXL
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/29228/logo_eZ9UHMGgdE.png",P42/The Whale And The Frog Radio
-https://p42.stream.laut.fm/p42?t302=2025-12-07_21-39-11&uuid=4de5f45a-a370-4b59-9d4b-05ef92dd5e54
+https://p42.stream.laut.fm/p42?uuid=858d5429-a177-3b94-5c3f-e27e71fbbd90&t302=2026-10-24_18-28-42
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/32723/logo_KHco9CjYXv.png",The Music Movement - Total Oldies Radio
 https://totaloldies.stream.laut.fm/totaloldies
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/88680/logo_V24KZEqeUb.png",Fusion 101 Radio
 https://quincy.torontocast.com:2040/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/29138/logo_YlUA9XajFw.png",Disco Old Inn in Aurich (Ostfriesland) Radio
-https://disco-old-inn-in-aurich-ostfriesland.stream.laut.fm/disco-old-inn-in-aurich-ostfriesland?t302=2025-12-07_21-39-11&uuid=7f13d4c2-0081-486f-8791-2256e99c888a
+https://disco-old-inn-in-aurich-ostfriesland.stream.laut.fm/disco-old-inn-in-aurich-ostfriesland?uuid=cd9229d5-6d20-4e40-9713-124002fee50d&t302=2026-10-24_18-28-42
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/29818/logo_gwLF53nt3w.png",Lobotomie Radio
-https://lobotomie.stream.laut.fm/lobotomie?t302=2025-12-07_21-39-11&uuid=4ccb28d4-45ae-425e-99e0-b447bb13d8cb
+https://lobotomie.stream.laut.fm/lobotomie?uuid=a06d623d-9f15-e405-c7c5-fd99c61e50c2&t302=2026-10-24_18-28-42
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/100178/logo_sbAlhJrUgE.png",Psychedelic Rock - Progressive | Indie | Psuchedelic Radio
 https://listen.adtonos.com/psychedelicrock-progressive-rock-indie-acid-surf-psychedelic
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/49465/logo_UgFwp5dIvy.png",Cherry Red Radio
@@ -111,20 +111,20 @@ https://listen.radioking.com/radio/500452/stream/557725
 https://hardware.stream.laut.fm/hardware
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/98897/logo_1lJYjwWXLI.png",113.FM Prog Spectrum Radio
 https://113fm-atunwadigital.streamguys1.com/1069
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/101893/logo_cRFTXvKddn.png",Dublab Radio
-https://dublab.out.airtime.pro/dublab_a
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/62937/logo_XdkTY3LWwd.png",web radio prog rock Brasil
 https://stm15.xcast.com.br:7526//
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/95189/logo_Ze9Bv1rvY4.png",Radio Woodstock
 https://stream.revma.ihrhls.com/zc7332/hls.m3u8
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/90610/logo_6mJfauObWe.png",Radio Fonoteca Dena
 https://streaming.brol.tech/rtfmlounge
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/53851/logo_xxZ13DaNBY.png",Radio Seagull
+http://stream.radioseagull.net:8000/seagull
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/29529/logo_F7iXaXFNan.png",Rock Ohne Grenzen Radio
 https://rock-ohne-grenzen.stream.laut.fm/rock-ohne-grenzen
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/27555/logo_M1Pu0mXfij.png",Rock Radio Siegerland
 https://rock-radio-siegerland.stream.laut.fm/rock-radio-siegerland
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/30528/logo_to2t51koTq.png",Infernale Radio
-https://infernale.stream.laut.fm/infernale?t302=2025-12-07_21-39-13&uuid=b2ba5863-08e7-49db-8dab-dbca27380c85
+https://infernale.stream.laut.fm/infernale?uuid=72514773-ffaa-1feb-e8ad-d78ab2afafc3&t302=2026-10-24_18-28-43
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/52797/logo_OJh3vYgUVX.png",ISKC Rock Radio
 https://443-1.autopo.st/79/RockRadio
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/36418/logo_nsBe5DqDwR.png",Radio Centrum
@@ -138,7 +138,7 @@ https://argebrat.stream.laut.fm/argebrat
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/45381/logo_mNj6k5HQX9.png",Radio COSMIC
 https://radio10.pro-fhi.net/flux-vszytsmy/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/27145/logo_XEGJvJY5KX.png",Metal and Wine Radio
-https://metal-and-wine.stream.laut.fm/metal-and-wine?t302=2025-12-07_21-39-13&uuid=516c297b-3a62-4969-97ec-cc0f80a28ac6
+https://metal-and-wine.stream.laut.fm/metal-and-wine?uuid=0c2a6bc4-8235-ff4a-f091-447d7f438f55&t302=2026-10-24_18-28-43
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/48770/logo_xbsKEzncs2.png",Radio Fury Fusion
 https://radyo.turcloud.com.tr/listen/radio_fury_fusion/radio.mp3
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/26927/logo_nLPkyfIoxz.png",radio_pyrocluster
@@ -150,9 +150,9 @@ https://listen.progzilla.com/listen/progzilla/live
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/27032/logo_h02ijlzISe.png",Doppelstern Radio
 https://doppelstern.stream.laut.fm/doppelstern
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/26888/logo_vKXB2Cq6y7.png",BeastyBasti Radio
-https://beastybasti.stream.laut.fm/beastybasti?t302=2025-12-07_21-39-14&uuid=863cb6e8-e9a7-4071-b717-776224f8f4d6
+https://beastybasti.stream.laut.fm/beastybasti?uuid=d14e578d-7162-1eb7-aa67-65463aebdd35&t302=2026-10-24_18-28-44
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/27901/logo_NoBfpzP39E.png",Tom Sounds Radio
-https://tomsounds.stream.laut.fm/tomsounds?t302=2025-12-07_21-39-14&uuid=4e5a047c-2d3e-4f67-b9f5-908eeca82d0c
+https://tomsounds.stream.laut.fm/tomsounds?uuid=bf2e1a7c-501a-cc3b-20b5-8039ac374c49&t302=2026-10-24_18-28-44
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/32142/logo_QjmguIYxT8.png",Prog_FM Radio
 https://progfm.stream.laut.fm/prog_fm
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/29731/logo_nFMsnnu1lG.png",Radio Freunde Des Nordens
@@ -160,7 +160,7 @@ https://freunde-des-nordens.stream.laut.fm/freunde-des-nordens
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/27056/logo_TwzCEJRDKh.png",Freeq Radio
 https://freeqradio.stream.laut.fm/freeqradio
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/30104/logo_wNtPM1AZ8F.png",Radio Bob! Prog-Rock
-https://regiocast.streamabc.net/regc-radiobobprogrock1964104-mp3-192-1423777?sABC=6935s402%230%239557p15q6p30s523q6onp20q9rnsqqp1%23zrqvncynlre&aw_0_1st.playerid=mediaplayer&amsparams=playerid:mediaplayer;skey:1765143554
+https://regiocast.streamabc.net/regc-radiobobprogrock1964104-mp3-192-1423777?sABC=6nqpqr89%230%234q5r51qp6348710q28749o9sqr88s571%23zrqvncynlre&aw_0_1st.playerid=mediaplayer&amsparams=playerid:mediaplayer;skey:1792859785
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/27597/logo_NXJY21ce1x.png",Musikzirkus Radio
 https://musikzirkus.stream.laut.fm/musikzirkus
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/26930/logo_13UWWSwwmo.png",Freakout Radio

@@ -2,17 +2,23 @@
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/viper-oceania-sound-revolution-648119-logo.jpg",Radio Viper-Oceania Sound Revolution
 https://vipersoundrevolution.radioca.st/viper-oceania-sound-revolution.fm
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/5fm-184494-logo.jpg",Radio 5FM
-https://27873.live.streamtheworld.com/5FMAAC.aac?dist=onlineradiobox
+https://29345.live.streamtheworld.com/5FMAAC.aac?dist=onlineradiobox
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/za-lesedi-fm-logo.jpg",Radio Lesedi FM
-https://22593.live.streamtheworld.com/LESEDIAAC.aac?dist=onlineradiobox
+https://19983.live.streamtheworld.com/LESEDIAAC.aac?dist=onlineradiobox
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/za-tambo-fm-logo.jpg",Radio TAMBO FM
 https://listen.radioking.com/radio/326599/stream/374668
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/za-heart-fm-logo.jpg",Radio Heart FM
+https://streaming.fabrik.fm/heartfm/echocast/audio/medium/index.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/osr-old-skool-radio-605982-logo.jpg",OSR (Old Skool Radio)
+http://s17.myradiostream.com:7956/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/tuks-fm-181275-logo.jpg",Radio Tuks FM
 https://edge.iono.fm/xice/tuksfm_live_medium.aac
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/za-vuma-fm-logo.jpg",Radio Vuma FM
 https://edge.iono.fm/xice/77_medium.aac
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/za-rsg-logo.jpg",Radio RSG
-https://28513.live.streamtheworld.com/RSG.mp3?dist=onlineradiobox
+https://22343.live.streamtheworld.com/RSG.mp3?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/za-voice-of-the-cape-logo.jpg",Radio Voice of the Cape
+https://streaming.fabrik.fm/voc/echocast/audio/low/index.m3u8
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/za-mfm-logo.jpg",Radio MFM
 https://edge.iono.fm/xice/46_medium.aac
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/za-rainbow-fm-logo.jpg",Radio Rainbow FM
@@ -28,11 +34,9 @@ https://edge.iono.fm/xice/189_medium.aac
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/za-906-fm-logo.jpg",Radio 90.6 FM
 https://albert.antfarm.co.za/vcr/vcr.stream/playlist.m3u8
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/za-phalaphala-fm-logo.jpg",Radio Phalaphala FM
-https://25583.live.streamtheworld.com/PHALAPHALAAAC.aac?dist=onlineradiobox
+https://27873.live.streamtheworld.com/PHALAPHALAAAC.aac?dist=onlineradiobox
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/za-goodhope-fm-logo.jpg",Radio GoodHope FM
-https://27863.live.streamtheworld.com/GOODHOPEFMAAC.aac?dist=onlineradiobox
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bok-radio-588222-logo.jpg",Bok Radio
-http://radiostream.co.za:9104/;
+https://28993.live.streamtheworld.com/GOODHOPEFMAAC.aac?dist=onlineradiobox
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/za-classic-fm-logo.jpg",Radio Classic FM
 https://edge.iono.fm/xice/49_medium.mp3?p=embed
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/za-twr-africa-logo.jpg",Radio TWR Africa
@@ -42,17 +46,19 @@ http://capeant.antfarm.co.za:8000/SFM
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/waterberg-stereo-589299-logo.jpg",Radio Waterberg Stereo
 http://116.202.241.212:8048/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/za-safm-logo.jpg",Radio SAfm
-https://28933.live.streamtheworld.com/SAFMAAC.aac?dist=onlineradiobox
+https://22593.live.streamtheworld.com/SAFMAAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/za-eden-fm-938-logo.jpg",Radio Eden FM 93.8
+https://iceant.eclipse-streaming.co.za/EdenFM
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/za-hot-1027-fm-logo.jpg",Radio Hot 102.7 FM
 https://edge.iono.fm/xice/57_medium.aac
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/za-knysna-970-fm-logo.jpg",Radio Knysna 97.0 FM
 https://zas4.ndx.co.za:9066/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/za-ligwalagwala-fm-logo.jpg",Radio Ligwalagwala FM
-https://27913.live.streamtheworld.com/LIGWALAGWALAAAC.aac?dist=onlineradiobox
+https://29340.live.streamtheworld.com/LIGWALAGWALAAAC.aac?dist=onlineradiobox
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/za-x-k-fm-logo.jpg",Radio X-K FM
-https://27943.live.streamtheworld.com/XKFMAAC.aac?dist=onlineradiobox
+https://25453.live.streamtheworld.com/XKFMAAC.aac?dist=onlineradiobox
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/za-ikwekwezi-fm-logo.jpg",Radio Ikwekwezi FM
-https://28513.live.streamtheworld.com/IKWEKWEZIAAC.aac?dist=onlineradiobox
+https://25583.live.streamtheworld.com/IKWEKWEZIAAC.aac?dist=onlineradiobox
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/za-smile-logo.jpg",Radio Smile
 https://edge.iono.fm/xice/212_medium.aac
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/fine-music-radio-183540-logo.jpg",Fine Music Radio
@@ -62,25 +68,29 @@ https://s18.myradiostream.com/:9438/;listen.mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/zone-radio-160890-logo.jpg",Zone Radio
 https://edge.iono.fm/xice/279_medium.aac
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/947-568060-logo.jpg",Radio 947
-https://19983.live.streamtheworld.com/FM947_SC?dist=onlineradiobox
+https://27743.live.streamtheworld.com/FM947_SC?dist=onlineradiobox
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/za-702-talk-radio-logo.jpg",702 Talk Radio
-https://28973.live.streamtheworld.com/FM702_SC?dist=onlineradiobox
+https://22663.live.streamtheworld.com/FM702_SC?dist=onlineradiobox
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/za-bosveld-stereo-logo.jpg",Radio Bosveld Stereo
 https://iceant.antfarm.co.za/Bosveld
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/za-power-fm-logo.jpg",Radio Power fm
 https://edge.iono.fm/xice/65_medium.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/za-radio-helderberg-logo.jpg",Radio Helderberg
+https://helderberg.highquality.radiostream.co.za/
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/za-radio-today-logo.jpg",Radio Today
 https://rt1485.out.airtime.pro/rt1485_b
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/wild-coast-fm-593652-logo.jpg",Radio Wild Coast FM
 http://116.202.241.212:8090/;
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/za-koepel-stereo-logo.jpg",Radio Koepel Stereo
-https://stream1.rcast.net/68455
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/good-news-community-radio-597410-logo.jpg",Good News Community Radio
 https://edge.iono.fm/xice/155_medium.aac
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/za-hindvani-radio-logo.jpg",Hindvani Radio
 https://edge.iono.fm/xice/129_medium.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/za-inanda-fm-884-logo.jpg",Radio Inanda FM 884
+https://streaming.fabrik.fm/inandafm/echocast/audio/low/index.m3u8
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/za-radio-teemaneng-stereo-logo.jpg",Radio Teemaneng Stereo
 https://zas2.ndx.co.za:8006/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/za-radio-nfm-logo.jpg",Radio NFM
+https://zas7.ndx.co.za:8024/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/uct-radio-157005-logo.jpg",UCT Radio
 https://edge.iono.fm/xice/uctradio_live_medium.aac
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/za-perron-fm-logo.jpg",Radio Perron FM
@@ -89,12 +99,10 @@ http://zas4.ndx.co.za:9000/;
 https://edge.iono.fm/xice/67_medium.aac?p=embed
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/za-durban-youth-radio-logo.jpg",Durban Youth Radio
 https://zas4.ndx.co.za:9072/stream
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/za-madibaz-radio-logo.jpg",Madibaz Radio
-https://edge.iono.fm/xice/75_medium.aac?p=embed
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/power987-599222-logo.jpg",Radio Power987
 http://edge.iono.fm/xice/65_medium.aac
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/bethel-gospel-radio-611369-logo.jpg",Bethel Gospel Radio
-https://streamdb6web.securenetsystems.net/v5/BGRS?CFID=f33e1a21-d968-4791-a229-88a032c5f23c&CFTOKEN=0
+https://radio.securenetsystems.net/v5/index.cfm?CFID=5ab711bf-3e17-4f1d-8789-8d297659c82d&CFTOKEN=0&stationCallSign=BGRS
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/cliffcentral-605270-logo.jpg",Radio CliffCentral
 http://edge.iono.fm/xhls/cliffcentral_live_medium.m3u8?p=tunein
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/the-eye-630485-logo.jpg",Radio The Eye
@@ -104,31 +112,25 @@ http://edge.iono.fm/xhls/feelgood_live_medium.m3u8
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/golbalize-yourself-stereo-637934-logo.jpg",Radio Golbalize Yourself Stereo
 http://138.201.248.93:80/gys
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/eden-fm-576582-logo.jpg",Radio Eden FM
-http://infant.antfarm.co.za/edenfm/player.asp
+http://infant.antfarm.co.za/eden-fm/player.asp?id=24
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/hellenic-t-a-new-pan-hellenic-voice-585199-logo.jpg",Radio Hellenic t/a New Pan-Hellenic Voice
 http://albert.antfarm.co.za/hellenic/hellenic.stream/playlist.m3u8
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pukfm-595182-logo.jpg",Radio PUKfm
-http://edge.iono.fm/xice/pukfm_live_medium.aac
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hashtag-radio-606464-logo.jpg",Hashtag Radio
-https://player.listenlive.co/33601
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/greenside-masjid-614816-logo.jpg",Radio Greenside Masjid
-https://icecast.livemasjid.com/greensidemasjid
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ubiquity-radio-617832-logo.jpg",Ubiquity Radio
-https://strw3.openstream.co/613?aw_0_1st.collectionid%3D3172%26stationId%3D3172%26publisherId%3D637%26k%3D1781866647
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-houtstok-online-628847-logo.jpg",Radio Houtstok  Online
+http://24293.live.streamtheworld.com/SAM02AAC98_SC
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/za-magic-828-logo.jpg",Radio Magic 828
+https://streaming.fabrik.fm/magic828/echocast/audio/low/index.m3u8
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/jozi-fm-577456-logo.jpg",Radio Jozi FM
 https://edge.iono.fm/xice/51_medium.aac?p=embed
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/tru-fm-581531-logo.jpg",Radio TRU FM
-https://29083.live.streamtheworld.com/TRUFMAAC.aac?dist=onlineradiobox
+https://25453.live.streamtheworld.com/TRUFMAAC.aac?dist=onlineradiobox
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/za-channel-islam-radio-logo.jpg",Channel Islam Radio
 https://edge.iono.fm/xice/109_medium.aac
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/za-umhlobo-wenene-fm-logo.jpg",Radio Umhlobo Wenene FM
-https://25443.live.streamtheworld.com/UMHLOBOWENENEAAC.aac?dist=onlineradiobox
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/za-radio-free-tankwa-logo.jpg",Radio Free Tankwa
-https://27573.live.streamtheworld.com/SAM09AAC213.aac?dist=onlineradiobox
+https://23543.live.streamtheworld.com/UMHLOBOWENENEAAC.aac?dist=onlineradiobox
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/za-rmr-logo.jpg",Radio RMR
 https://edge.iono.fm/xice/70_medium.aac
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/channel-africa-569925-logo.jpg",Radio Channel Africa
-https://29083.live.streamtheworld.com/CA247AAC.aac?dist=onlineradiobox
+https://28513.live.streamtheworld.com/CA247AAC.aac?dist=onlineradiobox
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/za-keithngesiradio-logo.jpg",KeithNgesiRadio
 https://edge.iono.fm/xice/285_medium.aac
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/za-ub-fm-live-logo.jpg",Radio UB FM LIVE
@@ -152,19 +154,17 @@ https://stream.radio.co/s51967244c/listen
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/za-joy-radio-logo.jpg",Joy Radio
 https://servidor17.brlogic.com:7012/live
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/za-katlego-fm-logo.jpg",Radio Katlego Fm
-https://das-edge15-live365-dal02.cdnstream.com/a26642
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/za-les-royals-fm-logo.jpg",Radio Les Royals FM
-https://lesroyals.radioca.st/stream
+https://das-edge93-live365-dal05.cdnstream.com/a26642
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/coastal-radio-sa-616463-logo.jpg",Coastal Radio SA
+https://radio.ifastekpanel.com:1645/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/za-vaal-stereo-logo.jpg",Radio Vaal Stereo
 https://s2.radio.co/sb76bb91e2/listen
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/za-choice-fm-logo.jpg",Radio Choice FM
-http://sv2.famcast.co.za:8021/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/za-mc903fm-logo.jpg",Radio MC90.3FM
 https://zas4.ndx.co.za:9060/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/za-hillbrow-radio-247-logo.jpg",Hillbrow Radio 24/7
 https://s5.radio.co/s1673f1aa3/listen
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/za-gaan-groot-radio-logo.jpg",Gaan Groot Radio
-https://18213.live.streamtheworld.com/SP_R2982692_SC?dist=onlineradiobox
+https://14223.live.streamtheworld.com/SP_R2982692_SC?dist=onlineradiobox
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/za-megazone-south-logo.jpg",Radio MegaZone South
 https://vm65162.streamerr.co/listen/megazone_south/radio.mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/za-megazone-cassette-radio-logo.jpg",MegaZone Cassette Radio
@@ -187,22 +187,8 @@ https://edge.iono.fm/xice/288_medium.aac?
 https://s8.yesstreaming.net:17169/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/za-impact-radio-logo.jpg",Impact Radio
 https://edge.iono.fm/xice/204_medium.aac
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/za-radio-cape-pulpit-logo.jpg",Radio Cape Pulpit
-https://edge.iono.fm/xice/110_medium.aac
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/za-radio-suid-afrikar-logo.jpg",Radio Suid Afrika®
-https://s3.radio.co/s170af14fc/listen
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/za-poort-fm-882-logo.jpg",Radio Poort FM 88.2
-https://live1.mambastreaming.net:1350/stream
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/za-lifeandstyle-88fm-logo.jpg",Radio Life&Style 88FM
-https://edge.iono.fm/xice/165_medium.aac
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/za-radio-sonskyn-logo.jpg",Radio Sonskyn
-https://17653.live.streamtheworld.com/SP_R4180726_SC?dist=onlineradiobox
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/za-box-afrofusion-amapiano-logo.jpg",Radio BOX : Afrofusion Amapiano
-https://boxradio-edge-00.streamafrica.net/amp
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/izwelenala-fm-644729-logo.jpg",Radio Izwelenala fm
 https://edge.iono.fm/xice/izwelenala_live_medium.aac
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/za-blue-radiotm️-logo.jpg",Blue Radio™️
-https://a3.asurahosting.com:7960/radio.mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/za-radio-cape-town-logo.jpg",Radio Cape Town
 https://s2.radio.co/saf65f4dd5/listen
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/za-air-fm-logo.jpg",Radio Air FM
@@ -212,19 +198,25 @@ https://servidor21-2.brlogic.com:7080/live?source=website
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/za-antenna-web-cape-town-logo.jpg",Radio Antenna Web Cape Town
 https://halo.streamerr.co/listen/italiavera/stream.mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/za-antenna-web-sudafrica-logo.jpg",Radio Antenna Web Sudafrica
+https://halo.streamerr.co/listen/italiavera/stream.mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/za-antenna-web-mahikeng-logo.jpg",Radio Antenna Web Mahikeng
+https://halo.streamerr.co/listen/italiavera/stream.mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/za-antenna-web-gauteng-logo.jpg",Radio Antenna Web Gauteng
+https://halo.streamerr.co/listen/italiavera/stream.mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/za-antenna-web-gqeberha-logo.jpg",Radio Antenna Web Gqeberha
+https://halo.streamerr.co/listen/italiavera/stream.mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/za-antenna-web-mpumalanga-logo.jpg",Radio Antenna Web Mpumalanga
+https://halo.streamerr.co/listen/italiavera/stream.mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/za-antenna-web-limpopo-logo.jpg",Radio Antenna Web Limpopo
+https://halo.streamerr.co/listen/italiavera/stream.mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/za-hero-radio-south-africa-logo.jpg",Hero Radio (South Africa)
 https://a2.asurahosting.com:6790/southafrica.mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/za-favor-radio-south-africa-logo.jpg",Favor Radio (South Africa)
 https://a10.asurahosting.com:7660/southafrica.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ubuntufm-world-radio-630713-logo.jpg",UbuntuFM World Radio
+https://streaming.coollective.nl:8443/UbuntuFM
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/za-southside-fm-logo.jpg",Radio Southside FM
 https://southsidefmkzn.out.airtime.pro/southsidefmkzn_a
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/za-aserieviscom-logo.jpg",Radio Aserieviscom
-https://capitallive.radioca.st/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/za-harties-fm-logo.jpg",Radio Harties FM
 https://s5.radio.co/s68c6f4028/listen
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/za-radio-ritme-logo.jpg",Radio Ritme

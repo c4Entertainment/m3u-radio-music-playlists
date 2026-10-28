@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/65073/logo_m2NKBvWXZW.png",Nuevo Tiempo Radio
-https://stream.live.novotempo.com/radio/smil:rntMontevideoUY.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/65102/logo_kMD4qa9Bs9.png",Rhumor Radio
 https://servidor29-1.brlogic.com:7026/live
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/65111/logo_aR3LnM8eqN.png",Recital Radio
@@ -53,12 +51,10 @@ https://sonic01.instainternet.com/8028/stream
 http://server.laradio.online:8691/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/65014/logo_c8dWEa41r8.png",Emisora Principal Radio
 https://s7.myradiostream.com/:10764/listen.mp3
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64977/logo_cbr2F6TyCZ.png",Fm Ciudad Uruguay Radio
-https://s1.radiosenialesfm.com:8040/radio.mp3
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64966/logo_hjGPeqkybr.png",Radio Disney
 https://27573.live.streamtheworld.com/DISNEY_URY_MVAAC/HLS/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/65037/logo_4ke3SvIwLk.png",Radio Vichadero
-http://204.197.245.100:9146/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64985/logo_ITXMkaafmh.png",Antenna Web Montevideo Radio
+https://halo.streamerr.co/listen/italiavera/stream.mp3
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/65042/logo_BGh7zHFU8c.png",CW33 La Nueva 1200 AM Radio Florida
 https://streaming1.hostingmontevideo.com:7017/stream.mp3
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/65081/logo_DB0owMCbM5.png",MCI Radio Uruguay
@@ -101,6 +97,10 @@ https://salida.stream.com.uy:8508/stream
 http://server-uk1.radioseninternet.net:8270/
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64967/logo_Tdd2hGW54l.png",Universal 970 AM Radio
 https://970universal-3.nty.uy/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/65040/logo_NKSeLlFKGD.png",Alfa FM 96.3 Radio
+http://radioonline.netgate.com.uy:8000/alfafm
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64969/logo_fGSovQsl5s.png",Radio Carve 850 AM
+https://icecast22.innovanexo.com:9000/radiocarve850.mp3
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/65034/logo_IqymmpYulR.png",FM Del Sol Radio
 http://radio.dl.uy:9950/radio
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/65110/logo_3seyLKwbaf.png",95.5 FM LA COMUNA Radio
@@ -115,18 +115,12 @@ http://server-uk1.radioseninternet.net:8034/
 http://s4.mexside.net:2142/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/65091/logo_tdr32LvxW3.png",Radio Este
 https://sonic.sistemahost.es/8022/stream
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/65084/logo_Qym4Amikco.png",FM Magica 93.5 Radio
-https://27383.live.streamtheworld.com/MAGICAAAC.aac
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/65017/logo_RCv0KYHvV8.png",Radio Rural
 https://radiolatina.live/9206/stream
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/65114/logo_hJVQnI9eOQ.png",Aire FM 100.3 Radio
-https://airefm-1.nty.uy/:8030/
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/65025/logo_ZWzDoLlCmz.png",Exito FM Radio
 https://salida.stream.com.uy:8506/stream
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/65077/logo_bShkxbN3EG.png",Dotworking Radio
-https://radiosuy.mooo.com:7443/dotworking
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64964/logo_lR2QmBJ7VH.png",AM550 Radio
-https://27393.live.streamtheworld.com/COLONIA_ADP.aac
+https://26653.live.streamtheworld.com/COLONIA_ADP.aac
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/65055/logo_6QLPIZnYll.png",Hits FM 89.9 Radio
 https://srv2.radiostreamuy.com/8008/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/65008/logo_1Gra9sjpYt.png",Perfil FM 90.9 Radio
@@ -161,5 +155,7 @@ http://server.laradio.online:9114/
 https://emisorasdigitales2.com:7005/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64976/logo_cpBLgOY0BF.png",Radio Cien Santa Lucía
 https://stream.xweb.ar:8096/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64975/logo_Fyi9SL3756.png",Montevideo Night Radio On line
+https://radio13.servidorderadio.net/8094/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/65072/logo_x83lu8i9PU.png",Radio Pedal
 https://streaming1.hostingmontevideo.com/8008/stream.mp3

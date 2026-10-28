@@ -1,10 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sk-radio-topolcany-logo.jpg",Radio Rádio Topoľčany
-http://80.242.44.249:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fun-radio-170259-logo.jpg",Fun Radio
+http://stream.funradio.sk:8000/fun128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/zahoracke-radio-183537-logo.jpg",Radio Záhorácke rádio
+http://live.zahorackeradio.sk:8000/zr128.mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-viva-170278-logo.jpg",Radio Rádio Viva
 http://stream.sepia.sk:8000/viva128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sk-radio-melody-logo.jpg",Radio Rádio Melody
+https://stream.bauermedia.sk/melody-hi.mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/sk-radio-sity-logo.jpg",Radio Sity
 https://radiosity.online:8000/aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/europa-2-182841-logo.jpg",Radio Europa 2
+https://stream.bauermedia.sk/europa2.mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/slobodny-vysielac-595007-logo.jpg",Radio Slobodny Vysielac
 https://vysielanie.online/radio/8010/aac
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/sk-897-dance-radio-logo.jpg",897 DANCE Radio
@@ -17,15 +23,3 @@ https://mpc2.mediacp.eu:8200/rebecaweb
 https://radio.wanderingsheep.net/radio/8120/live.mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/sk-radio-kiks-logo.jpg",Radio KIKS
 https://online.radiokiks.sk:8000/kiks_hq.mp3
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sk-fun-radio-chill-logo.jpg",Fun Radio Chill
-https://stream.funradio.sk:8000/chill128.mp3
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sk-radio-vlna-60s-and-70s-logo.jpg",Radio Rádio Vlna 60s & 70s
-https://stream.radiovlna.sk/gold-hi.mp3
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sk-radio-parada-logo.jpg",Radio Rádio Paráda
-https://extra.mediacp.eu/stream/RadioParada,o.z.
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sk-radiolokal-logo.jpg",Radio RádioLOKÁL
-https://mpc1.mediacp.eu/stream/radiolokal/;stream.mp3
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sk-radio-kiks-big-90s-logo.jpg",Radio KIKS - BIG 90s
-https://online.radiokiks.sk:8000/kiks_big90s.mp3
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sk-radio-vlna-classic-rock-logo.jpg",Radio Rádio Vlna Classic Rock
-https://stream.radiovlna.sk:8000/rock-hi.mp3

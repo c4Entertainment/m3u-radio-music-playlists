@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-dziani-voix-du-lac-623162-logo.jpg",Radio dziani Voix du Lac
+http://listen.radioking.com/radio/3331/stream/10187
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/yt-rf-mayotte-logo.jpg",Radio RF Mayotte
 https://radio.mayotte-streaming.com/8000/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/yt-radio-koudjouni-logo.jpg",Radio Koudjouni
@@ -17,5 +19,7 @@ https://radio.mayotte-streaming.com/8006/stream
 https://radio.mayotte-streaming.com/8008/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/yt-hero-radio-mayotte-logo.jpg",Hero Radio (Mayotte)
 https://a2.asurahosting.com:6790/radio/mayotte.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/yt-sun-fm-logo.jpg",Radio SUN FM
+https://listen.radioking.com/radio/669814/stream/733864
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/yt-antenna-web-mamoudzou-logo.jpg",Radio Antenna Web Mamoudzou
 https://halo.streamerr.co/listen/italiavera/stream.mp3

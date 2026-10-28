@@ -5,8 +5,6 @@ https://stream.rcs.revma.com/e0tdah74hv8uv
 http://59.125.41.65:8081/
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/80737/logo_gCfV5EQEor.png",MRadio全國廣播FM106
 https://stream.rcs.revma.com/044q61ha7a0uv
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/80738/logo_g7pgClF4aO.png",Taiwan Lounge Radio
-https://azuracast.conceptradio.fr/radio/8030/stream.mp3
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/80751/logo_P2Fj8MnIJ0.png",Lize Radio
 http://lizeradio.com:8080/&amptype=mp3
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/80736/logo_7CXu5DloYr.png",中廣音樂網i radio
@@ -51,16 +49,14 @@ http://60.248.53.115:8081/
 https://cdn280.ccdntech.com/live-http/_definst_/vod280_Live/needs/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/80776/logo_KLutH0zKgZ.png",民本廣播 AM 1296 Radio
 https://streamak0134.akamaized.net/live0134lh-5gst/_definst_/am1296/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/80769/logo_DlGb7umNB0.png",NBC 美聲廣播電台fm91.5 Radio
+http://1.34.23.16:8080/broadwavehigh.mp3
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/80759/logo_IPFtv7l6mz.png",FM90.5 The Voice of Xiagang Radio
 http://59.120.255.155:8081/
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/80782/logo_UKgYxMWC8U.png",Stars RADIO星蹤之愛廣播網
 https://cdn280.ccdntech.com/live-http/_definst_/vod280_Live/stars/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/80762/logo_YAdkCtVtcQ.png",FM90.3 Bamboo Grove Radio
 http://211.72.230.118:8081/
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/80756/logo_4HbWtrSlu4.png",PBS Taidong Sub-Station Radio
-http://stream.pbs.gov.tw:1935/live/TTS/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/80778/logo_it6fQINbyL.png",Radio Voice of Ming Chuan
-http://radio.mcu.edu.tw:8080/radio
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/80753/logo_zXQWUgj5Gg.png",PBS Taichung Sub-Station Radio
 http://stream.pbs.gov.tw:1935/live/TCS/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/80758/logo_2xAtbSuefa.png",BCC Country Network Radio

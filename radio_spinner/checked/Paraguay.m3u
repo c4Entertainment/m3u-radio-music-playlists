@@ -4,9 +4,9 @@ https://ssl.streaming.com.py:7014//index.html?sid=1
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/76854/logo_46uyiEORx5.png",Memories 97.5 FM Radio
 https://1000noticias.live:8010/memories.mp3
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/76925/logo_Hm4bzgcBKb.png",Palma FM Radio
-https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/62d81d48f5ef320830c8becf/playlist.m3u8?aid=62d818a924cf7908229cd029&pid=kNiDBHU2zD8GtNahM1AYr5qZEfoALr7D&sid=012kolNtr5VtaBLMRf4hbvLwspOApNU8&uid=LqLqOlAV9pkvV8Glpz0Qdo79KArfZ4lx&es=us-b4-p-e-qg12-audio.cdn.mdstrm.com&ote=1765227391063&ot=2vTTBO9q-nwZVxo_NhW38A&proto=https&pz=us&cP=128000&awCollectionId=62d818a924cf7908229cd029&liveId=62d81d48f5ef320830c8becf&listenerId=LqLqOlAV9pkvV8Glpz0Qdo79KArfZ4lx
+https://us-b4-p-e-ml19-audio.cdn.mdstrm.com/live-audio-aw/62d81d48f5ef320830c8becf/playlist.m3u8?aid=62d818a924cf7908229cd029&pid=mvc2kXa0iTGoU6O24kescvoUO4RsnlFg&sid=w7mGEV78keC3bsfYli19ZZzP8bS62Z8x&uid=3qctHUPkOLwM4Fncr9xd97X9J3mtKCk7&es=us-b4-p-e-ml19-audio.cdn.mdstrm.com&ote=1792945036241&ot=aQHkMCD1VHEBRqWBHzG0Tg&proto=https&pz=us&cP=128000&awCollectionId=62d818a924cf7908229cd029&liveId=62d81d48f5ef320830c8becf&listenerId=3qctHUPkOLwM4Fncr9xd97X9J3mtKCk7
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/76879/logo_gFAKokcbQf.png",Monumental AM Radio
-https://us-b4-p-e-mg17-audio.cdn.mdstrm.com/live-audio-aw/62d81ca6a459e4082203c95b/playlist.m3u8?aid=62d818a924cf7908229cd029&pid=penBxmwlbWpsf7S2Z2DAoVHfncdAHFXd&sid=sAPZ70jQVmyXaC4BgEElWT0IRqesYlwt&uid=X6x5ngeaeaIqOAG6GncgPkv0T7xJXFds&es=us-b4-p-e-mg17-audio.cdn.mdstrm.com&ote=1765227391504&ot=6VsZ3VdN7-tDm2nswh07Aw&proto=https&pz=us&cP=128000&awCollectionId=62d818a924cf7908229cd029&liveId=62d81ca6a459e4082203c95b&listenerId=X6x5ngeaeaIqOAG6GncgPkv0T7xJXFds
+https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/62d81ca6a459e4082203c95b/playlist.m3u8?aid=62d818a924cf7908229cd029&pid=JJVShSffcdwmq8UOoAPuRAl1uiZSPvOw&sid=YPFsTDAKzyDk0mNgEV5s9M0weyCydE6c&uid=xPAtnNC3i36UyYMSMZf61qcP2L8X3z7U&es=us-b4-p-e-qg12-audio.cdn.mdstrm.com&ote=1792945036251&ot=7ZcApRCvMWb9_M-ZO6NEIw&proto=https&pz=us&cP=128000&awCollectionId=62d818a924cf7908229cd029&liveId=62d81ca6a459e4082203c95b&listenerId=xPAtnNC3i36UyYMSMZf61qcP2L8X3z7U
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/76734/logo_UvEFKGyhoG.png",Del Este Radio
 https://proxy01.servidorenlinea.net/cdehosting/8040/
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/76891/logo_jYPVRJRjkv.png",Radio Soy
@@ -20,13 +20,11 @@ https://streamsoymedios.com/8012/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/76920/logo_g6HdSTJi3h.png",Radio Sonica Paraguay
 https://streamsoymedios.com/8034/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/76898/logo_9cYwK3SRPB.png",Universo 970 AM Radio
-https://rds3.desdeparaguay.net/trans970/trans970/playlist.m3u8
+https://sesion.desdeparaguay.net/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/76816/logo_otLFM6QlFW.png",Porta Radio TV
 https://streamsoymedios.com/8084/stream
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/76942/logo_mRix5UUvh8.png",Radio Web Virtual Internacional
-https://stm21.srvaudio.com.br:11214/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/76767/logo_KISzufX0eU.png",Radio Yacare
-https://radioyacare.stream.laut.fm/radio_yacare?t302=2025-12-07_20-56-32&uuid=58c4d11f-b1dd-41a6-9f29-51755a576bc2
+https://radioyacare.stream.laut.fm/radio_yacare?uuid=2efbfc51-0948-787c-10fc-dcffede9e606&t302=2026-10-24_18-17-16
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/76882/logo_QWTmVX32L3.png",La Unión R 800 AM Radio
 https://rds3.desdeparaguay.net/mov800/mov800.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/76745/logo_9uYDWKlwa7.png",Radio Plus
@@ -39,12 +37,8 @@ https://streamsoymedios.com/8102/stream
 https://halo.streamerr.co/listen/italiavera/stream.mp3
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/76856/logo_SCzhA6Isac.png",Radio Victoria Online
 https://streamsoymedios.com/8006/stream
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/76766/logo_6tVxpeSlEG.png",Itakua Poty Radio
-https://radio.host.com.py:7173/
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/76732/logo_ER04F0eYaX.png",Radio Educación
 https://proxy01.servidorenlinea.net/cdehosting/8050/
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/76919/logo_ks3pWGwrOd.png",Vida Radio
-https://sonicpanel.gabehost.com/8002/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/76799/logo_L1oYfsHMM5.png",Radio Voz Potente
 https://radio.host.com.py:7171//stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/76917/logo_oKSlBX3qxZ.png",Música Paraguaya RS1 Radio
@@ -59,18 +53,26 @@ https://proxy01.servidorenlinea.net/cdehosting/8042/
 https://streampy.radiosparaguay.com/8006/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/76912/logo_fQS1XVa2CX.png",Radio Naranjaty
 https://naranjaty.com/listen/radio_naranjaty/player.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/76860/logo_WdICqhNMi9.png",Mundo Del Folklore Radio
+https://radio.host.com.py:7264/
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/76871/logo_ENeVzTuGod.png",Red Católica Online Radio
 https://fpsnew2.listen2myradio.com:2199/listen.php?ip=212.84.160.3&ampport=5382&amptype=s2&ampmount=1
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/76883/logo_OkU02aMdLy.png",Radio Colmenar
 https://server5.hostipy.com:2020/stream/8018/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/76825/logo_KBHZe5Kg43.png",Radio Pa&#x27;i García
 https://streamsoymedios.com/8086/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/76763/logo_sFoGYiUBp3.png",93.7 FM San Vicente Radio
+https://radio.host.com.py:7000/
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/76817/logo_sXLlQ1RlR7.png",Radio Quiindy
 https://radio.host.com.py:7152/
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/76909/logo_RjVz1eVoQm.png",La Voz de la Policia Nacional Radio
 https://strcdn.klm99.com/8062/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/76813/logo_ZZTa6TOW6V.png",Radio Del Rey 101.7 Fm
+https://radio.host.com.py:7064/
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/76738/logo_MKkRH0a105.png",Itapiru Radio
 https://proxy01.servidorenlinea.net/cdehosting/8002/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/76897/logo_ngVyyu2lu1.png",Kokue Poty Radio
+https://radio.host.com.py:7089/
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/76778/logo_pkN69yLELT.png",Stilo Fm 88.5 Radio
 https://fps2.listen2myradio.com:2199/listen.php?ip=109.169.23.17&ampport=8333&amptype=s1
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/76923/logo_KvyHQPHAox.png",Radio Regi Gospel
@@ -82,11 +84,11 @@ https://proxy01.servidorenlinea.net/cdehosting/8004/
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/76794/logo_QzJIPPGt5T.png",Maxima FM 99.9 Radio
 https://stm01.dialpy.com:8020/radiomaxima
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/76737/logo_YGIZ0hRVQV.png",FM Popular Radio
-https://rds3.desdeparaguay.net/transpopular/transpopular/playlist.m3u8
+https://sesion.desdeparaguay.net/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/76747/logo_pivNu1pOVp.png",Urbana Radio
-https://us-b4-p-e-mg17-audio.cdn.mdstrm.com/live-audio-aw/62d81cdabff0bc082f8f1a24/playlist.m3u8?aid=62d818a924cf7908229cd029&pid=0ibSHOZGVu1LqsS8biP0PJnquz7JuUxb&sid=9aD2wCLrpJ5IA9yNRjg5qnw4tFaCQE58&uid=oiLqPY77S4abEBLaMq5iHaDmUNQdqJHP&es=us-b4-p-e-mg17-audio.cdn.mdstrm.com&ote=1765227396429&ot=V29g-LRKuNT4SXbrXx2RVw&proto=https&pz=us&cP=128000&awCollectionId=62d818a924cf7908229cd029&liveId=62d81cdabff0bc082f8f1a24&listenerId=oiLqPY77S4abEBLaMq5iHaDmUNQdqJHP
+https://us-b4-p-e-jn18-audio.cdn.mdstrm.com/live-audio-aw/62d81cdabff0bc082f8f1a24/playlist.m3u8?aid=62d818a924cf7908229cd029&pid=IcSsWa60srPNYqVW0htkizjGpJelA6d4&sid=pFldwzMyqPUq6TOwE7OFx1ZLPuxfHiLq&uid=fwEzyDHQEFgtGOv1EHcOOIox3zmblIrA&es=us-b4-p-e-jn18-audio.cdn.mdstrm.com&ote=1792946165590&ot=RN7XPHbYJfWniA_h1Sg85Q&proto=https&pz=us&cP=128000&awCollectionId=62d818a924cf7908229cd029&liveId=62d81cdabff0bc082f8f1a24&listenerId=fwEzyDHQEFgtGOv1EHcOOIox3zmblIrA
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/76907/logo_FHzIvjj2Sx.png",Estacion 40 Radio
-https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/62d81cfbbfbcee0837ba1b60/playlist.m3u8?aid=62d818a924cf7908229cd029&pid=8pqyrqr46EpdOrdfnrVtZE7N9OcKymVx&sid=5ICCH2qCDf8cpj1Lg9ya5VdahEfiLSEF&uid=rPYNAJ8x05Fcr7hVZkxsWTybO8XhMhxr&es=us-b4-p-e-pb13-audio.cdn.mdstrm.com&ote=1765227396487&ot=Pbq7ZbgGQJt4Xyo49FnrSA&proto=https&pz=us&cP=128000&awCollectionId=62d818a924cf7908229cd029&liveId=62d81cfbbfbcee0837ba1b60&listenerId=rPYNAJ8x05Fcr7hVZkxsWTybO8XhMhxr
+https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/62d81cfbbfbcee0837ba1b60/playlist.m3u8?aid=62d818a924cf7908229cd029&pid=KYMBzmHdEtDliwK3EaDQUIUeOQLT5QMz&sid=bvtKvGR7b6Cayowo5nrQ9GOM71kHwPUK&uid=PsrUKugqeLBRzdT3fHJ0Mc0YcZ2OEmnN&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1792946165634&ot=HgQbo5EU71wkQZLFOMvu3Q&proto=https&pz=us&cP=128000&awCollectionId=62d818a924cf7908229cd029&liveId=62d81cfbbfbcee0837ba1b60&listenerId=PsrUKugqeLBRzdT3fHJ0Mc0YcZ2OEmnN
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/76877/logo_KgmaJLpXQ4.png",Radio Ultra Dance
 https://rr5100.globalhost1.com/8376/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/76784/logo_GJLhIoBgCt.png",Radio Renacer Paraguay
@@ -129,10 +131,12 @@ https://1000noticias.live:8000/radio.mp3
 https://Fps3.listen2myradio.com:2199/listen.php?ip=109.169.23.124&ampport=8646&amptype=s1
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/76787/logo_BwUu5Gv9dC.png",Enlaon Radio Online
 https://radio.host.com.py:7100/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/76911/logo_U507R2WPvN.png",Radio Transcontinental
+https://radio.host.com.py:7266/
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/76809/logo_rSM3G7aUvv.png",Radio Caacupé RSM
 https://radio.host.com.py/8040/stream
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/76904/logo_4hizkuELYE.png",La Deportiva 1120 AM Radio
-https://ladeportiva.radioca.st/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/76822/logo_DcYWGiSKPm.png",Radio Dinámica
+https://radio.host.com.py:7044/
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/76760/logo_TceKK1m1Ma.png",Radio Yvytyruzu 100.7 Fm
 https://fps2.listen2myradio.com:2199/listen.php?ip=109.169.23.17&ampport=8030&amptype=ice&ampmount=stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/76743/logo_9Bm3ik1kQW.png",Corpus Radio
@@ -141,14 +145,10 @@ https://proxy01.servidorenlinea.net/cdehosting/8026/
 https://radio.host.com.py/8058/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/76746/logo_5VzbNJ76TI.png",Radio ZP30
 https://s3.radio.co/s45d51c072/listen
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/76936/logo_ijgv0wneQQ.png",Estación 101.3 Radio
-https://v.orlandohugo.com:10939/
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/76888/logo_zbgNbAFhce.png",Top Milenium Radio
 https://sonic.host-live.com/8398/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/76933/logo_FsL8KdTUEU.png",La Voz Del Nazareno Radio
 https://streamsoymedios.com/8112/stream
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/76842/logo_dGO4Ft2NVK.png",Radio Tiempo de Despertar
-https://server5.hostipy.com:8010/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/76733/logo_aUdNhSiIXk.png",Corpus Radio
 https://proxy01.servidorenlinea.net/cdehosting/8024/
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/76950/logo_xflF6jds0c.png",Radio Guaira AM 840
@@ -162,7 +162,7 @@ https://Fps1.listen2myradio.com:2199/listen.php?ip=95.154.228.120&ampport=9338&a
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/76756/logo_9OpE2hx28g.png",La Nueva 106.1 Fm Pirapey Radio
 https://rr5100.globalhost1.com/8298/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/76873/logo_mwwx3qSxc7.png",MAS FULL MUSIC Radio
-https://masfullmusic.stream.laut.fm/mas_full_music?t302=2025-12-07_20-56-40&uuid=47616ec9-a31d-4209-ab72-c88b55245c79
+https://masfullmusic.stream.laut.fm/mas_full_music?uuid=6138e205-b1b5-2486-1efc-76e6de4061d2&t302=2026-10-24_18-51-05
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/76802/logo_iQuuQtZXVi.png",Que Suerte Py Radio
 https://Fps5.listen2myradio.com:2199/listen.php?ip=78.129.139.48&ampport=8276&amptype=s1
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/76885/logo_ykPppUJrkE.png",Radio Sur Online

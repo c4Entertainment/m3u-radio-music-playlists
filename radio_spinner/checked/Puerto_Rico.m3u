@@ -35,8 +35,8 @@ https://stream.tuenlacecristiano.com:8062/stream
 https://livestreamcdn.net:2000/stream/Redentor104.1FM/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85867/logo_B9APwrMC11.png",Antenna Web Culebra Radio
 https://mars.streamerr.co/8066/stream
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85804/logo_18PDoAEVJU.png",La Nueva Radio Poder Puerto Rico
-http://62.210.24.124:8800/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85765/logo_iipGArJzSC.png",95XFM Radio
+http://162.244.80.106:10913/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85831/logo_YW7ARdOlWR.png",Radio Secuencia Al Dia
 https://sp.sintonizapp.com/8008/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85786/logo_SZ79L0BVgB.png",La Nueva 94 FM Radio
@@ -49,15 +49,34 @@ https://listen.radioking.com/radio/399811/stream/451903
 https://cloudstream2036.conectarhosting.com:7022/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85751/logo_X7kbXsjFNF.png",La Mega Radio
 https://liveaudio.lamusica.com/PR_WMEG_icy?aw_0_1st.playerld=onlineradiobox
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85750/logo_knvbsRIfG9.png",Radio Antillas 1130 AM
+https://das-edge62-live365-dal03.cdnstream.com/a74084
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85839/logo_YcdAVJnZWR.png",Super 1510 Radio
 http://us5.internet-radio.com:8236/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85833/logo_W3e1DiJg7N.png",La Nueva 94 FM Radio
 https://liveaudio.lamusica.com/PR_WODA_icy
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85762/logo_jGQTuK6z6F.png",WAPA Radio
+https://livestreamcdn.net:2000/stream/waparadio
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85756/logo_1avFFtkzuE.png",The Rock Radio Network
+http://192.241.185.108:8000/stream/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85875/logo_OWVpkJrhy6.png",La Poderosa 360 Radio
+https://listen.radioking.com/radio/390112/stream/444184
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85760/logo_lqtEJKVk22.png",Bandera de Amor Radio
+https://cp.ministeriosonline.com/stream/banderadeamor
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85871/logo_RESvUhstb1.png",Vida Eterna 103.3FM Radio
+https://cloudstream2036.conectarhosting.com/8414/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85775/logo_m8bGNlF9Wi.png",Play 96.5 Radio
+https://liveaudio.lamusica.com/PR_WRXD_icy?aw_0_1st.playerld=onlineradiobox
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85864/logo_oU6qfOMKc5.png",Antenna Web San Juan Radio
+https://mars.streamerr.co/8066/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85793/logo_dHBNCUI0z7.png",WIAC 740 AM Radio
+https://sp.unoredcdn.net/8044/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85766/logo_lbqvHwJNGm.png",PAB 550 Ponce Radio
 http://68.235.35.243:9059/stream/
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85869/logo_IW3ThbEGpk.png",Radio Luna de Miel
 https://usa19.fastcast4u.com:8660/
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85868/logo_bCedhHVGEJ.png",Antenna Web Vieques Radio
+https://mars.streamerr.co/8066/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85768/logo_bxYucy5PJ9.png",Guarachita Internacional Radio
 https://radiordomi.com/8548/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85794/logo_if5S9pRLDh.png",Procer Radio
@@ -88,8 +107,6 @@ https://audio.livecastnet.com:2105/stream
 https://sp.unoredcdn.net/8064/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85857/logo_UcLEvCNeAb.png",BQNA RADIO 107
 https://sonicpanel.cloudstreaming.eu:8052/
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85826/logo_5VOx0wzPfD.png",Radio WHOY
-https://das-edge13-live365-dal02.cdnstream.com/a73067
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85858/logo_AiHgXxYoFs.png",rede san live Radio
 https://sonicpanel.oficialserver.com:7188/
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85795/logo_PyuBI09Yhk.png",Radio Once
@@ -118,6 +135,8 @@ https://panel.streamenviron.com:8298/stream.mp3
 https://stream.eleden.com/wzol.aac/wzol.aac.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85835/logo_0QJrs54zIe.png",92.1 FM Radio
 https://stream.eleden.com:8320/laestaciondelafamiliapr.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85852/logo_Y5y1P3LyN4.png",WCGB 1060 AM Radio
+http://192.241.185.108:8000/1/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85860/logo_1xBaedb7SK.png",Radio Bayamón evangelio
 https://stream1.svrdedicado.org/8344/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85834/logo_xiKNPDGHji.png",Radio Voz de Gracia - Puerto Rico

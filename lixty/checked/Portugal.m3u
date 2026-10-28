@@ -43,10 +43,8 @@ https://radios2.justweb.pt:8068/;stream.nsv
 http://centova.radio.com.pt:8431/stream/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-vidigueira-578085-logo.jpg",Radio Vidigueira
 http://centova.radios.pt:8567/stream/;
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-planicie-168661-logo.jpg",Radio Rádio Planície
-http://109.71.41.6:8026/stream/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-renascenca-elvas-logo.jpg",Radio Renascenca Elvas
-https://27783.live.streamtheworld.com/RADIO_RENASCENCAAAC_SC?dist=onlineradiobox
+https://29334.live.streamtheworld.com/RADIO_RENASCENCAAAC_SC?dist=onlineradiobox
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-radio-m24-logo.jpg",Radio Rádio M24
 https://sp0.redeaudio.com/9924/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-radio-elvas-915-logo.jpg",Radio Rádio Elvas 91.5
@@ -62,13 +60,9 @@ https://nl.digitalrm.pt:8024/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-diana-fm-logo.jpg",Radio Diana FM
 http://centova.radio.com.pt:9460/stream/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/mega-hits-568120-logo.jpg",Radio Mega Hits
-https://19983.live.streamtheworld.com/MEGA_HITSAAC_SC?dist=onlineradiobox
+https://28563.live.streamtheworld.com/MEGA_HITSAAC_SC?dist=onlineradiobox
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-sagres-fm-logo.jpg",Radio Sagres FM
-https://www.sagresfm.pt/
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-radio-utopia-logo.jpg",Radio Utopia
-https://free.rcast.net/66027
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-radio-botareu-logo.jpg",Radio Rádio Botaréu
-https://nl.digitalrm.pt:8238/stream
+https://gnulahd.online/
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-rude-party-web-radio-logo.jpg",Rude Party Web Radio
 http://176.9.43.216:8346/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-radio-limite-89-logo.jpg",Radio Limite 89
@@ -98,7 +92,7 @@ http://centova.radios.pt:8499/;listen.pls
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-926fm-logo.jpg",Radio 92.6FM
 https://sp0.redeaudio.com/9802/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/rfm-569898-logo.jpg",Radio RFM
-https://27783.live.streamtheworld.com/RFM_SC?dist=onlineradiobox
+https://25693.live.streamtheworld.com/RFM_SC?dist=onlineradiobox
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-radio-orbital-logo.jpg",Radio Orbital
 http://centova.radios.pt:8401/stream/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-valdevez-578160-logo.jpg",Radio Valdevez
@@ -106,7 +100,7 @@ http://centova.radios.pt:9508/stream/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-radio-clube-de-armamar-logo.jpg",Radio Clube de Armamar
 https://radios2.justweb.pt/8054/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-rfm-oceano-pacifico-logo.jpg",Radio RFM - Oceano Pacifico
-https://27783.live.streamtheworld.com/OCEANPACIFICAAC_SC?dist=onlineradiobox
+https://22653.live.streamtheworld.com/OCEANPACIFICAAC_SC?dist=onlineradiobox
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-portugal-mais-598660-logo.jpg",Radio Rádio Portugal Mais
 https://sv15.hdradios.net:7432/;stream.nsv
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-amalia-fm-logo.jpg",Radio Amalia FM
@@ -114,13 +108,13 @@ http://centova.radios.pt:9496/stream?1444874431322.mp3/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-do-folclore-portugues-600915-logo.jpg",Radio Rádio do Folclore Português
 https://sonic.servsonic.com/8012/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-rfm-80s-rfm-logo.jpg",Radio RFM - 80s RFM
-https://25323.live.streamtheworld.com/GR80SRFMAAC_SC?dist=onlineradiobox
+https://29093.live.streamtheworld.com/GR80SRFMAAC_SC?dist=onlineradiobox
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/noite-fm-154614-logo.jpg",Radio Noite FM
 http://live.noite.pt:8080/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-promove-portugal-594523-logo.jpg",Radio Promove Portugal
 https://stream1.svrdedicado.org/8410/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/roxx-2-metal-187658-logo.jpg",Radio ROXX 2 METAL
-https://listen3.myradio24.com/6359
+https://listen6.myradio24.com/6359
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-radio-folclore-portugal-logo.jpg",Radio Folclore Portugal
 https://sonic.servsonic.com:7002/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-ultra-fm-logo.jpg",Radio Ultra FM
@@ -177,10 +171,10 @@ https://sp0.redeaudio.com/8092/stream
 https://streaming.shoutcast.com/marcoense-fm
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-metal-heavy-183040-logo.jpg",Radio Metal On: The Heavy
 https://radiometalon.com/listen/radio_metal_on_the_heavy/radio.mp3
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-veep-radio-logo.jpg",VEEP RADIO
-https://listen.radioking.com/radio/42445/stream/79033
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-popular-afifense-578161-logo.jpg",Radio Popular Afifense
 http://centova.radios.pt:8471/stream/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-estrelas-do-norte-161202-logo.jpg",Radio Estrelas Do Norte
+https://sp0.redeaudio.com/8122/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/geice-fm-578166-logo.jpg",Radio Geice FM
 https://ec2.yesstreaming.net:3275/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-radio-ondas-do-lima-logo.jpg",Radio Rádio Ondas do Lima
@@ -251,8 +245,12 @@ http://radiosmadeira.net:8008/;
 https://www.rtp.pt/play/direto/rtpacores
 #EXTINF:-1 tv-logo="",Radio RTP Africa TV
 https://www.rtp.pt/play/direto/rtpafrica
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/entretenimento-638191-logo.jpg",Radio Entretenimento
+http://eu9.fastcast4u.com:5178/1/
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-filhos-da-escola-603094-logo.jpg",Radio Rádio Filhos da Escola
 http://176.9.43.216:8021/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-radio-rds-0-1-logo.jpg",RADIO RDS
+https://s9.yesstreaming.net:9033/stream
 #EXTINF:-1 tv-logo="",Radio RTP Informacao TV
 https://www.rtp.pt/play/direto/rtp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/viseu-tv-578044-logo.jpg",Radio Viseu TV
@@ -267,6 +265,8 @@ http://www.rvbasto.com/
 http://centova.radio.com.pt:9470/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/portugalfunmaps-596938-logo.jpg",Radio PortugalFunMapS
 https://orion.shoutca.st/tunein/portugal.pls
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/raia-fm-604888-logo.jpg",Radio Raia FM
+http://eu4.fastcast4u.com:5308/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/radiotranquilidadecom-608397-logo.jpg",RadioTranquilidade.com
 http://www.iasdcoimbra.tv:8000/;
 #EXTINF:-1 tv-logo="",Radio RTP Madeira TV
@@ -285,6 +285,8 @@ https://streaming-live.rtp.pt/liveradio/rdpint80a/playlist.m3u8
 https://streaming-live.rtp.pt/liveradio/antena180a/playlist.m3u8
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/antena-2-568117-logo.jpg",Radio Antena 2
 https://streaming-live.rtp.pt/liveradio/antena280a/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-antena-1-vida-logo.jpg",Radio Antena 1 - Vida
+https://streaming-live.rtp.pt/liveradio/vida80a/playlist.m3u8
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-radio-motard-fm-logo.jpg",Radio Rádio Motard FM
 https://sp0.redeaudio.com/8096/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-luna-fm-world-logo.jpg",Radio LUNA FM - World
@@ -304,7 +306,7 @@ https://sslradio.servsonic.com:7013/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-radio-h-logo.jpg",Radio H
 https://sp0.redeaudio.com/8034/stream;stream.nsv
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-rfm-on-the-rock-logo.jpg",Radio RFM - On The Rock
-https://25273.live.streamtheworld.com/RFMONTHEROCKAAC.aac?dist=onlineradiobox
+https://25553.live.streamtheworld.com/RFMONTHEROCKAAC.aac?dist=onlineradiobox
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-smooth-fm-bossa-nova-logo.jpg",Radio Smooth FM - Bossa Nova
 https://stream-icy.bauermedia.pt/smobossa.aac
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/record-fm-580772-logo.jpg",Radio Record FM
@@ -325,12 +327,8 @@ https://nl.digitalrm.pt:8014/stream
 https://radios2.justweb.pt/8052/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-radio-diana-fm-logo.jpg",Radio Diana Fm
 https://ssl.ndvendas.eu:9694/;stream.nsv
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-radio-soberania-logo.jpg",Radio Rádio Soberania
-https://nl.digitalrm.pt:8034/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-radio-observador-logo.jpg",Radio Rádio Observador
-https://27793.live.streamtheworld.com/OBSERVADORAAC.aac?dist=onlineradiobox
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-quando-portugal-canta-logo.jpg",Radio Quando Portugal Canta
-https://ssl.ndvendas.eu:7148/;
+https://29341.live.streamtheworld.com/OBSERVADORAAC.aac?dist=onlineradiobox
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-radio-miudos-logo.jpg",Radio Rádio Miúdos
 https://s5.radio.co/s9c516a065/listen
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-radio-alcobaca-logo.jpg",Radio Alcobaça
@@ -351,12 +349,8 @@ https://sp0.redeaudio.com/9988/stream
 https://sp0.redeaudio.com/8154/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-radio-amizade-viva-logo.jpg",Radio Rádio Amizade Viva
 https://cc1.streammaximum.com:20070/;
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-happyhardcore-logo.jpg",Radio HappyHardcore
-https://audio-edge-5bkfj.fra.h.radiomast.io/0cef93cd-5974-43b1-868e-c739e81f4f2b
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-radio-senior-da-misericordia-de-pampilhosa-da-serra-logo.jpg",Radio Sénior da Misericórdia de Pampilhosa da Serra
 https://sp0.redeaudio.com/8198/stream
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-radio-zoom-logo.jpg",Radio Rádio Zoom
-https://streaming.brazink.com/?p=7045
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-radio-montanha-logo.jpg",Radio Rádio Montanha
 https://ssl.ndvendas.eu:9812/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-radio-deixem-passar-a-musica-logo.jpg",Radio Deixem Passar a Musica
@@ -385,6 +379,10 @@ https://nl.digitalrm.pt:8042/stream
 https://cast2.hoost.com.br:20150/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-radio-festeventos-logo.jpg",Radio FestEventos
 http://webradio.festeventos.pt:9998/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-portimao-630011-logo.jpg",Radio Rádio Portimão
+https://sp0.redeaudio.com/9440/stream;?1605622218364
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-radio-mundial-fm-logo.jpg",Radio Mundial FM
+https://s3.yesstreaming.net:17006/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-radio-coracao-do-alentejo-logo.jpg",Radio Coração do Alentejo
 http://rca.radiocoracaoalentejo.com:8016/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-radio-melodias-de-amor-logo.jpg",Radio Melodias de Amor
@@ -401,12 +399,8 @@ https://fps4.listen2myradio.com:2199/listen.php?ip=109.169.23.123u0026port=8540u
 https://fps4.listen2myradio.com:2199/listen.php?ip=109.169.23.123u0026port=8025u0026type=s1
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-radio-faustex-dance-logo.jpg",RADIO FAUSTEX DANCE
 https://fps3.listen2myradio.com:2199/listen.php?ip=109.169.23.124u0026port=10307u0026type=s1
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-informedia-logo.jpg",Radio Informédia
-http://in4.pt:8000/stream1;/stream1
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-hits-cuba-logo.jpg",Radio HITS CUBA
 https://servidor38.brlogic.com:7034/live?identifier=Radioboxonlineu0026source=10359
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-radio-top60-olhao-logo.jpg",Radio Top60 Olhão
-https://stm8.xcast.com.br:11992/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-radio-comercial-90s-logo.jpg",Radio Comercial - 90's
 https://bauermedia.pt/radioStream.aspx?radio=69u0026type=AAC
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-radio-comercial-2000s-logo.jpg",Radio Comercial - 2000s
@@ -417,22 +411,22 @@ https://bauermedia.pt/radioStream.aspx?radio=76u0026type=AAC
 https://bauermedia.pt/radioStream.aspx?radio=73u0026type=AAC
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-m80-radio-disco-logo.jpg",M80 Radio - Disco
 https://stream-icy.bauermedia.pt/m80disco.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-radio-ondas-do-douro-logo.jpg",Radio Ondas do Douro
+https://server.vendaslotus.pt:7028/;stream.nsv
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-lousada-629054-logo.jpg",Radio Rádio Lousada
 https://sp0.redeaudio.com/9932/stream;stream.nsv
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-jocavi-radio-logo.jpg",Jocavi Radio
 https://sp0.redeaudio.com/9930/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-radio-exitos-portugueses-logo.jpg",Radio Rádio Êxitos Portugueses
+https://stm9.voxhd.com.br:8686/;stream.nsv
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-radio-agita-logo.jpg",Radio Rádio Agita
 https://listen.radioking.com/radio/505570/stream/563098
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-radio-movimento-pt-online-logo.jpg",Radio Movimento PT Online
 http://ca5.rcast.net:8048/;
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-o-mundo-da-flor-logo.jpg",Radio O Mundo da Flor
-https://sp0.redeaudio.com:10966/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-marte-madeira-646463-logo.jpg",Radio Marte Madeira
 http://138.201.198.218:8010/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-radio-faustex-portuguese-music-2-logo.jpg",Radio Faustex Portuguese Music 2
 https://uk2freenew.listen2myradio.com/live.mp3?typeportmount=s1_35528_stream_784242911;stream.nsv
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-acores-9-radio-logo.jpg",Radio Açores 9 Rádio
-https://stm4.voxhd.com.br:7300/stream?ver=553030
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-radio-mundo-da-dama-logo.jpg",Radio Mundo da Dama
 https://sonic.servsonic.com/8024/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-manchete-619117-logo.jpg",Radio Manchete
@@ -450,7 +444,7 @@ https://stream2.soundflux.eu/8146/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-radio-terras-de-lanhoso-logo.jpg",Radio Rádio Terras de Lanhoso
 https://s1.stmxp.net:7028/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-tugafm-logo.jpg",Radio TugaFm
-https://tugafm.stream.laut.fm/tugafm?t302=2026-06-19_16-45-41&uuid=a0a2b35f-f134-4dc0-b9cb-3a815b791be4
+https://tugafm.stream.laut.fm/tugafm?uuid=15ff4a1b-dca6-bd47-8ab1-114fdccb81a6&t302=2026-10-25_01-00-24
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-radio-vieira-amigos-unidos-logo.jpg",Radio Vieira Amigos Unidos
 https://s2.stmxp.net:7284/ ;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-4drive-jazz-logo.jpg",Radio 4Drive Jazz
@@ -481,24 +475,10 @@ https://stm3.srvif.com:8208/stream
 https://spaudio.servers.pt/8010/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-digital-radio-romania-logo.jpg",Digital Radio Romania
 https://radio.sonicpanel.ro/8058/stream
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-cantinho-dos-emigrantes-166651-logo.jpg",Radio Rádio Cantinho dos Emigrantes
-https://cast.redewt.net:9825/stream
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-lifestyle-radio-internacional-logo.jpg",Lifestyle Radio Internacional
-https://servidor18.brlogic.com:7682/live
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-informedia-radio-1063-in4media-logo.jpg",Informedia Radio 106.3 - in4media
 http://server.zibiz.net:8000/stream1;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-radio-divina-online-logo.jpg",radio divina online
 https://stream1.svrdedicado.org:7179/;
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-radio-digital-logo.jpg",Radio Rádio digital
-https://sp0.redeaudio.com/radiodigital/stream
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-rfm-jazzy-logo.jpg",Radio RFM Jazzy
-https://25693.live.streamtheworld.com/RFM_JAZZYAAC.aac?dist=onlineradiobox
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-rfm-novas-logo.jpg",Radio RFM Novas
-https://25683.live.streamtheworld.com/RFM_FRESCAS.mp3?dist=onlineradiobox
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-rfm-toca-portugal-logo.jpg",Radio RFM Toca Portugal
-https://27913.live.streamtheworld.com/RFM_PORTUGAL.mp3?dist=onlineradiobox
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-rfm-latinas-logo.jpg",Radio RFM Latinas
-https://25453.live.streamtheworld.com/RFM_LATINAS.mp3?dist=onlineradiobox
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-radio-voz-de-setubal-1-logo.jpg",Radio Rádio Voz de Setúbal 1
 https://ssl.ndvendas.eu:7180/mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-7kilowatte-radio-station-logo.jpg",7kilowatte Radio Station
@@ -507,16 +487,14 @@ https://listen1.myradio24.com/86047
 https://server.vendaslotus.pt:7011/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-evolucao-radio-pt-logo.jpg",Evolução Radio .PT
 https://server.vendaslotus.pt:7025/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-radiotoplove-logo.jpg",RadioTopLove
+https://sp0.redeaudio.com/radiotoplove24/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-mixtape-esad-logo.jpg",Radio Mixtape ESAD
 https://a10.asurahosting.com:7700/radio.mp3
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-favor-radio-portugal-logo.jpg",Favor Radio (Portugal)
-https://a10.asurahosting.com:7660/portugal.mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-recanto-da-dama-logo.jpg",Radio Recanto Da Dama
 https://sonic.servsonic.com/8036/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-costa-verde-radio-logo.jpg",Costa Verde Radio
 https://sonic1.transmissaodigital.com/8062/stream;stream.nsv
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-radio-cantinho-de-guifoes-logo.jpg",Radio Cantinho De Guifoes
-https://s1.stmxp.net:7210/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-radio-cristo-digital-logo.jpg",Radio Cristo Digital
 https://stm1.voxhd.com.br:9980/;stream.nsv
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-pt-radio-christmas-logo.jpg",PT Radio (Christmas)
@@ -524,10 +502,15 @@ https://c19.radioboss.fm:18041/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-antenna-web-setubal-logo.jpg",Radio Antenna Web Setúbal
 https://halo.streamerr.co/listen/italiavera/stream.mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-antenna-web-guarda-logo.jpg",Radio Antenna Web Guarda
+https://halo.streamerr.co/listen/italiavera/stream.mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-antenna-web-beja-logo.jpg",Radio Antenna Web Beja
+https://halo.streamerr.co/listen/italiavera/stream.mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-antenna-web-braga-logo.jpg",Radio Antenna Web Braga
+https://halo.streamerr.co/listen/italiavera/stream.mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-antenna-web-portalegre-logo.jpg",Radio Antenna Web Portalegre
+https://halo.streamerr.co/listen/italiavera/stream.mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-antenna-web-aveiro-logo.jpg",Radio Antenna Web Aveiro
+https://halo.streamerr.co/listen/italiavera/stream.mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-radio-peninsula-logo.jpg",Radio Rádio Península
 https://a7.asurahosting.com:7030/radio.mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-radio-serra-da-estrela-logo.jpg",Radio Rádio serra da estrela
@@ -538,16 +521,10 @@ https://s4.radio.co/s32bfb521e/listen
 https://stream2.svrdedicado.org/8012/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-radio-cidade-gondomar-logo.jpg",Radio cidade Gondomar
 https://api.zeno.fm/mounts/metadata/subscribe/ixsokwqjh6otv
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-gongas-radio-logo.jpg",Radio Gongas Rádio
-https://a6.asurahosting.com:7930/radio.mp3
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-regional-portugal-581150-logo.jpg",Radio Rádio Regional - Portugal
-http://play1.radioregional.pt:8000/stream/2/
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/world-of-metal-619484-logo.jpg",Radio World Of Metal
 http://hyades.shoutca.st:8270/;
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tsf-radio-noticias-157058-logo.jpg",TSF Radio Noticias
-http://tsfdirecto.tsf.pt/tsfdirecto_32K.mp3
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-hertz-168763-logo.jpg",Radio Hertz
-http://213.136.92.8:8030/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-voz-do-caima-576621-logo.jpg",Radio Voz do Caima
+https://www.radiojar.com/g/404/
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-948-fm-578119-logo.jpg",Radio 94.8 FM
 http://centova.radios.pt:9450/;
 #EXTINF:-1 tv-logo="",Radio RTP 1

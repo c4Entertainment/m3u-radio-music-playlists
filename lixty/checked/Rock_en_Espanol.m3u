@@ -5,5 +5,5 @@ http://radio.alphamx.net:8070/;
 http://s6.jcwebnew.com:8120/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/mi-radio-ls-613020-logo.jpg",Mi Radio LS
 http://s6.jcwebnew.com:9020/stream
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/big-radio-623541-logo.jpg",Big Radio
-http://live-balancer.us.bigradio.net/big_radio.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cantifm-619527-logo.jpg",Radio CANTIFM
+http://cast.servebbs.com:9100/;

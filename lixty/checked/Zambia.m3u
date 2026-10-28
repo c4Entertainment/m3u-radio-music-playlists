@@ -10,19 +10,19 @@ https://streaming.shoutcast.com/rcv
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/zm-power-fm-kabwe-logo.jpg",Radio Power FM Kabwe
 https://stream-africa.com/PowerFMKabwe;stream.nsv;stream.nsv;stream.nsv;stream.nsv;stream.nsv
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/zm-smooth-901fm-logo.jpg",Radio Smooth 90.1fm
-https://s25.myradiostream.com:15172/listen.mp3?nocache=1781868093
+https://s25.myradiostream.com:15172/listen.mp3?nocache=1792868297
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/zm-spice-fm-zambia-logo.jpg",Radio Spice FM Zambia
 http://live.rcast.net:8768/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/zm-metro-fm-945-logo.jpg",Radio Metro FM 94.5
-https://s24.myradiostream.com:15422/listen.mp3?nocache=1781868095
+https://s24.myradiostream.com:15422/listen.mp3?nocache=1792868297
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/zm-wave-fm-logo.jpg",Radio Wave FM
+https://s23.myradiostream.com/:17458/listen.mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/zm-breeze-fm-zambia-logo.jpg",Radio Breeze FM Zambia
 http://178.netromedia.com:8000/BreezeFM
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/zm-5fm-radio-zambia-logo.jpg",5fm Radio Zambia
 http://ca9.rcast.net:8014/;stream.mp3?
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/zm-hope-fm-zambia-logo.jpg",Radio Hope Fm Zambia
 https://carina.streamerr.co:8078/stream
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/zm-tuta-radio-logo.jpg",Tuta Radio
-https://s11.myradiostream.com:24282/listen.mp3?nocache=1781868096
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/zm-mphangwe-fm-radio-889-logo.jpg",Mphangwe FM radio 88.9
 https://ec4.yesstreaming.net:1925/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/zm-hero-radio-zambia-logo.jpg",Hero Radio (Zambia)
@@ -35,3 +35,5 @@ https://ec4.yesstreaming.net:1555/stream
 https://ec4.yesstreaming.net:2525/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/zm-roan-fm-1065-logo.jpg",Radio Roan FM 106.5
 https://ec4.yesstreaming.net:1265/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hot-fm-zambia-584192-logo.jpg",Radio Hot FM Zambia
+http://s2.yesstreaming.net:7091/stream

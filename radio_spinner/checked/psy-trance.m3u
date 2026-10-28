@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/97515/logo_EGg4C523gA.png",Psychedelic Jukebox Radio
-https://stream3.rcast.net/69989
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/53883/logo_FHpayAz2aQ.png",GOA/PSY - Радио Рекорд
 https://radiorecord.hostingradio.ru/goa96.aacp
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/28036/logo_C99HC7MrR0.png",Psychedelic Goa Trance Pro Darkspy Radio
@@ -21,14 +19,12 @@ https://listener1.mp3.tb-group.fm/trb.mp3
 http://188.138.251.192:8002/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/52763/logo_MkqptbfnAY.png",Trance Athena Radio
 http://cast.streams.ovh:8008/stream
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/53693/logo_9AJ5LuQvqB.png",Psychedelic.FM Radio
-https://s2.radio.co/s2696f08b5/listen
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/83861/logo_yiHm23z5pr.png",Joint Radio Beat
 https://betelgeuse.nucast.co.uk/stream/jrn-beat
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/28706/logo_oN3Dtf8cDW.png",Ikarus Festivalradio by HITRADIO RT1
-https://edge67.streamonkey.net/rt1-ch36/stream/mp3?aggregator=onlineradiobox&aw_0_1st.playerid=onlineradiobox
+https://edge64.streamonkey.net/rt1-ch36/stream/mp3?aggregator=onlineradiobox&aw_0_1st.playerid=onlineradiobox
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/29708/logo_OrdbLactXI.png",Mandala FM Radio
-https://mandala-fm.stream.laut.fm/mandala-fm?t302=2025-12-07_20-28-36&uuid=e05fcc6b-4942-4daf-b648-8c0cf35c944f
+https://mandala-fm.stream.laut.fm/mandala-fm?uuid=ecda7f87-0197-d9ad-ee22-8c3ae04dbae9&t302=2026-10-24_18-17-42
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/27503/logo_SptFmW1oeV.png",Shamanic Tunes Radio
 https://shamanictunes.stream.laut.fm/shamanic_tunes
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/36247/logo_wQaCslGFsE.png",Toksyna FM Radio
@@ -40,9 +36,9 @@ http://s01.toksyna.fm:8030/
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/41151/logo_LZna0s56H7.png",Mugadavanje Radio
 https://radio.mugadavanje.rs/listen/mugadavanje/mugadavanje
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/35991/logo_2xlVANghCJ.png",DJ Ronny Be GooD Radio
-https://djronnybegood.stream.laut.fm/djronnybegood?t302=2025-12-07_20-28-37&uuid=2cf2d22e-e305-4798-8bdf-632c3fcac92c
+https://djronnybegood.stream.laut.fm/djronnybegood?uuid=1d81c4c7-3889-2ab9-cf7d-1e44a22f9c2e&t302=2026-10-24_18-17-43
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/29147/logo_0PtvuMYO5z.png",Electrocity Radio
-https://electrocity.stream.laut.fm/electrocity?t302=2025-12-07_20-28-37&uuid=028b89d0-f099-44ea-aea6-f313c79a033d
+https://electrocity.stream.laut.fm/electrocity?uuid=0c2f20d6-c574-48a4-0e81-7146002deb62&t302=2026-10-24_18-17-43
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/27355/logo_R3iALPEAXX.png",SpaceFM1 Radio
 https://spacefm1.stream.laut.fm/space_fm_1
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/27737/logo_GYtkU7uH6f.png",PsyStation - Classic Goa Psy Trance Radio
@@ -52,13 +48,13 @@ https://eilo.org/liveplay.php?ch=psychedelic
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/27738/logo_7KQg4OehDx.png",PsyStation - Full On Radio
 https://listen.adtonos.com/psystation-full-on-psy-trance
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44959/logo_8sIB3eqmAK.png",Psytrancelicious Radio
-https://psytrancelicious.stream.laut.fm/psytrancelicious?t302=2025-12-07_20-28-37&uuid=0c0a29ac-ec33-4c27-9888-6956482e0fbb
+https://psytrancelicious.stream.laut.fm/psytrancelicious?uuid=aeec662e-8714-0d0d-6a52-6d97ff81671f&t302=2026-10-24_18-17-43
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/26567/logo_1CxF6NgDzZ.png",Bremen City Nights Radio
 https://bremencitynights.stream.laut.fm/bremencitynights
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/90525/logo_H3Qdq8wRDN.png",UnderProd Radio
-https://premiumserveruk1.listen2myradio.com:8006/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/27804/logo_W9MqnPsSPL.png",Deep Tech Club Radio
 https://deep-tech-club.stream.laut.fm/deep-tech-club
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/48022/logo_hUaecbQO4m.png",Radio Eibiza
+https://a8.asurahosting.com:8020/radio.mp3
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/27353/logo_uqJuCnyFUW.png",Radio Auerhahn
 https://radio-auerhahn.stream.laut.fm/radio-auerhahn
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/27739/logo_YQTNwszpbH.png",PsyStation - Dark Roots Radio

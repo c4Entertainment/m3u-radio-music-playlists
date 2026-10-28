@@ -2,7 +2,7 @@
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/afrika-boom-643108-logo.jpg",Radio afrika-boom
 http://stream.radio.co/se53fee01d/listen
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/99fm-582629-logo.jpg",Radio 99FM
-https://streamdb9web.securenetsystems.net/v5/99FM?CFID=e883fefd-b3a7-4107-b3a3-c709bb883088&CFTOKEN=0
+https://radio.securenetsystems.net/v5/index.cfm?CFID=f10d8efc-16e1-4fc6-bcd1-7c93f308189e&CFTOKEN=0&stationCallSign=99FM
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/na-fresh-fm-logo.jpg",Radio Fresh FM
 https://edge.iono.fm/xice/192_medium.aac
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/na-omulunga-radio-logo.jpg",Omulunga Radio
@@ -18,7 +18,7 @@ https://music-station.live/radio/8000/radio.mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/na-radio-eendrag-logo.jpg",Radio Eendrag
 https://fm.radioeendrag.com/8016/stream.mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/na-padlangs-huistoe-xm-logo.jpg",Radio Padlangs Huistoe XM
-https://s22.myradiostream.com:16060/listen.mp3?nocache=1781864620
+https://s22.myradiostream.com:16060/listen.mp3?nocache=1792867448
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/na-hero-radio-namibia-logo.jpg",Hero Radio (Namibia)
 https://a2.asurahosting.com:6790/namibia.mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/na-06liveradio-logo.jpg",06liveradio
@@ -28,4 +28,4 @@ https://halo.streamerr.co/listen/italiavera/stream.mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/na-nam-radio-local-logo.jpg",Nam Radio Local
 https://music-station.live/radio/8010/radio.mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-wave-571568-logo.jpg",Radio Wave
-https://streamdb8web.securenetsystems.net/v5/967FM?CFID=7f2ef891-359f-4824-a8b0-a0c2b0cf930e&CFTOKEN=0
+https://radio.securenetsystems.net/v5/index.cfm?CFID=baeb5d43-84c6-4532-9830-d9a9fc33618b&CFTOKEN=0&stationCallSign=967FM

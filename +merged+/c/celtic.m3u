@@ -941,3 +941,19 @@ http://stream.audioxi.com/IRISHAAC
 http://server9.streamserver24.com:43638//stream
 #EXTINF:-1 tvg-logo="https://siamsa.ie/wp-content/uploads/2022/07/logo-393-60.png",Radio Siamsa
 https://cast02.siamsa.ie/radio/8000/radio.mp3
+#EXTINF:-1,SomaFM ThistleRadio (128k AAC)
+https://ice6.somafm.com/thistle-128-aac
+#EXTINF:-1,celtic-rock.de
+https://stream.laut.fm/celtic-rock
+#EXTINF:-1,CELTIC ONLINE RADIO | CELTIC MOON
+https://jenny.torontocast.com:8096/stream
+#EXTINF:-1,Donald's Radio
+https://radio.donald.cat/listen/donalds_radio/radio.mp3
+#EXTINF:-1,Gaia FM (New Zealand)
+https://s2.stationplaylist.com:9000/gaiafm.aac
+#EXTINF:-1,Radio Art - Traditional
+https://ice2.somafm.com/thistle-64-aac
+#EXTINF:-1,SomaFM ThistleRadio (32k AAC)
+https://ice6.somafm.com/thistle-32-aac
+#EXTINF:-1,SomaFM ThistleRadio (64k AAC)
+https://ice5.somafm.com/thistle-64-aac

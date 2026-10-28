@@ -22,11 +22,13 @@ http://radios.topymedia.com:8052/;listen.mp3
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/97757/logo_5Lj52JVTOG.jpg?v=20260529-media-restore",Rockin 247 Radio
 https://s4.radio.co/s0f3a44a66/listen
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/26561/logo_2Rs7octywD.jpg?v=20260529-media-restore",Backbeatradio
-https://backbeatradio.stream.laut.fm/backbeatradio?t302=2026-06-18_08-44-21&uuid=6fe513f3-0206-40a7-b6d5-2877637f8150
+https://backbeatradio.stream.laut.fm/backbeatradio?uuid=ce12204f-6a65-9ad5-a682-66999f108c64&t302=2026-10-23_15-35-00
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/96224/logo_1HNklRcyIq.jpg?v=20260529-media-restore",Too Much Too Soon Radio
-https://das-edge15-live365-dal02.cdnstream.com/a15209
+https://das-edge93-live365-dal05.cdnstream.com/a15209
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/26983/logo_5FhmF0rS9w.jpg?v=20260529-media-restore",Boom Chicka Boom Radio
 https://boom-chicka-boom-rockabilly.stream.laut.fm/boom-chicka-boom-rockabilly
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/90026/logo_0AtcVxK9gj.jpg?v=20260529-media-restore",Radio Max de Lagos
+https://stream-179.surfernetwork.com/vn59y7sdfwzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2bjU5eTdzZGZ3enV2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImJCZzJab2ktUXppc01YTHUzUkE0akEiLCJpYXQiOjE3OTI3NjI1MDAsImV4cCI6MTc5Mjc2MjU2MH0.xr2BRCdlqglptlmnyVNv96U0_RiUDyLTh9G-t0alvFQ
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/27782/logo_q3SW0rIulJ.jpg?v=20260529-media-restore",Raus
 https://raus.stream.laut.fm/raus
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/84913/logo_leyRkHrzvu.jpg?v=20260529-media-restore",Swell FM

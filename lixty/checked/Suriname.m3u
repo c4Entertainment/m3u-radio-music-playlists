@@ -3,6 +3,8 @@
 https://surilive.com:8000/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pipel-fm-578290-logo.jpg",Radio PIPEL FM
 https://rs.suricloud.com/radio/8010/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/smooth-fm-597322-logo.jpg",Radio SMOOTH FM
+https://video1.getstreamhosting.com:8340/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/sr-radio-srs-suriname-powered-by-surilivecom-logo.jpg",Radio SRS Suriname - Powered by SuriLive.com
 https://surilive.com:8060/;stream.nsv
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/sr-radio-shruti-logo.jpg",Radio Shruti
@@ -17,8 +19,6 @@ https://surilive.com:8030/;
 https://niofm.beheerstream.nl:8060/stream?
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/sr-surja-vibes-logo.jpg",Radio Surja Vibes
 https://s5.radio.co/s1735f3c1d/listen
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sr-surinet-radio-the-sound-of-the-nation-logo.jpg",Surinet radio - The sound of the nation!
-http://surinetradio.beheerstream.nl:8066/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/sr-fmsr-christmas-radio-logo.jpg",FM.sr Christmas Radio
 https://surilive.com/xmas/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/sr-antenna-web-paramaribo-logo.jpg",Radio Antenna Web Paramaribo

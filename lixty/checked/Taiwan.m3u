@@ -7,22 +7,18 @@ https://stream.rcs.revma.com/pet2dvug1bkvv/hls.m3u8
 http://59.125.41.65:8081/
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/tw-民本廣播-am-1296-logo.jpg",Radio 民本廣播 AM 1296
 https://streamak0134.akamaized.net/live0134lh-5gst/_definst_/am1296/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tw-voice-of-han-logo.jpg",Radio Voice of Han
+https://audio.voh.com.tw/TW/Program/ugC_AMFM.aspx
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/tw-radio-i-go-531-logo.jpg",Radio I go 531
 http://stream.rcs.revma.com/s7hc9kpy2tzuv
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/tw-pbs-taipei-sub-station-logo.jpg",Radio PBS Taipei Sub-Station
 http://stream.pbs.gov.tw:1935/live/TPS/playlist.m3u8
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/tw-mradio全國廣播fm106-logo.jpg",MRadio全國廣播FM106
 https://stream.rcs.revma.com/044q61ha7a0uv
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tw-taiwan-lounge-radio-logo.jpg",Taiwan Lounge Radio
-https://azuracast.conceptradio.fr/radio/8030/stream.mp3?1596557333
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/tw-gogo-radio-fm-1043桃園-logo.jpg",Gogo Radio FM 104.3(桃園)
 https://stream.ginnet.cloud/live0119lo-p4rb/_definst_/fm1043/playlist.m3u8
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tw-pbs-yilan-sub-station-logo.jpg",Radio PBS Yilan Sub-Station
-http://stream.pbs.gov.tw:1935/live/ELS/playlist.m3u8
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/tw-pbs-hualien-sub-station-logo.jpg",Radio PBS Hualien Sub-Station
 http://stream.pbs.gov.tw:1935/live/HLS/playlist.m3u8
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tw-pbs-taidong-sub-station-logo.jpg",Radio PBS Taidong Sub-Station
-http://stream.pbs.gov.tw:1935/live/TTS/playlist.m3u8
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/tw-pbs-taichung-sub-station-logo.jpg",Radio PBS Taichung Sub-Station
 http://stream.pbs.gov.tw:1935/live/TCS/playlist.m3u8
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/tw-cancheers-logo.jpg",Radio CanCheers

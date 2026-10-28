@@ -6,7 +6,7 @@ https://cloudstream2036.conectarhosting.com/8414/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pr-wapa-radio-logo.jpg",WAPA Radio
 https://livestreamcdn.net:2000/stream/waparadio
 #EXTINF:-1 tv-logo="",Radio WMIA
-https://tempototo4d.com/
+https://greentreeremedy.com/
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-vision-en-cristo-602374-logo.jpg",Radio Vision en Cristo
 https://fastcast4u.com/player/albperez/
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/sacra-895-fm-573527-logo.jpg",Radio Sacra 89.5 FM
@@ -54,11 +54,9 @@ https://sp.unoredcdn.net/8158/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pr-morros-logo.jpg",Radio Morros
 http://srv2.plugstreaming.com:8010/;?_=0.0010683470999808264
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pr-radio-antillas-1130-am-logo.jpg",Radio Antillas 1130 AM
-https://das-edge12-live365-dal02.cdnstream.com/a74084
+https://das-edge62-live365-dal03.cdnstream.com/a74084
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/bandera-de-amor-594745-logo.jpg",Radio Bandera de Amor
 https://cp.ministeriosonline.com/stream/banderadeamor
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/emisora-voces-de-sinai-601734-logo.jpg",Radio Emisora Voces De Sinai
-https://streamtv.intervenhosting.net:3368/live/angelcollazolive.m3u8
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pr-victoria-840-am-logo.jpg",Radio Victoria 840 AM
 http://server10.servistreaming.com:9039/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pr-mix-1077-fm-logo.jpg",Radio Mix 107.7 FM
@@ -71,14 +69,12 @@ https://stream.eleden.com:8262/rcima.aac
 https://audio.livecastnet.com:2105/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-jireh-broadcast-605535-logo.jpg",Radio Jireh Broadcast
 https://cloudstream2036.conectarhosting.com:7022/;stream.nsv
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/la-nueva-radio-poder-puerto-rico-648885-logo.jpg",La Nueva Radio Poder Puerto Rico
-http://62.210.24.124:8800/;stream.nsv
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pr-radio-unidad-cristiana-logo.jpg",Radio Unidad Cristiana
 https://c18.radioboss.fm:8058/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pr-radio-raices-1460-am-logo.jpg",Radio Raices 1460 AM
 https://cast10.plugstreaming.com:2000/stream/raices
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-whoy-573124-logo.jpg",Radio WHOY
-https://das-edge17-live365-dal02.cdnstream.com/a73067
+https://das-edge93-live365-dal05.cdnstream.com/a73067
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pr-radio-grito-logo.jpg",Radio Grito
 http://server10.servistreaming.com:9037/;stream.mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pr-la-nueva-94-fm-0-logo.jpg",Radio La Nueva 94 FM
@@ -113,11 +109,14 @@ https://stream1.svrdedicado.org/8344/stream
 https://panel.streamenviron.com:8298/stream.mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pr-radio-luna-de-miel-logo.jpg",Radio Luna de Miel
 https://usa19.fastcast4u.com:8660/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pr-la-poderosa-360-logo.jpg",Radio La Poderosa 360
+https://listen.radioking.com/radio/390112/stream/444184
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pr-mgfamily-radio-logo.jpg",MgFamily Radio
 https://cloudstream2036.conectarhosting.com/8042/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pr-antenna-web-vieques-logo.jpg",Radio Antenna Web Vieques
 https://mars.streamerr.co/8066/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pr-antenna-web-culebra-logo.jpg",Radio Antenna Web Culebra
+https://mars.streamerr.co/8066/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/wpab-185175-logo.jpg",Radio WPAB
 http://68.235.35.243:9059/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/wbmj-572316-logo.jpg",Radio WBMJ
@@ -133,7 +132,7 @@ http://68.235.35.243:9039/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/wlrp-radio-raices-1460-am-573662-logo.jpg",WLRP Radio Raices 1460 AM
 http://cast10.plugstreaming.com:8022/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/fidelity-572850-logo.jpg",Radio Fidelity
-https://streamdb3web.securenetsystems.net/v5/BUENA?CFID=e79a7194-9d96-4904-adc5-1a7916d3f693&CFTOKEN=0
+https://streamdb3web.securenetsystems.net/v5/BUENA?CFID=41a235f2-4484-49e7-a2c2-31a79ea39ed7&CFTOKEN=0
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/breeze-san-juan-168291-logo.jpg",Radio THE BREEZE OF SAN JUAN
 http://icecast01.loudcaster.com:80/602.32.aac
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/triunfo-fm-184630-logo.jpg",Radio Triunfo FM

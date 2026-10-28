@@ -1,12 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79543/logo_ax2RwXMeCa.png",SUN FM Radio
+https://listen.radioking.com/radio/669814/stream/733864
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64941/logo_7AGMJ6MsAl.png",TRACE FM Radio
 https://stream.rcs.revma.com/nv1hu7644k0uv
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/76031/logo_ndv60Or2lt.png",Nord FM Martinique Radio
+https://nordfm.ice.infomaniak.ch/nordfm-128.mp3
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/47786/logo_T2zDxQxVj5.png",Radio Sud Est
 https://stream.vestaradio.com/RADIOSUDEST
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/47883/logo_vEOu0S76Pd.png",RBR Radio
 https://stream.vestaradio.com/RBR
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/99025/logo_0Ob5qYGJcK.png",Tropicalisima.fm - Navidad Radio
-http://tropicalisima.org:8090/
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/97413/logo_GRDCFMKXqJ.png",Radio Potentielle
 https://listen.radioking.com/radio/299077/stream/345652
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/87211/logo_c4kh7OV2iF.png",TROPIK FM Radio
@@ -17,8 +19,12 @@ https://saphirfm.ice.infomaniak.ch/saphirfm-192.mp3
 http://192.211.51.158:8052/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/46965/logo_BVGuDItvec.png",KWI Radio
 https://listen.radioking.com/radio/3200/stream/9806
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/64957/logo_NWTAN1dN6E.png",Steevy FM - Guadeloupe Radio
+https://listen.radioking.com/radio/561305/stream/620924
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/47300/logo_PGvDXdHXwn.png",Allzic Radio Africa
 https://allzic49.ice.infomaniak.ch/allzic51.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/56043/logo_Gcvzo19aFH.png",NRJ Guyane Radio
+https://nrjguyane.ice.infomaniak.ch/nrjguyane-64.aac
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/87840/logo_xMD2dzRH57.png",Tropixx FM Radio
 https://live2.tensila.com/ch3-a-1.philbro/hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/46931/logo_v2PN21DMH4.png",Tropic 84 Radio
@@ -35,8 +41,6 @@ https://streams.radio.co/sbd5d07da5/listen
 https://radio.mayotte-streaming.com/8010/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79533/logo_wkQkIkvjVl.png",Radio Koudjouni
 https://radio.mayotte-streaming.com/8002/stream
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79535/logo_3ZN8I0RXas.png",R.M.V Radio
-http://51.210.148.30:8000/
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/47166/logo_TjzN177t4G.png",PLAY ZOUK ANTILLES Radio
 http://maevatropicale.com:8050/stream.mp3
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/46119/logo_HOxs6WxEVz.png",Tropiques Zouk Radio

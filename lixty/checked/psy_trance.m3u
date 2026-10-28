@@ -2,7 +2,7 @@
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/vn-scientific-sound-asia-radio-logo.jpg",Scientific Sound Asia Radio
 http://carol.epichosts.co.uk:8270/live.mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-ikarus-festivalradio-by-hitradio-rt1-logo.jpg",Ikarus Festivalradio by HITRADIO RT1
-https://edge85.streamonkey.net/rt1-ch36/stream/mp3?aggregator=onlineradiobox&aw_0_1st.playerid=onlineradiobox
+https://edge68.streamonkey.net/rt1-ch36/stream/mp3?aggregator=onlineradiobox&aw_0_1st.playerid=onlineradiobox
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/toksyna-fm-171974-logo.jpg",Radio Toksyna FM
 http://s01.toksyna.fm:8000/;0986735918559134stream.nsv
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pl-toksyna-fm-psy-trance-logo.jpg",Radio Toksyna FM Psy Trance
@@ -40,7 +40,9 @@ https://deep-tech-club.stream.laut.fm/deep-tech-club
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-psychedelic-goa-trance-pro-darkspy-logo.jpg",Radio Psychedelic Goa Trance Pro Darkspy
 https://psychedelicgoatranceprodarkspy.stream.laut.fm/psychedelic_goa_trance_pro_darkspy
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/ch-psytrancelicious-logo.jpg",Radio Psytrancelicious
-https://psytrancelicious.stream.laut.fm/psytrancelicious?t302=2026-06-19_12-17-11&uuid=f75d87f6-d9b1-41c8-8782-790048e88550
+https://psytrancelicious.stream.laut.fm/psytrancelicious?t302=2026-10-24_20-47-07&uuid=4488f2fb-b2cd-c7eb-0ede-d7c65acd85ae
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-psyradio-fm-psytrance-logo.jpg",PsyRADIO FM Psytrance
+http://streamer.psyradio.org:8030/;listen.mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-bremen-city-nights-logo.jpg",Radio Bremen City Nights
 https://bremencitynights.stream.laut.fm/bremencitynights
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-deutscher-untergrund-rap-logo.jpg",Radio Deutscher Untergrund Rap
@@ -52,14 +54,12 @@ http://188.138.251.192:8002/;stream.nsv
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/es-kit-radio-internacional-logo.jpg",Kit Radio Internacional
 https://sonic.sistemahost.es/8250/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/at-dj-ronny-be-good-logo.jpg",Radio DJ Ronny Be GooD
-https://djronnybegood.stream.laut.fm/djronnybegood?t302=2026-06-19_12-17-12&uuid=dcc6ceae-0c4c-4c2b-9590-0fd88cbcd61b
+https://djronnybegood.stream.laut.fm/djronnybegood?uuid=bad599cc-36b0-7088-22d7-dad0f186a5dd&t302=2026-10-24_20-47-08
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-electrocity-logo.jpg",Radio Electrocity
-https://electrocity.stream.laut.fm/electrocity?t302=2026-06-19_12-17-12&uuid=2872ff1e-5dbe-4384-b82a-cf157be08b7d
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mx-underprod-radio-logo.jpg",UnderProd Radio
-https://premiumserveruk1.listen2myradio.com:8006/stream
+https://electrocity.stream.laut.fm/electrocity?uuid=7e7271cf-4075-31a3-0c74-970f47016510&t302=2026-10-24_20-47-08
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/tr-mayday-records-logo.jpg",Radio Mayday Records
 https://stream.maydayrecords.net/radio/8000/maydayrecords.mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-mandala-fm-logo.jpg",Radio Mandala FM
-https://mandala-fm.stream.laut.fm/mandala-fm?t302=2026-06-19_12-17-13&uuid=bfa9cb59-913b-4030-bb1f-2801ab3fedc9
+https://mandala-fm.stream.laut.fm/mandala-fm?uuid=9dba0f9f-e76a-4265-6cfd-cf5b04cb64c2&t302=2026-10-24_21-18-49
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-psystation-nu-goa-logo.jpg",Radio PsyStation - Nu Goa
 https://listen.adtonos.com/pststation-nu-goa-psy-trance

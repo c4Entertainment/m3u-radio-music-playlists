@@ -1,12 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79309/logo_lvByo1cvOH.png",Hatma FM Radio
-https://s18.myradiostream.com/:13488/listen.mp3?nocache=1765141458
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79265/logo_B1uNtKZUY5.png",Bongo Fm Radio
-http://bongoradio.com:8000/african.mp3
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79270/logo_YcQuclcivs.png",Testimony Gospel Radio
 https://a4.asurahosting.com:7590/radio.mp3
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79245/logo_yv8w5uAWg1.png",Uhuru FM Radio
-https://s5.myradiostream.com:42756/listen.mp3?nocache=1765141458
+https://s5.myradiostream.com:42756/listen.mp3?nocache=1792858828
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79347/logo_mTglQdNm82.png",TFF Radio
 https://edge.mixlr.com/channel/ofrkn
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79267/logo_CxSyrMMVbr.png",HFM Radio
@@ -21,6 +17,8 @@ http://198.7.62.157:10056/stream
 https://a5.asurahosting.com:6680/
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79292/logo_DGleucxjAH.png",HERO RADIO
 https://a2.asurahosting.com:6790/radio.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79254/logo_VEB22qZrIB.png",Safari Media Radio
+http://41.59.206.28:88/broadwave.mp3
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79328/logo_ScPGU0ESaM.png",Fungua Radio
 http://65.108.124.70:7435/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79264/logo_QFQMniIX24.png",Nuru Naiangaze Radio
@@ -30,7 +28,7 @@ https://listen.radioking.com/radio/474527/stream/530720
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79276/logo_8J0SCyDgKZ.png",Antenna Web Dodoma Radio
 https://halo.streamerr.co/listen/italiavera/stream.mp3
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79243/logo_PXZ6ut8iL5.png",Street One Radio
-https://strw3.openstream.co/1803?aw_0_1st.collectionid%3D5234%26stationId%3D5234%26publisherId%3D1827%26k%3D1765141459
+https://strw3.openstream.co/1803?aw_0_1st.collectionid%3D5234%26stationId%3D5234%26publisherId%3D1827%26k%3D1792858829
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79260/logo_EZS24UBSO0.png",Kiss FM Tanzania Radio
 https://s3.radio.co/sbe50ddddb/listen
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79312/logo_r11kxOh4N7.png",Dream FM Mbeya Radio
@@ -43,8 +41,6 @@ https://eatv.radioca.st/stream
 http://212.227.150.101:6801/
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79371/logo_nohXtOJeeT.png",Kyela Fm Radio 96.1 Mhz Mbeya
 https://edge.mixlr.com/channel/ehipp
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79321/logo_g6rfsgGp3j.png",Shammah Fm Radio
-https://stream1.rcast.net/71593
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79440/logo_eiep7u0d4T.png",Injili Okoa Taifa Radio
 http://titan.shoutca.st:8083/
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79256/logo_N6rIZ4LN1y.png",Radio Uhai
@@ -58,7 +54,9 @@ http://eu6.fastcast4u.com:5306/
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79369/logo_nB8zCWVzsS.png",Uvinza FM Radio
 http://usa1-vn.mixstream.net:8090/listen.mp3
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79299/logo_3UDCq5yvBL.png",HFM Radio
-https://s38.myradiostream.com:15892/listen.mp3?nocache=1765138875
+https://s38.myradiostream.com:15892/listen.mp3?nocache=1792859405
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79286/logo_tAWKDuaf8L.png",Mwanakondoo Radio
+https://a8.my-control-panel.com:8020/radio.mp3
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79251/logo_VIvlGaUPjR.png",RadioOne
 https://radioonetanzania.radioca.st/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79357/logo_N5XzilXRpL.png",Mungu Kwanza Radio
@@ -77,9 +75,5 @@ http://live2.rcast.net:8590/stream.mp3
 http://uk3-vn.mixstream.net:8144/
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79303/logo_gOwDy9nOjt.png",Nelson Mandela FM Radio
 http://41.93.85.231:5000/
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79443/logo_zyjaOgCw7h.png",Sauti Ya Watanzania Radio
-https://stream.ibadalive.com/8028/stream
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79266/logo_mBQPQ6MXLq.png",80sVibe Radio
-https://s28.myradiostream.com/:29338/listen.mp3?nocache=1765141464
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79274/logo_et4OpX71XI.png",XRadio
-https://streamer.radio.co/s86f9cd445/listen
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79298/logo_Wh1IOZxn31.png",Favor Radio
+https://a10.asurahosting.com:7660/radio.mp3

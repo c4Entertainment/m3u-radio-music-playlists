@@ -1,56 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-la-kzona-stereo-logo.jpg",Radio La Kzona Stereo
-https://server1.intermediacolombia.com/8036/stream
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-canela-usa-fm-610376-logo.jpg",Radio Canela Usa Fm
-https://sp.oyotunstream.com:10975/;
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-ritmo-boyaca-boyaca-logo.jpg",Radio Ritmo Boyacá Boyacá
-https://radiohd.streaminghd.co:7436/live
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-besame-0-1-2-3-4-logo.jpg",Radio Bésame
-https://27423.live.streamtheworld.com/BESAME_MANIZALESAAC.aac?dist=onlineradiobox
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ec-america-estereo-logo.jpg",Radio America Estereo
-https://streamingecuador.net:9101/stream
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ec-tropicalida-logo.jpg",Radio Tropicalida
-https://alba-ec-tropicalida-tropicalida.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ec-america-estereo-0-logo.jpg",Radio America Estereo
-https://streamingecuador.net:9103/stream
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ec-america-estereo-0-1-2-logo.jpg",Radio America Estereo
-https://streamingecuador.net:9104/stream
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/do-tropical-100-vallencumbia-logo.jpg",Radio Tropical 100 VallenCumbia
-https://tropical100.net:8452/;
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ve-zulia-vallenata-logo.jpg",Radio Zulia Vallenata
-https://laradiossl.online:10347/;stream.nsv
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-la-mega-capital-logo.jpg",Radio La Mega Capital
-https://audio.livecastnet.com:2635/stream
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/el-sol-186702-logo.jpg",Radio El Sol
-https://www.rcnradio.com/elsolbuenaventura
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-besame-logo.jpg",Radio Bésame
-https://14073.live.streamtheworld.com/BESAME_CALIAAC.aac?dist=onlineradiobox
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-paisa-179127-logo.jpg",Radio Paisa
-https://www.rcnradio.com/radiopaisa
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-radio-guajira-estereo-logo.jpg",Radio Guajira Estéreo
-https://ssl.rads2.com/listen/guajira2/radio.mp3
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-pop-anglo-logo.jpg",Radio Pop Anglo
-https://www.rcnradio.com/popanglo
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-radio-uno-logo.jpg",Radio Uno
-https://www.rcnradio.com/radiounobarbosa
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-fantastica-logo.jpg",Radio Fantástica
-https://www.rcnradio.com/fantasticamedellin
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-calidad-158409-logo.jpg",Radio Calidad
-https://www.rcnradio.com/calidadcali
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-uno-179292-logo.jpg",Radio Uno
-https://www.rcnradio.com/radiounocali
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-radio-uno-0-logo.jpg",Radio Uno
-https://www.rcnradio.com/radiounobarranca
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-la-reina-0-logo.jpg",Radio La Reina
-https://27393.live.streamtheworld.com/RNA_CARTAGENA.mp3?dist=onlineradiobox
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/olimpica-stereo-barranquilla-580055-logo.jpg",Radio Olímpica Stereo (Barranquilla)
-https://master.letio.com/io/?gs=9102u0026type=live.m3u8
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/cl-radio-la-sabrosita-fm-0-1-logo.jpg",Radio La Sabrosita FM
 https://audio.streaminghd.cl:9234/stream/1/
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-besame-0-1-logo.jpg",Radio Bésame
-https://24403.live.streamtheworld.com/BESAME_PEREIRA_FMAAC.aac?dist=onlineradiobox
+https://24253.live.streamtheworld.com/BESAME_PEREIRA_FMAAC.aac?dist=onlineradiobox
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-besame-0-1-2-logo.jpg",Radio Bésame
-https://24403.live.streamtheworld.com/BESAME_BARRANQUILLAAAC.aac?dist=onlineradiobox
+https://24443.live.streamtheworld.com/BESAME_BARRANQUILLAAAC.aac?dist=onlineradiobox
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-la-sonora-fm-0-1-logo.jpg",Radio La Sonora FM
 https://sonic.paulatina.co/8128/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-la-sonora-fm-0-1-2-logo.jpg",Radio La Sonora FM
@@ -61,22 +15,16 @@ https://radiolatina.info:10942/stream
 https://www.rcnradio.com/radiounocucuta
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/ec-america-estereo-0-1-logo.jpg",Radio America Estereo
 https://streamingecuador.com:9100/stream
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/olimpica-fm-monteria-580062-logo.jpg",Radio Olímpica FM (Montería)
-https://master.letio.com/io/?gs=9112u0026type=live.m3u8
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-oriente-stereo-logo.jpg",Radio Oriente Stereo
 https://www.rcnradio.com/radiounolaceja
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-oriental-stereo-logo.jpg",Radio ORIENTAL STEREO
 https://radio25.virtualtronics.com:20032/;
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/carnavalxsiempre-606749-logo.jpg",Radio Carnavalxsiempre
-https://streaming.radiosenlinea.com.ar:10558/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-radio-1-villavicencio-logo.jpg",Radio 1 Villavicencio
 https://radiounovillavo.com.co/stream/
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-corazon-estereo-logo.jpg",Radio Corazon Estereo
 https://yesfm.vip:8020/romantica.mp3/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pedazo-de-acordeon-633838-logo.jpg",Radio Pedazo de Acordeon
 http://62.210.38.137:8446/index.html;
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/asoam-stereo-164537-logo.jpg",Radio Asoam Stereo
-https://edge-audio-06-thn.sharp-stream.com/midwestfmie2.aac
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-puerto-estereo-logo.jpg",Radio Puerto Estereo
 https://streaming.radiosenlinea.com.ar:10835/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-cacica-stereo-valledupar-logo.jpg",Radio Cacica Stereo Valledupar
@@ -91,10 +39,16 @@ http://163.172.77.142:8261/;
 https://radiohd.streaminghd.co:9398/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/frecuencia-estereo-605497-logo.jpg",Radio Frecuencia estéreo
 https://listen.usuarios.space/frecuenciaestereo/
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-fiesta-cucuta-logo.jpg",Radio Fiesta Cúcuta
-https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/632ccc1b660fef03fe385c8b
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-la-buena-954-fm-logo.jpg",Radio La Buena 95.4 FM
 https://live.asoredes.com:8140/San-Buenaventura-Stereo.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-fundinguecom-logo.jpg",Radio Fundingue.com
+http://s1.vpsradio.com:8068/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-popularisima-estereo-logo.jpg",Radio Popularísima Estéreo
+https://radiohd.streaminghd.co:7390/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-rancheria-stereos-logo.jpg",Radio Ranchería Stereos
+https://radios.miservidor.cloud/8022/stream;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-tropirumba-fm-logo.jpg",Radio Tropirumba FM
+https://server2.ejeserver.com:8070/live
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/roble-stereo-593221-logo.jpg",Radio Roble Stereo
 https://radio30.virtualtronics.com/proxy/roblestereo?mp=/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-tropirecuerdos-logo.jpg",Radio Tropirecuerdos
@@ -107,8 +61,6 @@ http://s1.vpsradio.com:8036/;
 https://streaming.radiosenlinea.com.ar:10894/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-linda-stereo-logo.jpg",Radio Linda Stereo
 https://sh1.radioonlinehd.com:8042/stream
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-la-mas-zonada-logo.jpg",Radio La Más Zonada
-https://radiohd.streaminghd.co:9316/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/ec-radio-el-rosal-producciones-logo.jpg",Radio El Rosal Producciones
 https://aacplus.rstreaminghd.com/8044/;stream.nsv
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-la-ciento-7-digital-logo.jpg",Radio La Ciento 7 Digital
@@ -117,6 +69,8 @@ https://radiohd.streaminghd.co:7190/live
 http://192.99.203.81:8704/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-jilguero-stereo-logo.jpg",Radio Jilguero Stereo
 http://s1.vpsradio.com:9986/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-la-kantina-online-logo.jpg",Radio La Kantina Online
+https://play10.tikast.com:20095/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-metropolis-online-logo.jpg",Radio Metropolis Online
 https://streaming.radiosenlinea.com.ar:10898/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/es-color-estereo-1037-and-1040-logo.jpg",Radio Color Estéreo 103.7 & 104.0
@@ -125,14 +79,14 @@ https://azura5.emisiononline.es/listen/color_estereo/radio.mp3
 https://radiohd.streaminghd.co:7289/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-la-rumbera-stereo-logo.jpg",Radio La Rumbera Stereo
 https://radio30.virtualtronics.com:20064/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-discorumba-954-fm-logo.jpg",Radio DiscoRumba 95.4 FM
+https://virtual1.emisorasvirtuales.com:8050/live?type=httpu0026nocache=3/;stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-fiesta-latina-logo.jpg",Radio Fiesta Latina
+https://radio35.virtualtronics.com:20023/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-veraniega-estereo-965-logo.jpg",Radio Veraniega Estereo 96.5
 http://163.172.198.16:8080/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-radio-hit-colombia-logo.jpg",Radio Hit Colombia
 https://radiohd.streaminghd.co:7610/stream
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-olimpica-espinal-logo.jpg",Radio Olimpica Espinal
-https://stream.jachmedia.com/8314/stream
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-audio-dj-producer-radio-logo.jpg",Audio Dj Producer Radio
-https://stream.vocesparatumarca.net/8060/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-la-consentida-893-fm-logo.jpg",Radio La Consentida 89.3 fm
 https://stream4.305stream.com:9276/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-rencordradio-logo.jpg",Rencordradio
@@ -155,12 +109,16 @@ https://radiohdstreaming.com/radio/8180/farra
 https://emisora.ansangue.com:8030/radio.mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-la-nacion-huila-stereo-0-logo.jpg",Radio La Nación Huila Stereo
 https://radiohd.streaminghd.co:7220/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-la-rumbera-1035-fm-logo.jpg",Radio LA RUMBERA 103.5 FM
+https://stream.vocesparatumarca.net:7027/;stream.nsv
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-la-vallenata-fm-logo.jpg",Radio La Vallenata Fm
 https://server2.ejeserver.com:8360/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-jl-radio-logo.jpg",JL Radio
+https://play14.tikast.com:22006/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-colon-estereo-logo.jpg",Radio Colón Estéreo
+https://hoth.alonhosting.com:3615/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-superiority-radio-logo.jpg",Superiority Radio
 https://radio13.servidorderadio.net/9398/stream;;stream.nsv
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dinamica-stereo-160855-logo.jpg",Radio Dinamica Stereo
-https://play8.tikast.com:20077/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/zax-fm-647093-logo.jpg",Radio Zax Fm
 https://sonicpanel.globalstream.pro/8182/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-midia-digital-logo.jpg",Radio Mídia Digital
@@ -199,8 +157,6 @@ https://server1.intermediacolombia.com:8008/stream
 https://radio.lacasaradio.com/radiovoltio/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/ec-paisanita-radio-logo.jpg",Paisanita Radio
 http://stream.hdserver.biz:9414/;
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-olimpica-honda-logo.jpg",Radio Olimpica Honda
-https://stream.jachmedia.com/8332/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/py-rj-music-py-logo.jpg",Radio Rj Music Py
 https://stream.radiosenpy.net/8154/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-radio-chipo-logo.jpg",Radio Chipo
@@ -211,6 +167,10 @@ https://sonic.paulatina.co/7068/stream
 https://sonic.paulatina.co/8120/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-kurrambera-stereo-935-fm-logo.jpg",Radio Kurrambera Stereo 93.5 Fm
 https://streaming.radiosenlinea.com.ar/8256/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-clarita-stereo-logo.jpg",Radio Clarita Stereo
+https://radiohd.streaminghd.co:7000/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-discorumba-954-fm-logo.jpg",Radio DiscoRumba 95.4 FM
+https://virtual1.emisorasvirtuales.com:8050/live
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-voz-de-la-capilla-logo.jpg",Radio Voz de la Capilla
 https://sonic.paulatina.co:10920/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-pentagrama-stereo-logo.jpg",Radio Pentagrama Stereo
@@ -227,14 +187,10 @@ https://sp.oyotunstream.com:10997//stream
 https://radio25.virtualtronics.com:20061/autodj
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/cl-la-mas-kaliente-logo.jpg",Radio La Más Kaliente
 https://audio1stream.com/8002/stream
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/la-caliente-1330-164579-logo.jpg",Radio La Caliente 1330
-https://live.voltajedigital.com/listen/la-caliente-1330/LACALIENTE.mp3
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-radio-play-la-union-logo.jpg",Radio Play La Unión
-https://play8.tikast.com:20113/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/es-la-movida-latina-logo.jpg",Radio La Movida Latina
 https://server2.ejeserver.com:8400/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-wir-on-air-logo.jpg",Radio Wir On Air
-https://wironair.stream.laut.fm/wironair?t302=2026-06-19_12-40-21&uuid=e17f6939-7429-4a4e-9c59-569e517e35a1
+https://wironair.stream.laut.fm/wironair?uuid=5d4c41b7-cc03-2a8f-4664-001f758a94cb&t302=2026-10-24_23-37-38
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-la-sonora-logo.jpg",Radio La Sonora
 https://sonic.paulatina.co/8122/stream;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-la-sonora-valle-de-tenza-logo.jpg",Radio La Sonora Valle de Tenza
@@ -263,16 +219,8 @@ https://streaming.radiosenlinea.com.ar/8016/stream
 https://stream5.305stream.com/6208/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-buturama-stereo-logo.jpg",Radio Buturama Stereo
 https://tupanel.info:2000/stream/ButuramaStereo?1680545213417
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-colvalencia-radio-logo.jpg",Colvalencia Radio
-https://radiohd.streaminghd.co:7763/stream
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-la-voz-de-la-jagua-logo.jpg",Radio La Voz De La Jagua
-https://play8.tikast.com:20013/stream
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ve-maxima-1039-que-una-radio-logo.jpg",Maxima 103.9 + que una radio
-https://laradiossl.online:10499/live
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-cerro-murillo-stereo-logo.jpg",Radio Cerro Murillo Stereo
 https://sonic.paulatina.co/8048/stream
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-dividivi-estereo-logo.jpg",Radio DiviDivi Estereo
-https://djp.sytes.net/listen/dividivi_estereo/radio
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-mivallenatacom-logo.jpg",Radio Mivallenata.com
 http://51.15.160.78:8470/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-la-joya-fm-valledupar-logo.jpg",Radio La Joya Fm Valledupar
@@ -281,12 +229,8 @@ https://sonic.paulatina.co/8028/stream
 https://djp.sytes.net/listen/iguaraya_stereo/radio
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-parranda-vallenata-web-logo.jpg",Radio Parranda Vallenata Web
 https://a7.asurahosting.com:6640/radio.mp3
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-la-exitosa-acevedo-logo.jpg",Radio La Exitosa Acevedo
-https://play8.tikast.com:20047/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-la-movida-fm-logo.jpg",Radio La movida fm
 https://dattavolt.com/8160/stream;stream.nsv
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-la-r-digital-logo.jpg",Radio La R Digital
-https://radio.lamovidaonline.co:8030/lardigital
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/ve-angelus-radio-logo.jpg",Angelus Radio
 https://guri.tepuyserver.net/8108/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-dibal-radio-logo.jpg",Dibal Radio
@@ -324,4 +268,4 @@ https://server1.intermediacolombia.com/8082/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-la-reyna-logo.jpg",Radio La Reyna
 https://cp.sonicpanel.stream/8258/stream;stream.nsv
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-rumba-fm-0-logo.jpg",Radio Rumba FM
-https://rumbafmradio.stream.laut.fm/rumbafmradio?t302=2026-06-19_12-40-27&uuid=4f003299-bd50-4c4c-ad08-e281b4d4271f
+https://rumbafmradio.stream.laut.fm/rumbafmradio?uuid=cdcc7cf8-ae74-52a7-e36f-fdb7fb3fdad5&t302=2026-10-25_00-16-25

@@ -1,12 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-fuego-usquil-logo.jpg",Radio Fuego - Usquil
-https://server01.heplayer.com/8112/stream
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-radio-s-m-m-985-fm-logo.jpg",RADIO S M M  98.5 FM
-https://maximacenterdata.com/8116/stream
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-portalcumbiape-logo.jpg",Radio PortalCumbia.PE
-https://conectperu.com/8320/stream
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/metropolis-radio-616277-logo.jpg",METROPOLIS RADIO
-http://centova.perustream.com:8010/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/carolina-609113-logo.jpg",Radio carolina
+https://carolinaraoz.com/
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-emanuel-de-tocache-641451-logo.jpg",Radio Emanuel de Tocache
 http://myradiostream.com/200925
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-patamarca-fm-590118-logo.jpg",Radio Patamarca FM
@@ -26,11 +20,11 @@ http://equinox.shoutca.st:8741/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-radio-nacional-del-peru-logo.jpg",Radio Nacional del Peru
 http://cdnhd.iblups.com/hls/0773874174fd4eba8bb9eff741d190dc.m3u8
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-radio-panamericana-logo.jpg",Radio Panamericana
-https://us-b4-p-e-ml19-audio.cdn.mdstrm.com/live-audio-aw/6598b62dded1380470f4e539?aid=658ddcc0b2c7835d48fee06d&property=onlineradiobox.com&pid=XpHfOYHnZNTViF64vkSmNW6NvFCvMF97&sid=oPqyg8IMrYc0FmP2eerYicWCRrgIjtol&uid=GogjvyvfSdaSVfZ6jR0O0O6Vhc7dMeTz&es=us-b4-p-e-ml19-audio.cdn.mdstrm.com&ote=1781973155389&ot=hq-uxNpJOuEy4v7QgDTNsA&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&aw_0_1st.playerId=onlineradiobox.com&liveId=6598b62dded1380470f4e539&propertyName=onlineradiobox.com&propertyType=rss-app&listenerId=GogjvyvfSdaSVfZ6jR0O0O6Vhc7dMeTz
+https://us-b4-p-e-jn18-audio.cdn.mdstrm.com/live-audio-aw/6598b62dded1380470f4e539?aid=658ddcc0b2c7835d48fee06d&property=onlineradiobox.com&pid=xgPjpVW9bX2ZRDylq7NZNnAVTxYAMloG&sid=O1jBtHzwcnT5FoTOYtFh38NtuQhwtSsf&uid=9X1ah81BDtJhPwMYvEqC3KTVRLmkH4AY&es=us-b4-p-e-jn18-audio.cdn.mdstrm.com&ote=1792963449179&ot=9PeYoeS9MgLYbKgpskn0CA&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&aw_0_1st.playerId=onlineradiobox.com&liveId=6598b62dded1380470f4e539&propertyName=onlineradiobox.com&propertyType=rss-app&listenerId=9X1ah81BDtJhPwMYvEqC3KTVRLmkH4AY
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-comas-163363-logo.jpg",Radio Comas
 https://tupanel.info:9910/;stream.nsv
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/onda-cero-156883-logo.jpg",Radio Onda Cero
-https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/6598b65ab398c90871aff8cc?aid=658ddcc0b2c7835d48fee06d&property=onlineradiobox.com&pid=J4P5tMFhji244HtHcGQg7Gv8qGCXGheB&sid=UmTr3FKqPLo8DnP2mD00g4nLH4rI7adi&uid=UGQ7zy2IzEpA6Gv5fI1Qs1nLvD6yWa7s&es=us-b4-p-e-zs14-audio.cdn.mdstrm.com&ote=1781973155770&ot=KIU9JjGI4aESx9yfKQNXrg&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&aw_0_1st.playerId=onlineradiobox.com&liveId=6598b65ab398c90871aff8cc&propertyName=onlineradiobox.com&propertyType=rss-app&listenerId=UGQ7zy2IzEpA6Gv5fI1Qs1nLvD6yWa7s
+https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/6598b65ab398c90871aff8cc?aid=658ddcc0b2c7835d48fee06d&property=onlineradiobox.com&pid=2vJI1VoNuK187XjF9tQZKdacGpOQexI0&sid=WUlwwe5L8YsptdL6xt3xX6mlTEO5LUKG&uid=JFv6iLkigwmbhTzScCKm8dewrTRjca6P&es=us-b4-p-e-zs14-audio.cdn.mdstrm.com&ote=1792963453629&ot=v-x59qdtB8-yA7rHwobQ8Q&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&aw_0_1st.playerId=onlineradiobox.com&liveId=6598b65ab398c90871aff8cc&propertyName=onlineradiobox.com&propertyType=rss-app&listenerId=JFv6iLkigwmbhTzScCKm8dewrTRjca6P
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/peru-folk-radio-171324-logo.jpg",Peru Folk Radio
 https://raymistream.net/listen/perufolkradio/live
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-jr-155027-logo.jpg",Radio JR
@@ -63,8 +57,6 @@ https://st3.inkaniserver.net:8008/stream
 http://51.89.173.53:8031/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/senal-pirata-radio-162714-logo.jpg",Senal Pirata Radio
 https://conectperu.com:7040/;stream.nsv
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-la-vaca-logo.jpg",Radio La Vaca
-https://radio.streamingnacional.online/8168/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-libertad-183426-logo.jpg",Radio Libertad
 https://radio.pjcks.com/9972/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-radio-level-hits-logo.jpg",Radio Level Hits
@@ -95,14 +87,10 @@ https://mediastreamm.com/8114/stream
 https://sp.onliveperu.com/8148/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-full-adventistas-radio-logo.jpg",Full Adventistas Radio
 https://server2.ejeserver.com:8457/autodj
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-matucana-170688-logo.jpg",Radio Matucana
-http://radio.transmite.pe:9316/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-libertad-de-junin-157129-logo.jpg",Radio Libertad de Junin
 http://radio.transmite.pe:9342/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-radio-patamarca-logo.jpg",Radio Patamarca
 https://radio.transmite.pe/9400/stream
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-rsd-600694-logo.jpg",Radio RSD
-https://tupanel.info:8240/;stream.nsv
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-radio-chevere-caraz-logo.jpg",Radio Chevere Caraz
 http://radio.sistemasandinos.org:7084/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-vox-fm-logo.jpg",Radio VOX FM
@@ -120,7 +108,7 @@ https://lakalle.egostreaming.pe/radio/a7b9c3e4567f8d0123456789/
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-radio-la-karibena-logo.jpg",Radio La Karibeña
 https://karibena.egostreaming.pe/radio/6898b6e52d9e088a6de159/
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-radio-1160-logo.jpg",Radio 1160
-https://us-b4-p-e-jn18-audio.cdn.mdstrm.com/live-audio-aw/6598b6e1261d9e088a6de859?aid=658ddcc0b2c7835d48fee06d&property=onlineradiobox.com&pid=c77daIhPGIADZ0frtZtiaTKB97hDqCr9&sid=smojniyJNphZtuE9GtnO3s14tMyCktI7&uid=phkWS0DAcCIMvvXbeMh9qIryQCnUfFyx&es=us-b4-p-e-jn18-audio.cdn.mdstrm.com&ote=1781973165499&ot=8GZxN4GhcEOu3pvrbNSaUw&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&aw_0_1st.playerId=onlineradiobox.com&liveId=6598b6e1261d9e088a6de859&propertyName=onlineradiobox.com&propertyType=rss-app&listenerId=phkWS0DAcCIMvvXbeMh9qIryQCnUfFyx
+https://us-b4-p-e-jn18-audio.cdn.mdstrm.com/live-audio-aw/6598b6e1261d9e088a6de859?aid=658ddcc0b2c7835d48fee06d&property=onlineradiobox.com&pid=C2vLCQEvkmV5YctQSv7uh9Jfn2MVq66c&sid=8y01ufhkjOS5HEdm1XadSBI7GCQy2bxi&uid=1z4ePWbJLlD5eaJm9wN9VblrjHD4ZCHS&es=us-b4-p-e-jn18-audio.cdn.mdstrm.com&ote=1792964108479&ot=36PkzylJSZgRJDn1nmkd2Q&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&aw_0_1st.playerId=onlineradiobox.com&liveId=6598b6e1261d9e088a6de859&propertyName=onlineradiobox.com&propertyType=rss-app&listenerId=1z4ePWbJLlD5eaJm9wN9VblrjHD4ZCHS
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-radio-huancayo-logo.jpg",Radio Huancayo
 https://cloud9.ldwebstudios.net:7000/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-retro-157931-logo.jpg",Radio Retro
@@ -130,21 +118,17 @@ https://st3.inkaniserver.net:8052/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-stereo-lima-logo.jpg",Radio Stereo Lima
 https://panel.innovatestream.pe/8042/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-radio-corazon-logo.jpg",Radio Corazón
-https://us-b4-p-e-ml19-audio.cdn.mdstrm.com/live-audio-aw/5fada514fc16c006bd63370f/playlist.m3u8?aid=5faaeb72f92d7b07dfe10181&pid=BnNSHkbCDuWFAMLWUhCWRPQdsy6embMO&sid=VLakZBhAh3jn6tOjiPmoczSxEc8KX0bL&uid=mo2ZPt1XZJidlkSyMLq0d3W0JUyk929s&es=us-b4-p-e-ml19-audio.cdn.mdstrm.com&ote=1781973171658&ot=bbtIYy-xQl8jlTbVKQwfVg&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada514fc16c006bd63370f&listenerId=mo2ZPt1XZJidlkSyMLq0d3W0JUyk929s
+https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/5fada514fc16c006bd63370f/playlist.m3u8?aid=5faaeb72f92d7b07dfe10181&pid=tVeF46rStP7cERHcbAwsrgurG7JhWsmz&sid=0W0g4xC25WcsveD5O1m3RLavtgYjWFuA&uid=0nQCMUUxXbOG5aRjyOs1SRjcXpVmyGfC&es=us-b4-p-e-pb13-audio.cdn.mdstrm.com&ote=1792964759986&ot=V4KmY0LIWsTsp8axKEw9qA&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada514fc16c006bd63370f&listenerId=0nQCMUUxXbOG5aRjyOs1SRjcXpVmyGfC
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-roliz-617484-logo.jpg",Radio Roliz
 https://radio.sistemasandinos.org/7420/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-la-zona-logo.jpg",Radio La Zona
-https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/5fada54116646e098d97e6a5/playlist.m3u8?aid=5faaeb72f92d7b07dfe10181&pid=z16aITgqPpCwmlWUzWoIY2yYhFpJ61ot&sid=gaa7M9rtB8y21sJL7sa3tQQSiSMXXDzx&uid=PUEuELhnJNOwL5vkv5IuRV26wSHbjOVD&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1781973172522&ot=6o5FMIMjkKfz2lvkoR3P4g&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada54116646e098d97e6a5&listenerId=PUEuELhnJNOwL5vkv5IuRV26wSHbjOVD
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-radio-estudio-99-logo.jpg",Radio Estudio 99
-https://sonic.dattassd.com:10813/1/1
+https://us-b4-p-e-jn18-audio.cdn.mdstrm.com/live-audio-aw/5fada54116646e098d97e6a5/playlist.m3u8?aid=5faaeb72f92d7b07dfe10181&pid=XufR6sI7XF5tk8Goe3Ru2ew6U6HOKHiX&sid=BsmGejnwY73TpXl3VcSLtistqqan43WS&uid=GIRdhkSnRz5nqQXbQw1KNfCdBnaXEkMt&es=us-b4-p-e-jn18-audio.cdn.mdstrm.com&ote=1792965353642&ot=BNMLWKW8xQqjuVz-q76BDg&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada54116646e098d97e6a5&listenerId=GIRdhkSnRz5nqQXbQw1KNfCdBnaXEkMt
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-radio-latina-logo.jpg",Radio Latina
 https://stm2.srvif.com:7974/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-radio-cordillera-logo.jpg",Radio Cordillera
 https://sonic.dattassd.com/2002/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/rescate-rock-and-pop-624756-logo.jpg",Radio Rescate Rock and Pop
 https://cloudstream2032.conectarhosting.com/9558/stream
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/peruana-radio-642074-logo.jpg",Peruana Radio
-https://cloudstream2036.conectarhosting.com:7176/;stream.nsv
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-cadena-cristiana-del-peru-logo.jpg",Radio CADENA CRISTIANA DEL PERU
 https://maximacenterdata.com/8104/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-radio-la-rumba-pagozar-logo.jpg",Radio La Rumba Pa'gozar
@@ -165,10 +149,8 @@ https://sonic.cloudstreaming.eu/8122/stream;stream.nsv
 https://cloudstream2032.conectarhosting.com/8116/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-onda-7-radio-logo.jpg",Onda 7 Radio
 https://sp1.streamingssl.com/8074/stream
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-radio-vesanico-logo.jpg",Radio Vesánico
-https://radiosonline.one/radio/8390/radio.mp3
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-radio-apurimena-957-logo.jpg",Radio Apurimeña 95.7
-https://sonic.dattassd.com/4054/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-carolinafm-logo.jpg",Radio Carolinafm
+https://mediastreamm.com:8124/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-radio-clasica-rockandpop-logo.jpg",Radio Clasica Rock&Pop
 https://sonicpanel.globalstream.pro/8042/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-radio-hits-logo.jpg",Radio Hits
@@ -198,17 +180,17 @@ https://radio.andaina.net/malkiretro/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-radio-huascaran-1045-fm-logo.jpg",Radio Huascaran 104.5 FM
 https://stream.mediatexcomunicaciones.com/8060/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/studio-92-569293-logo.jpg",Radio Studio 92
-https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/5fada553978fe1080e3ac5ea/playlist.m3u8?aid=5faaeb72f92d7b07dfe10181&pid=TALl595dl5zDUdOJEEfZAqdZbI1L0k1r&sid=yFvqEBKi2NtfjnykQBuy0wFe0pKwe1UL&uid=2AnbVpIeKntX6BQpD3x21aPgEw2JkWe8&es=us-b4-p-e-pb13-audio.cdn.mdstrm.com&ote=1781973183583&ot=Bay1Iag6dq-3pm5Vekr36w&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada553978fe1080e3ac5ea&listenerId=2AnbVpIeKntX6BQpD3x21aPgEw2JkWe8
+https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/5fada553978fe1080e3ac5ea/playlist.m3u8?aid=5faaeb72f92d7b07dfe10181&pid=HuYSE6fbCo2otvtnsOMd0WkOQNUVdedN&sid=o98xkXidcEdqBa7W2HrBUW4XtoMHvlNE&uid=fhFfBEaGab46PyCki6dYYbJFrbUng6U5&es=us-b4-p-e-qg12-audio.cdn.mdstrm.com&ote=1792966951168&ot=dQ99mOS7XsBFpPv9MZnn4Q&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada553978fe1080e3ac5ea&listenerId=fhFfBEaGab46PyCki6dYYbJFrbUng6U5
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-radio-otuzco-logo.jpg",Radio Otuzco
 http://Centova.perustream.com:8034/;stream.nsv
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-huacoson-radio-logo.jpg",Huacoson Radio
 http://conectperu.com:8230/;stream/1
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-radio-pacifico-logo.jpg",Radio Pacífico
+https://sites.google.com/view/pacificoradio-640/p%C3%A1gina-principal
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-remembranzas-del-criollismo-logo.jpg",Radio Remembranzas del Criollismo
 https://sonic.sistemahost.es:7045/;stream.nsv
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-radio-super-color-fm-logo.jpg",Radio Super Color FM
 https://conectperu.com:7132/;
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-diario-peru-logo.jpg",Radio Diario Perú
-https://mpc1.mediacp.eu:8112/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-evangelio-eterno-radio-logo.jpg",Evangelio Eterno Radio
 https://sp.onliveperu.com/8172/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-radio-git-uripa-logo.jpg",Radio Git Uripa
@@ -217,12 +199,8 @@ https://radio.perustream.com:7005/index
 https://sonic.dattassd.com/8080/stream;stream.nsv
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-radio-apurimena-973-logo.jpg",Radio Apurimeña 97.3
 https://sonic.dattassd.com/8080/stream:;stream.nsv
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-radio-curahuasi-1045-fm-logo.jpg",Radio Curahuasi 104.5 fm
-https://sonic.dattassd.com/9162/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-la-kaprichoza-ke-buena-logo.jpg",Radio La Kaprichoza ke buena
 https://sp.oyotunstream.com/9398/stream;stream.nsv
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-radio-apurimena-1005-fm-logo.jpg",Radio Apurimeña 100.5 fm
-https://sonic.dattassd.com/8200/stream;stream.nsv
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-radio-urano-fm-logo.jpg",Radio Urano fm
 https://c6.radioboss.fm:8271/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-radio-sonica-1033-logo.jpg",Radio Sónica 103.3
@@ -246,15 +224,13 @@ https://conectperu.com/8406/;/
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-radio-urbana-logo.jpg",Radio Urbana
 https://radio.sistemasandinos.org:10905/;/stream?icy=http
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-radio-la-nube-logo.jpg",Radio La Nube
-https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/6598b70f86344b02b58ce836?aid=658ddcc0b2c7835d48fee06d&property=onlineradiobox.com&pid=rgPVedwfa3TDSuy8xspMDHsIC4kGYO1N&sid=Ma2Io3RlxDjsclHax5i9gSQSezoO2brS&uid=V2ldj6d2w6LoSogqFCwHEhA9DVFegH1G&es=us-b4-p-e-pb13-audio.cdn.mdstrm.com&ote=1781973192600&ot=0wCNQCQEr08oSZmStN7rTw&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&aw_0_1st.playerId=onlineradiobox.com&liveId=6598b70f86344b02b58ce836&propertyName=onlineradiobox.com&propertyType=rss-app&listenerId=V2ldj6d2w6LoSogqFCwHEhA9DVFegH1G
+https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/6598b70f86344b02b58ce836?aid=658ddcc0b2c7835d48fee06d&property=onlineradiobox.com&pid=A67fWtnyOgAYzMsGfetr0e8l2eW5vgfc&sid=5oaMRHz0wDliuYE0zFsizFhnofawPxgq&uid=tGgCsotrYX1HOJsEH8MzUE3DE7lWqfvg&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1792967921438&ot=lRvahDin-ZpONl37peee_g&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&aw_0_1st.playerId=onlineradiobox.com&liveId=6598b70f86344b02b58ce836&propertyName=onlineradiobox.com&propertyType=rss-app&listenerId=tGgCsotrYX1HOJsEH8MzUE3DE7lWqfvg
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-aerostereo-logo.jpg",Radio AEROSTEREO
 https://panel.aerostereo.com:8000/radio.mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-echaran-fuera-demonios-alabanza-de-guerra-logo.jpg",Radio Echaran Fuera Demonios - Alabanza de guerra
 https://ec2.yesstreaming.net:2695/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-oxigeno-576775-logo.jpg",Radio Oxigeno
-https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/5fab0687bcd6c2389ee9480c/playlist.m3u8?aid=5faaeb72f92d7b07dfe10181&pid=wSqx5hN9K4avpB1JquhZ0o9qHhbAf5Iz&sid=OzNHrXEtZmz8OnZozZ6ArTfRczXIc3By&uid=4ynWpiVWbSPMSYdsFg8I11HbRAJyFsWE&es=us-b4-p-e-pb13-audio.cdn.mdstrm.com&ote=1781973193636&ot=BxSJYwmB94N6LPpUDL8NmQ&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fab0687bcd6c2389ee9480c&listenerId=4ynWpiVWbSPMSYdsFg8I11HbRAJyFsWE
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-super-latina-la-merced-578296-logo.jpg",Radio Super Latina La Merced
-http://corporacionlatina.com:7002/;
+https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/5fab0687bcd6c2389ee9480c/playlist.m3u8?aid=5faaeb72f92d7b07dfe10181&pid=82B85KCPCqjlyvaI7RHuf2fDCXRDYcOX&sid=HSLpuyaxyGgP76hT5ZjNp2CG3B5b3u3e&uid=d72uE0uzzJcdiufvwF1nWPF4AYoKi1G4&es=us-b4-p-e-pb13-audio.cdn.mdstrm.com&ote=1792967925610&ot=WKIikdpz0i9osrdU0RrIXA&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fab0687bcd6c2389ee9480c&listenerId=d72uE0uzzJcdiufvwF1nWPF4AYoKi1G4
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-radio-horizonte-logo.jpg",Radio Horizonte
 https://conectperu.com/8144/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-radio-aroma-del-cielo-logo.jpg",Radio Aroma Del Cielo
@@ -288,23 +264,13 @@ https://sonicpanel.zonaradio.net/8050/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-radio-virus-logo.jpg",Radio Virus
 https://sp.onliveperu.com/8158/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-latarima-radio-logo.jpg",Latarima Radio
-https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/5fada54116646e098d97e6a5?aid=5faaeb72f92d7b07dfe10181&pid=OscNvzn0Kd2G80FK5ipRLBQQBirtyKgj&sid=fPF77AOttzKB8lmWQvzZ0vG14MBL2RDh&uid=2BpOi2NLbWZcEqw0usExqaczCdbA0iVp&es=us-b4-p-e-zs14-audio.cdn.mdstrm.com&ote=1781973200856&ot=XWRezdKjGkGMOof0dj4xfg&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada54116646e098d97e6a5&listenerId=2BpOi2NLbWZcEqw0usExqaczCdbA0iVp
+https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/5fada54116646e098d97e6a5?aid=5faaeb72f92d7b07dfe10181&pid=rgJeQbQegAxiILch870ve9tMZ50GD4Gg&sid=o7NuqFLVgtaKo0TeyGYOR3uYLhaZIWBk&uid=7a1BHOXmR6yBOaFIDxp9V3dMR0qaNopR&es=us-b4-p-e-pb13-audio.cdn.mdstrm.com&ote=1792968803390&ot=oTLDJ7_NgOSEJQUU_J0Eew&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada54116646e098d97e6a5&listenerId=7a1BHOXmR6yBOaFIDxp9V3dMR0qaNopR
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-poprock-classic-logo.jpg",Radio Poprock Classic
 https://music.poprockenlinea.com/listen/poprock/radio.mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-planeta99-logo.jpg",Radio Planeta99
 https://sonicpanel.us:8064/stream
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-radio-tropikana-logo.jpg",Radio Tropikana
-https://tupanel.info:9930/;stream.nsv
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-radio-soul-songs-logo.jpg",Radio Soul Songs
-https://live.radiorockhits.com/listen/radiosoulsongs/radio.mp3
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-radio-titanka-logo.jpg",Radio Titanka
-https://tupanel.info:8480/;stream.nsv
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-radio-titanka-andahuaylas-logo.jpg",Radio Titanka - Andahuaylas
-https://tupanel.info:8920/;stream.nsv
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-reina-de-la-selva-logo.jpg",Radio Reina de la Selva
-http://tupanel.info:8244/;
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-sin-mordaza-logo.jpg",Radio Sin Mordaza
-https://radio.livestreamingmundial.com/8346/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-rock-and-rally-radio-logo.jpg",Rock and Rally Radio
+https://servistream.info:8384/stream?icy=http
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-radio-otifer-logo.jpg",Radio Otifer
 https://mediastreamm.com/8110/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-radio-mega-mix-siempre-va-con-tigo-logo.jpg",Radio Mega Mix siempre va con tigo
@@ -314,7 +280,7 @@ https://sp.oyotunstream.com:7004/;stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-rpp-mundial-logo.jpg",Radio RPP Mundial
 https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/5faee885eb830d06cf22ed4a
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-radio-mega-mix-logo.jpg",Radio Mega Mix
-https://us-b4-p-e-ml19-audio.cdn.mdstrm.com/live-audio-aw/5fada56fe4e09508207a7951?aid=5faaeb72f92d7b07dfe10181&pid=AZsF638Py1nJKnYYjHtKoWBkEVY7dbdz&sid=x5rFTwEpv0nUhKamcXVAtW0VDI9WUaRH&uid=dvdZv9ByZdmx5NnvnHQcOlIR28byYTCE&es=us-b4-p-e-ml19-audio.cdn.mdstrm.com&ote=1781973208884&ot=Py60otcJg0kfCVj1EvjJCg&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada56fe4e09508207a7951&listenerId=dvdZv9ByZdmx5NnvnHQcOlIR28byYTCE
+https://us-b4-p-e-jn18-audio.cdn.mdstrm.com/live-audio-aw/5fada56fe4e09508207a7951?aid=5faaeb72f92d7b07dfe10181&pid=ENzfleHjxbaQet6chSh060iGzFPlCbQp&sid=TyfcgW0ws0Fssw7Czt6i70YDSOMmgy09&uid=BZFrplY8H4z8p0q5lyi91JAWHkQaSJCo&es=us-b4-p-e-jn18-audio.cdn.mdstrm.com&ote=1792969653921&ot=z0ViMtGrR5iIJIU8yXoZeQ&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada56fe4e09508207a7951&listenerId=BZFrplY8H4z8p0q5lyi91JAWHkQaSJCo
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-stereo-33-logo.jpg",Radio Stereo 33
 https://maximacenterdata.com/8092/STEREO33
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-radio-khaos-logo.jpg",Radio Khaos
@@ -327,18 +293,10 @@ https://maximacenterdata.com/8120/stream
 https://dattavolt.com/8164/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-radio-moderna-logo.jpg",Radio Moderna
 https://radio.transmite.pe/8020/stream/;type=mp3
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-radio-studiovraem-cusco-logo.jpg",Radio StudioVraem - Cusco
-https://radio.livestreamingmundial.com:7013/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-radio-tabocas-mix-logo.jpg",Radio Tabocas Mix
 https://sp.onliveperu.com/8092/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-zona-radio-activa-logo.jpg",Zona Radio Activa
 https://tupanel.info:9940/stream
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-radio-milenio-logo.jpg",Radio Milenio
-https://sonic.dattassd.com/9924/steram
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-radio-oasis-mollendo-logo.jpg",Radio Oasis Mollendo
-https://maximacenterdata.com/8132/stream
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-onda-cero-vip-logo.jpg",Radio Onda Cero  Vip
-https://us-b4-p-e-ml19-audio.cdn.mdstrm.com/live-audio-aw/65af09faa17967560a0c8de9?aid=658ddcc0b2c7835d48fee06d&property=onlineradiobox.com&pid=53JxUuT2JyiRogJNhpw3pZmVJHxrS0T9&sid=PchNNuVCGGgls8mN5ins9H7mf7tm6RqE&uid=L7kLgQmFb037eUfYKVy4iiS2DvkJq9ac&es=us-b4-p-e-ml19-audio.cdn.mdstrm.com&ote=1781973210362&ot=_qJXPaWQDRX3XPU1pBBJdg&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&aw_0_1st.playerId=onlineradiobox.com&liveId=65af09faa17967560a0c8de9&propertyName=onlineradiobox.com&propertyType=rss-app&listenerId=L7kLgQmFb037eUfYKVy4iiS2DvkJq9ac
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-radio-rumbo-la-radio-que-se-ve-logo.jpg",Radio Rumbo La Radio Que Se Ve
 https://mediastreamm.com/8008/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-metropolitana-591273-logo.jpg",Radio Metropolitana
@@ -351,6 +309,8 @@ https://conectperu.com/8122/stream
 https://panelautodj.innovatestream.pe/8254/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-radio-la-voz-del-sur-moquegua-logo.jpg",Radio la VOZ del SUR Moquegua
 https://sonicpanel.us:8102/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-radio-disco-plus-senal-de-poder-logo.jpg",Radio Disco Plus - ¡Señal de Poder.!!!
+https://streaming.servernorte.com/8146/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-radio-eco-logo.jpg",Radio Eco
 https://server.streamingradios.net:8110/radio.mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-supermix-juanjui-logo.jpg",Radio supermix juanjui
@@ -376,23 +336,25 @@ https://sonicpanel.tmcreativos.com/8010/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-rcm-radio-cristo-en-mi-logo.jpg",RCM - Radio Cristo en Mí
 https://radio.andaina.net/8052/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-radio-onda-cero-leyendas-logo.jpg",Radio Onda Cero Leyendas
-https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/6598b7aa2d0a19028625b2a7?aid=658ddcc0b2c7835d48fee06d&property=onlineradiobox.com&pid=eyLGe1Klhn0Bx7hw4vnadBBMLk4pUmc5&sid=Zo9kR8tIvwKmr5pDwPO87MbSv8QPwkfU&uid=qs9Hv7hQ5tCgjrEBG1fDlFBpjUy5vAkM&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1781973213953&ot=FvtM87GBW46NCghUFMQMdQ&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&aw_0_1st.playerId=onlineradiobox.com&liveId=6598b7aa2d0a19028625b2a7&propertyName=onlineradiobox.com&propertyType=rss-app&listenerId=qs9Hv7hQ5tCgjrEBG1fDlFBpjUy5vAkM
+https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/6598b7aa2d0a19028625b2a7?aid=658ddcc0b2c7835d48fee06d&property=onlineradiobox.com&pid=pjmFEglcncOMIW26XMeI9Ul2DoP8Nm82&sid=hE5OMY3bNgZRct53ZP98T9xbaJpLFxjQ&uid=JKxAEtgYyuaTjSqmEqTQk1fsU4yZCsJW&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1792970634825&ot=jsBzKdCmT3LpmkZj7PImuA&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&aw_0_1st.playerId=onlineradiobox.com&liveId=6598b7aa2d0a19028625b2a7&propertyName=onlineradiobox.com&propertyType=rss-app&listenerId=JKxAEtgYyuaTjSqmEqTQk1fsU4yZCsJW
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-radio-panamericana-salsa-power-logo.jpg",Radio Panamericana - Salsa Power
-https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/6598b751261d9e088a6deadd?aid=658ddcc0b2c7835d48fee06d&property=onlineradiobox.com&pid=25LhV11oFi2cgXSsl5pvZeqnG9kqYvdz&sid=QhvjwEaM9KojB3ISd8nERAWFz39ZuSwQ&uid=TLa1Vb94E1rMry2RiARSQk34cn3ujL1P&es=us-b4-p-e-qg12-audio.cdn.mdstrm.com&ote=1781973214024&ot=b1XuU8WDNTcTZngy0LNCqg&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&aw_0_1st.playerId=onlineradiobox.com&liveId=6598b751261d9e088a6deadd&propertyName=onlineradiobox.com&propertyType=rss-app&listenerId=TLa1Vb94E1rMry2RiARSQk34cn3ujL1P
+https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/6598b751261d9e088a6deadd?aid=658ddcc0b2c7835d48fee06d&property=onlineradiobox.com&pid=5nImCp3kL5oa3pgPXKDVvq7fQbkYYgDt&sid=hyoEZfMcLvOEveiO7fSMsEHa8mZ8X8l7&uid=qRKZEq5JOujlCSF7dAsjnCOknYT0SwOw&es=us-b4-p-e-qg12-audio.cdn.mdstrm.com&ote=1792970634886&ot=uQcfRmg4nkQZqIA9WPd_Ag&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&aw_0_1st.playerId=onlineradiobox.com&liveId=6598b751261d9e088a6deadd&propertyName=onlineradiobox.com&propertyType=rss-app&listenerId=qRKZEq5JOujlCSF7dAsjnCOknYT0SwOw
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-radio-upn-logo.jpg",Radio UPN
+https://panelautodj.innovatestream.pe:10984/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-radio-synthpop-logo.jpg",Radio Synthpop
 https://radio.blueditor.com/8250/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-radio-la-cheverisima-logo.jpg",Radio La Cheverísima
 https://sp.onliveperu.com/8114/stream/;type=mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-radio-retro-ilo-logo.jpg",Radio Retro Ilo
 https://sp.dattavolt.com/8094/stream
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-radio-cantena-989-fm-te-encanta-logo.jpg",Radio Canteña 98.9 FM – Te Encanta
-https://streamlive2.hearthis.at:8000/10150921.ogg
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-radio-exito-979-fm-logo.jpg",Radio Exito 97.9 FM
 https://nazca.globalhost1.com/8030/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-la-rueda-logo.jpg",Radio La Rueda
 https://conectperu.com/8508/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-elochenterocom-logo.jpg",Radio ElOchentero.com
 https://stream.cajamarcahost.com/8154/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-riberenos-nauta-logo.jpg",Radio Ribereños Nauta
+https://server.streamingradios.net:8116/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-radio-sintonia-la-q-pega-bien-logo.jpg",Radio Sintonia - La Q pega Bien
 https://sonic.globalstream.pro/8112/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-radio-sucre-1005-fm-logo.jpg",Radio Sucre 100.5 Fm
@@ -406,7 +368,9 @@ https://radios.medialive.stream:7013/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-radio-kilowatt-logo.jpg",Radio Kilowatt
 https://mediastreamm.com/8036/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-armonia-10-radio-logo.jpg",Armonía 10 Radio
-https://antenapiura.stream.laut.fm/antenapiura?t302=2026-06-19_16-33-38&uuid=04903cc1-152f-4b72-9179-bb9811c13abb
+https://antenapiura.stream.laut.fm/antenapiura?uuid=b7b00b48-992c-ac57-8a8a-f8a8ae2273d6&t302=2026-10-25_01-35-58
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-radio-techno-mix-logo.jpg",Radio Techno Mix
+https://servistream.info:8386/stream?icy=http
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-latinpop-logo.jpg",Radio LatinPOP
 https://music.poprockenlinea.com/listen/latin/radio.mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-stereo-tv-tarapoto-logo.jpg",Radio Stereo Tv - Tarapoto
@@ -421,11 +385,11 @@ https://panel.foxradios.com:8020/live
 https://radios.blumhost.es/8014/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-radio-ondas-del-misti-logo.jpg",Radio Ondas Del Misti
 https://maximacenterdata.com/8124/stream
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-emanuel7tv-logo.jpg",Radio Emanuel7tv
-https://stmv6.voxtvhd.com.br/emanueltv/emanueltv/playlist.m3u8
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/top-latino-153979-logo.jpg",Radio Top Latino
 http://online.radiodifusion.net:8028/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/planeta-radio-peru-567864-logo.jpg",Planeta Radio (Peru)
 https://www.oigo.com/planeta/radioenvivo/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/studio-lazer-648965-logo.jpg",Radio Studio Lazer
+https://www.radiojar.com/g/404/
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-central-mix-del-peru-604517-logo.jpg",Radio Central Mix Del Perù
 http://oyotunstream.com:60004/;

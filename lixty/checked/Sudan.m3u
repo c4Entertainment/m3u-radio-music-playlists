@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tv-logo="",Radio SRTC Wadi
-http://www.sudanradio.info/media/wadi/
-#EXTINF:-1 tv-logo="",Radio SRTC Salam
-http://www.sudanradio.info/media/media2/
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/alsiyada-625487-logo.jpg",Radio Alsiyada
 https://a2.asurahosting.com:6790/southsudan.mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/sd-radio-samar-logo.jpg",RADIO SAMAR
@@ -23,5 +19,3 @@ https://a2.asurahosting.com:6790/sudan.mp3
 https://a10.asurahosting.com:7660/sudan.mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/sd-radio-south-sudan-logo.jpg",radio south sudan
 https://stream2.svrdedicado.org/8056/stream
-#EXTINF:-1 tv-logo="",Radio SRTC Quran
-http://www.sudanradio.info/media/quran/

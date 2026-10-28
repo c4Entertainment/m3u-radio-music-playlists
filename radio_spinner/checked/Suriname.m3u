@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/56072/logo_9qNiiO3gRJ.png",Surja Vibes Radio
 https://s5.radio.co/s1735f3c1d/listen
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/56082/logo_KVKYILQlOk.png",Stream Chutney FM 100.1 Radio
-https://rs.cloued.com/listen/radio_boss/radio.mp3
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/56071/logo_1dHmvWGl82.png",NIO FM 107.5 - Feel The Music Radio
 https://niofm.beheerstream.nl:8060/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/56062/logo_E8J3SZizX4.png",Radio Shruti
@@ -13,8 +11,6 @@ https://ec5.yesstreaming.net:1480/live
 https://s5.radio.co/s85a633f73/listen
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/56079/logo_P9Pss4ixw3.png",Antenna Web Paramaribo Radio
 https://halo.streamerr.co/listen/italiavera/stream.mp3
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/56076/logo_80ZVQRTXde.png",Surinet radio - The sound of the nation!
-https://surinetradio.beheerstream.nl:8066/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/56077/logo_Ht8WJfhUjt.png",FM.sr Suripop Radio - Powered by SrananRadio.com
 https://my.surilive.com/listen/suripop/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/56058/logo_sNB0iHJqYa.png",TRISHUL BROADCASTING NETWORK Radio
@@ -35,11 +31,15 @@ https://rs.suricloud.com/radio/8010/radio.mp3
 https://surilive.com:8340/
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/56060/logo_BbopnbkAFd.png",Radio SRS Suriname - Powered by SuriLive.com
 https://surilive.com:8060/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/56061/logo_tk7W4whnVL.png",SMOOTH FM Radio
+https://video1.getstreamhosting.com:8340/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/56066/logo_twZJ5MaIjV.png",Apintie Suriname - Powered by Bombelman.com Radio
 https://surilive.com:8000/
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/56059/logo_44946SUl0L.png",Radio ABC Suriname 101.7 - Powered by Bombelman.com
 https://surilive.com:8020/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/56067/logo_TKucA18dtt.png",Radio 9 Suriname
 https://rs.suricloud.com/radio/8060/radio.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/56069/logo_cAzMHcPUG9.png",Radio Immanuël 95.9 Suriname - Powered by Bombelman.com
+https://surilive.com:8030/
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/56054/logo_0fbgxsMKGU.png",RP ACME Radio
 https://audio-edge-es6pf.mia.g.radiomast.io/d7e8093b-6a7e-4442-a096-37f259cb7092

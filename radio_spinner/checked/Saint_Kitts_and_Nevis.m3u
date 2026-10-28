@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/86480/logo_c2mdSyB5zV.png",ZIZ Radio
 https://media.slactech.com:8014/stream
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/86483/logo_k6IFIymR1f.png",Freedom FM Radio
-https://media.slactech.com:8012/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/103360/logo_TR1l5cdTIh.png",CENTRALPRAISE SKB Radio
 https://radio.vousstream.com/8002/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/86487/logo_wIw4ICJHjh.png",Sugar City FM 90.3 Radio

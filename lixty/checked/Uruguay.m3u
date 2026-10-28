@@ -1,36 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/uy-brava-fm-logo.jpg",Radio Brava FM
-https://fmbrava-2.nty.uy/
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/uy-cw33-la-nueva-1200-am-radio-florida-logo.jpg",CW33 La Nueva 1200 AM Radio Florida
-https://streaming1.hostingmontevideo.com:7017/;stream.mp3
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/oceano-fm-183891-logo.jpg",Radio Oceano FM
-https://oceano-2.nty.uy/
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/uy-fm-hit-903-logo.jpg",Radio FM HIT 90.3
-https://hit-1.nty.uy/stream
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/uy-clarin-am580-logo.jpg",Radio Clarin AM580
-https://radioclarin-zikoxweb.radioca.st/stream
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/uy-universal-970-am-logo.jpg",Radio Universal 970 AM
-https://970universal-3.nty.uy/;
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/uy-metropolis-fm-logo.jpg",Radio Metrópolis FM
-https://metropolis-web-1.nty.uy/
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/uy-am550-logo.jpg",Radio AM550
-https://24493.live.streamtheworld.com/COLONIA_ADP.aac?dist=onlineradiobox
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-san-salvador-567535-logo.jpg",Radio San Salvador
-http://server-uk1.radioseninternet.net:8270/;
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/uy-cx46-radio-america-logo.jpg",CX46 Radio America
-https://america-2.nty.uy/stream
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/uy-difusora-rochense-logo.jpg",Radio Difusora Rochense
-https://rochense-1.nty.uy/
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/uy-senal-zoe-logo.jpg",Radio Senal Zoe
-https://sp.unoredcdn.net/8012/stream
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-rural-156735-logo.jpg",Radio Rural
-https://radiolatina.live/9206/stream
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/emisora-principal-591285-logo.jpg",Radio Emisora Principal
-https://s7.myradiostream.com/:10764/listen.mp3
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/uy-ciudad-de-melo-fm-logo.jpg",Radio Ciudad de Melo FM
-https://rr5100.globalhost1.com/8454/stream
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/uy-montevideo-night-radio-on-line-logo.jpg",Montevideo Night Radio On line
-https://radio13.servidorderadio.net/8094/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/uy-diamante-fm-logo.jpg",Radio Diamante FM
 http://radiolatina.live:8058/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/difusora-treinta-y-tres-589507-logo.jpg",Radio Difusora Treinta y Tres
@@ -111,6 +79,8 @@ https://sonic.sistemahost.es/8022/stream
 https://server-usa2.radioseninternet.net:10979/;stream.nsv
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/uy-rhumor-radio-logo.jpg",Rhumor Radio
 https://servidor29-1.brlogic.com:7026/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/uy-radio-senales-logo.jpg",Radio Señales
+https://radios.iwstreaming.uy/8002/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/uy-recital-radio-logo.jpg",Recital Radio
 https://recital-zikoxweb2.radioca.st/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/uy-tacuaremboradio-955-fm-logo.jpg",Tacuaremboradio  95.5 FM
@@ -139,6 +109,8 @@ https://server-usa2.radioseninternet.net/8074/stream
 https://streaming1.hostingmontevideo.com/8034/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/uy-vivi-fm-897-logo.jpg",Radio Vivi Fm 89.7
 https://sslstream.online/8038/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/uy-ramcer-fm-logo.jpg",Radio Ramcer Fm
+https://strm112.1.fm/spanishparty_mobile_mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/uy-mci-radio-uruguay-logo.jpg",MCI Radio Uruguay
 http://panel.lifestreammedia.net:8130/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/uy-nemesis-radio-logo.jpg",Némesis Radio
@@ -147,8 +119,6 @@ https://c21.radioboss.fm/stream/171
 https://sonicpanel.oficialserver.com:7184/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/uy-onda-marina-1063-fm-logo.jpg",Radio Onda Marina 106.3 FM
 https://marina-2.nty.uy/
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/uy-lovecrm-logo.jpg",Radio LoveCRM
-http://srv10.ipstm.net:44386/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/uy-radio-uno-montevideo-logo.jpg",Radio Uno Montevideo
 https://radiounom-zikoxweb2.radioca.st/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/uy-al-rojo-vivo-logo.jpg",Radio Al Rojo Vivo
@@ -167,8 +137,10 @@ https://radio11.servidorderadio.net/8090/stream
 https://s1.radiosenialesfm.com:8030/radio.mp3
 #EXTINF:-1 tv-logo="",Radio Acegua FM - 90.3
 http://stream.aceguafm.com/aceguafm
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/casupa-fm-603947-logo.jpg",Radio Casupa fm
-http://stm1.ifantasy.com.br:7256/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/psyradio-alternative-579737-logo.jpg",PsyRadio Alternative
+http://streamer.psyradio.org:8040/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/psyradio-psytrance-567735-logo.jpg",PsyRadio PsyTrance
+http://streamer.psyradio.org:8030/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-cien-174837-logo.jpg",Radio Cien
 http://radios-online.info:3290/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-hit-588193-logo.jpg",RADIO HIT

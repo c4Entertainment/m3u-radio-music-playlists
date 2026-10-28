@@ -5,26 +5,22 @@ http://162.244.80.118:3024/stream.mp3
 https://imob.dunyanews.tv/live/rddaudrgn.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/83734/logo_EwnuNXIALg.png",Radio Pak Filmi
 http://74.91.125.187:8214/stream/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/83751/logo_GyuPLt7itV.png",Fm 100 Pakistan Radio
+https://cast4.servcast.net/proxy/karachi/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/83749/logo_lsZ3vD39dH.png",NCAC Radio
 https://whmsonic.radio.gov.pk:7004/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/83813/logo_TLPkjvOk6M.png",NCS MUSIC Radio
 http://178.33.135.244:2528/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/83744/logo_qxYmZTFuIG.png",Awam Fm 94 Khushab Radio
 https://server.mediacast4u.stream/8010/stream
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/83765/logo_BvPdrDck6d.png",Quran Internet Radio
-http://philae.shoutca.st:8222/Quran
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/83773/logo_u48zI7ZMHQ.png",FunCafe Radio
 https://radio.fun.cafe/radio/8800/radio.mp3
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/83808/logo_un7vUUzpch.png",Shopen Anime Radio Station
 https://s97.radiolize.com:8040/radio.mp3
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/83750/logo_ukR0SeivsQ.png",Pakistanlivefm Radio
-https://sonic01.instainternet.com:7012/
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/83815/logo_l5nRhhuNT4.png",Djlive Radio
-https://free.rcast.net/71089
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/83777/logo_BxdPXHwAy9.png",Radio Pakistan Peshawar
 https://whmsonic.radio.gov.pk:8072/relay
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/83756/logo_5ScPmK3O7B.png",Naat Internet Radio
-http://philae.shoutca.st:8640/naat
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/83788/logo_ujpdLmU8GS.png",Radio Awaz
+http://fusion.shoutca.st:8128/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/83739/logo_RHJSR49U1V.png",World Service Radio
 https://whmsonic.radio.gov.pk:7005/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/83775/logo_JKXyzxWobY.png",FM 93 Rawalpindi Radio
@@ -33,6 +29,8 @@ https://whmsonic.radio.gov.pk:8036/relay
 https://whmsonic.radio.gov.pk:7008/stream?type=http&ampnocache=12
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/83771/logo_TyVaq30gNE.png",Islamabad Station Radio
 https://whmsonic.radio.gov.pk:7003/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/83769/logo_0RyYj1U0eV.png",Hot FM 105 Badin Radio
+http://172.93.237.106:8038/
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/83798/logo_q8g5P3UHEV.png",Hum FM 106 Radio
 https://server.mediacast4u.stream/8002/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/83782/logo_WKETzh8Xg3.png",FM-93-Faisalabad Radio
@@ -49,6 +47,8 @@ https://whmsonic.radio.gov.pk:7006/stream
 https://whmsonic.radio.gov.pk:8048/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/83795/logo_nA1fjlDn6k.png",Samaa FM 107.4 Radio
 https://samaastt107-itelservices.radioca.st/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/83793/logo_fWFzczX4lg.png",MERA FM 107.4 Radio
+https://samaapew107-itelservices.radioca.st/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/83780/logo_rX588RbxT4.png",FM 101 Quetta Radio
 https://whmsonic.radio.gov.pk:7008/
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/83738/logo_Ic2isBowmM.png",MERA FM 107.4 Radio
@@ -67,6 +67,8 @@ https://whmsonic.radio.gov.pk:7007/stream?type=http&ampnocache=12
 https://whmsonic.radio.gov.pk:8024/relay
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/83776/logo_2CF8ymk8BH.png",FM 101 Lahore Radio
 https://whmsonic.radio.gov.pk:7000/101lahore
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/83800/logo_pPNI70k9ne.png",Sindh Police FM 88.6 Radio
+https://sindhpolice-awazradionetwork.radioca.st/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/83796/logo_P2q0jKKio3.png",Samaa FM 107.4 Radio
 https://samaabwp107-itelservices.radioca.st/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/83737/logo_Ar0tw1SIyG.png",Saut Ul Quran Radio

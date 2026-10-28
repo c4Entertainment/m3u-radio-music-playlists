@@ -2,13 +2,13 @@
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/mw-radio-maria-logo.jpg",Radio Maria
 http://dreamsiteradiocp.com:8040/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/zodiak-radio-582919-logo.jpg",Zodiak Radio
-https://radio.securenetsystems.net/v5/index.cfm?CFID=5acab66b-040e-4ad9-8172-eff858676eb4&CFTOKEN=0&stationCallSign=0079
+https://radio.securenetsystems.net/v5/index.cfm?CFID=5634ebb4-f844-4f89-a50e-51e100bc59a2&CFTOKEN=0&stationCallSign=0079
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/mw-ei-radio-logo.jpg",EI Radio
 https://play.streamafrica.net/eiradio
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/mw-blantyre-synod-radio-logo.jpg",Blantyre Synod Radio
 https://host2.streamafrica.net/listen/blantyre_synod_radio/radio.mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/mw-hitz-radio-malawi-logo.jpg",Hitz Radio Malawi
-https://play.streamafrica.net/hitz
+https://radio.exclusivemw.live/listen/hitz_radio/radio.mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/mw-radio-tigabane-logo.jpg",Radio Tigabane
 https://play.streamafrica.net/radiotigabane
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/mw-mobischool-logo.jpg",Radio MobiSchool
@@ -20,15 +20,15 @@ https://host2.streamafrica.net/listen/vol/radio.mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/mw-times-radio-malawi-logo.jpg",Times Radio Malawi
 https://streamdb00web.securenetsystems.net/cirrusencore/TIMESFM
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/mw-beyond-fm-malawi-logo.jpg",Radio Beyond FM Malawi
-https://radio.exclusivemw.live/listen/rukuru_live/radio.mp3
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mw-angaliba-fm-afm-logo.jpg",Radio Angaliba FM (AFM)
-https://radio.exclusivemw.live/listen/angaliba_fm/radio.mp3
+https://radio.exclusivemw.live/listen/beyond_fm/beyond.mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/mw-love-fm-logo.jpg",Radio Love FM
 https://radio.exclusivemw.live/listen/love_fm/radio.mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/mw-twr-malawi-logo.jpg",Radio TWR Malawi
 https://host2.streamafrica.net/listen/twr_malawi/radio.mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/mw-djs-on-mlatho-radio-logo.jpg",Dj's on Mlatho Radio
 https://streams.radio.co/sd1bcd1376/listen?
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mw-radio-alinafe-archdiocese-of-lilongwe-logo.jpg",Radio Alinafe Archdiocese Of Lilongwe
+https://radio.exclusivemw.live/listen/radio_alinafe_/radio.mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/mw-yetu-radio-logo.jpg",Yetu Radio
 https://host2.streamafrica.net/listen/yetu_radio/radio.mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/mw-kuwala-fm-logo.jpg",Radio Kuwala FM
@@ -42,33 +42,11 @@ https://play.streamafrica.net/story
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/mw-hosanna-fm-logo.jpg",Radio Hosanna FM
 https://play.streamafrica.net/hosanna
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/mw-kukaya-radio-logo.jpg",Kukaya Radio
-https://play.streamafrica.net/kukaya
+https://radio.exclusivemw.live/listen/kukaya_radio/radio.mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/mw-hope-education-radio-logo.jpg",Hope Education Radio
 https://play.streamafrica.net/hope
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/mw-moyo-fm-logo.jpg",Radio Moyo FM
 https://play.streamafrica.net/moyofm
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mw-nyungwe-fm-logo.jpg",Radio Nyungwe FM
-https://play.streamafrica.net/nyungwefm
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mw-nathenje-fm-radio-station-logo.jpg",Nathenje Fm Radio Station
-https://servidor19.brlogic.com:7168/live
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mw-z-radio-logo.jpg",Z-Radio
-https://radio.exclusivemw.live/listen/z_radio/radio.mp3
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mw-jesus-247-fm-logo.jpg",Radio Jesus 24/7 FM
-https://radio.exclusivemw.live/listen/jesus_247/radio.mp3
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mw-hero-radio-malawi-logo.jpg",HERO RADIO (MALAWI)
-https://a2.asurahosting.com:6790/malawi.mp3
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mw-luntha-logo.jpg",Radio Luntha
-https://play.streamafrica.net/luntha
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mw-mzika-voice-fm-logo.jpg",Radio Mzika Voice FM
-https://radio.exclusivemw.live/listen/mzika_voice/radio.mp3
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mw-chanco-community-radio-logo.jpg",Chanco Community Radio
-https://live.netradio.pro/listen/chanco/radio.mp3
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mw-balaka-community-radio-logo.jpg",Balaka Community Radio
-https://radio.exclusivemw.live/listen/balaka_community_radio/radio.mp3
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mw-wazilinda-fm-logo.jpg",Radio Wazilinda FM
-https://play.streamafrica.net/wazilinda
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mw-mzimba-central-sda-radio-logo.jpg",MZIMBA CENTRAL SDA RADIO
-https://play.streamafrica.net/mzimbasda
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/mw-antenna-web-lilongwe-logo.jpg",Radio Antenna Web Lilongwe
 https://halo.streamerr.co/listen/italiavera/stream.mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/mw-mizwanya-fm-logo.jpg",Radio Mizwanya FM

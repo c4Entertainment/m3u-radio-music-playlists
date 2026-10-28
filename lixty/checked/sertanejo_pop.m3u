@@ -7,8 +7,8 @@ http://sd.dnip.com.br:11790/;
 http://rvn01.painelstream.net:9282/live
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-explosao-fm-583765-logo.jpg",Radio Rádio Explosão FM
 http://radio01.logicahost.com.br:8387/;
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-sucesso-fm-salvador-587275-logo.jpg",Radio Rádio Sucesso FM (Salvador)
-https://live.dgradios.com/sucessofmsalvador
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-sim-fm-vitoria-586977-logo.jpg",Radio Rádio SIM FM (Vitória)
+http://stm7.painelvox.com:8136/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-nativa-fm-novo-horizonte-587483-logo.jpg",Radio Rádio Nativa FM (Novo Horizonte)
 http://streaming10.hstbr.net:8154/live
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-gerais-fm-588609-logo.jpg",Radio Rádio Gerais FM

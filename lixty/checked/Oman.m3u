@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hi-fm-171494-logo.jpg",Radio HI FM
-http://s8.viastreaming.net:7200/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/hala-fm-578578-logo.jpg",Radio Hala FM
 https://listen-halafm.sharp-stream.com/halafmmid.mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/om-hi-fm-oman-logo.jpg",Radio Hi FM Oman
